@@ -6,7 +6,7 @@ header:
   overlay_color: "#1a1a2e"
   overlay_filter: 0.5
   tagline: "Turn your data into decisions."
-excerpt: "Freelance data scientist based in Birmingham, AL — helping small businesses use their data to grow smarter."
+excerpt: "Freelance data science and research consulting based in Birmingham, AL — helping small businesses and researchers use their data to grow smarter."
 ---
 
 ## Hey, I'm John.
@@ -34,6 +34,9 @@ Have a specific question you need answered with data? I can dig in and give you 
 **Healthcare & Claims Analytics** *(specialty)*  
 Deep experience with Medicare quality improvement, EHR data, prior authorization data, and clinical program ROI analysis.
 
+**Research Consulting**  
+Literature reviews, study design, survey design, and grant or manuscript support for researchers and small organizations.
+
 ---
 
 ## Why Work With Me?
@@ -50,4 +53,4 @@ Deep experience with Medicare quality improvement, EHR data, prior authorization
 The best first step is a free 30-minute call. We'll talk about your data, your questions, and whether I'm a good fit to help.
 
 [📅 Book a Free Call](mailto:macdelay@gmail.com){: .btn .btn--primary .btn--large}
-[🔗 View My Portfolio](https://jmdelay.github.io/Rfolio/){: .btn .btn--inverse .btn--large}
+[🔗 View My Portfolio](/portfolio/){: .btn .btn--inverse .btn--large}

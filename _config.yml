@@ -2,12 +2,13 @@
 title: "John DeLay"
 subtitle: "Data Scientist for Hire"
 name: "John DeLay"
-description: "Freelance data scientist helping small businesses unlock insights from their data — forecasting, dashboards, modeling, and more."
+description: "Freelance data science and research consulting for small businesses — forecasting, dashboards, modeling, and research support."
 url: "https://jmdelay.github.io"
 baseurl: ""
 repository: "jmdelay/jmdelay.github.io"
 
 # Build settings
+include: ["_pages"]
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-remote-theme
@@ -28,20 +29,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/johndelay-7741b7124"
-    - label: "Portfolio"
-      icon: "fas fa-fw fa-chart-bar"
-      url: "https://jmdelay.github.io/Rfolio/"
-
-# Navigation
-navigation:
-  - title: "About"
-    url: /
-  - title: "Services"
-    url: /services/
-  - title: "Portfolio"
-    url: https://jmdelay.github.io/Rfolio/
-  - title: "Contact"
-    url: /contact/
 
 # Defaults
 defaults:
