@@ -15,9 +15,12 @@ Selected data science and research consulting projects.
 **Nonprofit client** — poverty alleviation impact measurement  
 *Optional: link to report or summary*
 
-The organization needed evidence of program impact for funders and board reporting but had no structured way to collect or analyze outcomes. I designed a survey (questions, sampling, and distribution), cleaned and analyzed the responses, and produced a concise impact report with key metrics and narrative. The client used the report in grant applications and annual reporting.
+The organization needed evidence of program impact for funders and board reporting but had no structured way to collect or analyze outcomes. I designed a survey (questions, sampling, and distribution), cleaned and analyzed the responses, and produced a concise impact report with key metrics and narrative.
+
+**Outcome:** *[Add concrete results when available — e.g. report used in grant applications, board adopted metrics for reporting.]*
 
 ---
+
 
 ## Clinic marketing campaign impact
 
@@ -26,4 +29,8 @@ The organization needed evidence of program impact for funders and board reporti
 
 The clinic had run a targeted marketing campaign and wanted to know whether it actually moved the needle: Did patient volume and mix change in a meaningful way, or could the observed changes be due to seasonality or chance? I analyzed before/after volume and patient demographics, tested for statistically meaningful shifts, and summarized the results in plain language so leadership could decide whether to scale or adjust the approach.
 
-[Get in touch](/contact/){: .btn .btn--primary}
+**Outcome:** *[Add concrete results when available — e.g. leadership decision to scale or adjust campaign, or quantified change in volume/composition.]*
+
+[Book a free 30-minute call](/contact/){: .btn .btn--primary .btn--large}
+
+[Contact](/contact/){: .btn .btn--inverse}

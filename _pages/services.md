@@ -44,4 +44,6 @@ I also support researchers and small organizations with **research consulting** 
 
 Engagements can be one-off (a single analysis or report) or ongoing (e.g. monthly dashboards or recurring analyses). The best first step is a free 30-minute call to discuss your data, your questions, and whether I’m a good fit.
 
-[Get in touch](/contact/){: .btn .btn--primary}
+[Book a free 30-minute call](/contact/){: .btn .btn--primary .btn--large}
+
+[Contact](/contact/){: .btn .btn--inverse}

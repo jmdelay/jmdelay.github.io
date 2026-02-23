@@ -94,6 +94,6 @@ I take on a small number of clients at a time. That's not a sales tactic — it'
 
 If you recognize yourself anywhere on this page, it's worth a conversation.
 
-[Book a Free 30-Minute Call](mailto:macdelay+llc@gmail.com){: .btn .btn--primary .btn--large}
+[Book a free 30-minute call](/contact/){: .btn .btn--primary .btn--large}
 
-[Contact](/contact/){: .btn}
+[Contact](/contact/){: .btn .btn--inverse}

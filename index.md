@@ -48,9 +48,17 @@ Literature reviews, study design, survey design, and grant or manuscript support
 
 ---
 
+## Background & partnerships
+
+I've worked as a data scientist at a **Fortune 500 financial institution** and at **two growing national healthcare analytics companies**, and I've contributed to **leading research journal publications**. I've partnered with local clinics, labs, nonprofits, and small business leaders.
+
+*[Placeholder: Add a short testimonial or additional social proof when available — e.g. client quote, publication citation, or "As seen in" line.]*
+
+---
+
 ## Let's Talk
 
 The best first step is a free 30-minute call. We'll talk about your data, your questions, and whether I'm a good fit to help.
 
-[📅 Book a Free Call](mailto:macdelay+llc@gmail.com){: .btn .btn--primary .btn--large}
-[🔗 View My Portfolio](/portfolio/){: .btn .btn--inverse .btn--large}
+[Book a free 30-minute call](/contact/){: .btn .btn--primary .btn--large}
+[View My Portfolio](/portfolio/){: .btn .btn--inverse .btn--large}
