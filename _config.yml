@@ -21,11 +21,8 @@ author:
   avatar: "/assets/images/bio-photo.jpg"  # add your photo here
   bio: "Data scientist with experience in healthcare & financial services. I help small businesses make smarter decisions with their data."
   location: "Birmingham, AL"
-  email: "macdelay@gmail.com"
+  email: "macdelay+llc@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:macdelay@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/johndelay-7741b7124"

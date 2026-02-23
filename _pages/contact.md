@@ -14,6 +14,6 @@ The best first step is a **free 30-minute call**. We’ll talk about your data, 
 
 **Birmingham, AL** — I work with clients locally and remotely.
 
-[Book a Free Call](mailto:macdelay@gmail.com){: .btn .btn--primary .btn--large}
+[Book a Free Call](mailto:macdelay+llc@gmail.com){: .btn .btn--primary .btn--large}
 
-You can also reach me at **macdelay@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/johndelay-7741b7124).
+You can also reach me at **macdelay+llc@gmail.com** or via [LinkedIn](https://www.linkedin.com/in/johndelay-7741b7124).

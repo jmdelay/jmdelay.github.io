@@ -6,7 +6,7 @@ header:
   overlay_color: "#1a1a2e"
   overlay_filter: 0.5
   tagline: "Turn your data into decisions."
-excerpt: "Freelance data science and research consulting based in Birmingham, AL — helping small businesses and researchers use their data to grow smarter."
+excerpt: "Freelance data science and research consulting based in Birmingham, AL — helping small businesses and nonprofits use their data to work smarter."
 ---
 
 ## Hey, I'm John.
@@ -52,5 +52,5 @@ Literature reviews, study design, survey design, and grant or manuscript support
 
 The best first step is a free 30-minute call. We'll talk about your data, your questions, and whether I'm a good fit to help.
 
-[📅 Book a Free Call](mailto:macdelay@gmail.com){: .btn .btn--primary .btn--large}
+[📅 Book a Free Call](mailto:macdelay+llc@gmail.com){: .btn .btn--primary .btn--large}
 [🔗 View My Portfolio](/portfolio/){: .btn .btn--inverse .btn--large}
