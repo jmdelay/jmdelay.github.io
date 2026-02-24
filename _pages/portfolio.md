@@ -22,6 +22,15 @@ The organization needed evidence of program impact for funders and board reporti
 ---
 
 
+## Birmingham MSA business penetration
+
+**Data analysis** — Census County Business Patterns, NAICS industry mix  
+[Read the post](/2025/02/23/birmingham-msa-business-penetration/)
+
+I compared the Birmingham-Hoover metro’s business penetration (establishments per 10,000 people) by NAICS 3-digit subsector to the aggregate of the 50 most populous U.S. MSAs. The analysis uses the Census CBP API, a shared Python pipeline, and reproducible notebooks; the results are summarized in a blog post with charts and takeaways.
+
+---
+
 ## Clinic marketing campaign impact
 
 **Local healthcare clinic** — campaign evaluation  
