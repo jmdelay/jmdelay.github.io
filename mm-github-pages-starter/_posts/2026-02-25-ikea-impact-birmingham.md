@@ -64,18 +64,7 @@ Not all of Birmingham's furniture retail base is equally exposed. I mapped the s
 
 Rather than publish a single static estimate, I built the model into an interactive Streamlit dashboard so that retailers and consultants can adjust the key assumptions—market pull strength, reach radius, consumer confidence, housing activity—and see the revenue-at-risk calculation update in real time.
 
-<figure style="margin: 1.5em 0;">
-  <iframe
-    src="https://ikea-impact-birmingham.streamlit.app"
-    width="100%"
-    height="700"
-    style="border: 1px solid #e0e0e0; border-radius: 4px;"
-    allowfullscreen>
-  </iframe>
-  <figcaption style="margin-top:0.5em; font-size:0.9em; color:#666;">Interactive IKEA impact forecast tool. Adjust sliders in the sidebar to model different scenarios.</figcaption>
-</figure>
-
-*If the embed does not load, [open the app directly](https://ikea-impact-birmingham.streamlit.app).*
+![Market Impact Dashboard](/assets/images/ikea/dash.jpg)
 
 ## What to do with this
 

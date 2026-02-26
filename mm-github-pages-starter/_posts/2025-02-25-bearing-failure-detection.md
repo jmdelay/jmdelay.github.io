@@ -20,6 +20,12 @@ Unplanned mechanical failure is expensive. A bearing that fails mid-operation do
 
 The [NASA/IMS bearing dataset](https://www.kaggle.com/datasets/vinayak123tyagi/bearing-dataset) offers a controlled version of that question. Three experiments each ran a set of 4 roller bearings under constant load until one failed. Accelerometers sampled at 20 kHz, producing one 1-second file every 10 minutes — a timestamp-indexed stream of raw vibration. For Sets 2 and 3 (outer-race failures, the cleaner failure mode), the experiments ran roughly 7 days before the failure event.
 
+
+![The Rexnord ZA-2115 double-row roller bearing](/assets/images/bearing-failure/bearing.jpg)
+
+
+*The Rexnord ZA-2115 double-row roller bearing*
+
 I built a pipeline to answer two questions: Does the degradation signal emerge from the noise early enough to be useful? And does a model trained on one experiment work on another it has never seen?
 
 ---

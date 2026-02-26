@@ -63,6 +63,24 @@ I analyzed before/after patient volume and mix, tested for statistically meaning
 
 ---
 
+## Nonprofit bike shop — LLM-powered pricing tool
+
+**Organization type:** Nonprofit — community bike shop and repair service
+**Engagement type:** Software development, AI/LLM integration, tool design
+
+The bike shop struggled with inconsistent pricing across used bike inventory. Pricing decisions relied on staff experience and rough market comparisons, leading to underpriced inventory and lost revenue. They needed a faster, more consistent way to estimate fair resale prices across their entire catalog.
+
+I built an LLM-powered pricing tool that leverages Claude AI to generate price estimates based on bike specifications (brand, model, condition, notes). The tool takes bike details as input and returns a min/max price range grounded in current market trends. The implementation uses Python with the Anthropic SDK, handles both structured and freeform responses from the LLM, and is ready to scale across their inventory system.
+
+**Outcome:** The shop now has an automated pricing baseline they can apply to incoming inventory, reducing manual pricing time and improving consistency. The tool is extensible and can be integrated into their broader inventory management workflow.
+
+<div class="testimonial-block">
+  *[Testimonial placeholder — add quote from bike shop leadership or volunteer coordinator.]*
+  <div class="testimonial-attribution">— [Name, Title, Organization]</div>
+</div>
+
+---
+
 [Book a free 30-minute call](/contact/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}
