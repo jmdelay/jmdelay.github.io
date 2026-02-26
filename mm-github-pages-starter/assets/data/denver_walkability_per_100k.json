@@ -1,0 +1,242 @@
+[
+  {
+    "geoid": "08001009316",
+    "county": "Adams",
+    "label": "Adams (08001009316)",
+    "walkability_per_100k": 17.0316,
+    "median_home_value": 82200,
+    "walkability_index": 14.0
+  },
+  {
+    "geoid": "08001008309",
+    "county": "Adams",
+    "label": "Adams (08001008309)",
+    "walkability_per_100k": 16.3958,
+    "median_home_value": 75900,
+    "walkability_index": 12.44
+  },
+  {
+    "geoid": "08001009321",
+    "county": "Adams",
+    "label": "Adams (08001009321)",
+    "walkability_per_100k": 14.8521,
+    "median_home_value": 89400,
+    "walkability_index": 13.28
+  },
+  {
+    "geoid": "08001009103",
+    "county": "Adams",
+    "label": "Adams (08001009103)",
+    "walkability_per_100k": 12.8812,
+    "median_home_value": 63400,
+    "walkability_index": 8.17
+  },
+  {
+    "geoid": "08059009856",
+    "county": "Jefferson",
+    "label": "Jefferson (08059009856)",
+    "walkability_per_100k": 9.5462,
+    "median_home_value": 83900,
+    "walkability_index": 8.01
+  },
+  {
+    "geoid": "08001009322",
+    "county": "Adams",
+    "label": "Adams (08001009322)",
+    "walkability_per_100k": 9.1598,
+    "median_home_value": 158300,
+    "walkability_index": 14.5
+  },
+  {
+    "geoid": "08001009320",
+    "county": "Adams",
+    "label": "Adams (08001009320)",
+    "walkability_per_100k": 8.0071,
+    "median_home_value": 168600,
+    "walkability_index": 13.5
+  },
+  {
+    "geoid": "08001008308",
+    "county": "Adams",
+    "label": "Adams (08001008308)",
+    "walkability_per_100k": 7.7984,
+    "median_home_value": 178100,
+    "walkability_index": 13.89
+  },
+  {
+    "geoid": "08005082000",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005082000)",
+    "walkability_per_100k": 7.2435,
+    "median_home_value": 169500,
+    "walkability_index": 12.28
+  },
+  {
+    "geoid": "08001009319",
+    "county": "Adams",
+    "label": "Adams (08001009319)",
+    "walkability_per_100k": 6.01,
+    "median_home_value": 227400,
+    "walkability_index": 13.67
+  },
+  {
+    "geoid": "08005087100",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005087100)",
+    "walkability_per_100k": 5.7573,
+    "median_home_value": 283700,
+    "walkability_index": 16.33
+  },
+  {
+    "geoid": "08001009318",
+    "county": "Adams",
+    "label": "Adams (08001009318)",
+    "walkability_per_100k": 5.6867,
+    "median_home_value": 271100,
+    "walkability_index": 15.42
+  },
+  {
+    "geoid": "08031007090",
+    "county": "Denver",
+    "label": "Denver (08031007090)",
+    "walkability_per_100k": 5.657,
+    "median_home_value": 243800,
+    "walkability_index": 13.79
+  },
+  {
+    "geoid": "08005081102",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005081102)",
+    "walkability_per_100k": 5.6073,
+    "median_home_value": 244100,
+    "walkability_index": 13.69
+  },
+  {
+    "geoid": "08031007091",
+    "county": "Denver",
+    "label": "Denver (08031007091)",
+    "walkability_per_100k": 5.5444,
+    "median_home_value": 237100,
+    "walkability_index": 13.15
+  },
+  {
+    "geoid": "08005086900",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005086900)",
+    "walkability_per_100k": 5.5284,
+    "median_home_value": 286400,
+    "walkability_index": 15.83
+  },
+  {
+    "geoid": "08031002705",
+    "county": "Denver",
+    "label": "Denver (08031002705)",
+    "walkability_per_100k": 5.4645,
+    "median_home_value": 359900,
+    "walkability_index": 19.67
+  },
+  {
+    "geoid": "08031004505",
+    "county": "Denver",
+    "label": "Denver (08031004505)",
+    "walkability_per_100k": 5.1842,
+    "median_home_value": 294700,
+    "walkability_index": 15.28
+  },
+  {
+    "geoid": "08005081001",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005081001)",
+    "walkability_per_100k": 5.0474,
+    "median_home_value": 244900,
+    "walkability_index": 12.36
+  },
+  {
+    "geoid": "08031002709",
+    "county": "Denver",
+    "label": "Denver (08031002709)",
+    "walkability_per_100k": 5.0279,
+    "median_home_value": 337100,
+    "walkability_index": 16.95
+  },
+  {
+    "geoid": "08005080600",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005080600)",
+    "walkability_per_100k": 5.0189,
+    "median_home_value": 287800,
+    "walkability_index": 14.44
+  },
+  {
+    "geoid": "08005007302",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005007302)",
+    "walkability_per_100k": 4.9853,
+    "median_home_value": 329300,
+    "walkability_index": 16.42
+  },
+  {
+    "geoid": "08005081200",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005081200)",
+    "walkability_per_100k": 4.9583,
+    "median_home_value": 290200,
+    "walkability_index": 14.39
+  },
+  {
+    "geoid": "08031006813",
+    "county": "Denver",
+    "label": "Denver (08031006813)",
+    "walkability_per_100k": 4.9008,
+    "median_home_value": 283400,
+    "walkability_index": 13.89
+  },
+  {
+    "geoid": "08059011808",
+    "county": "Jefferson",
+    "label": "Jefferson (08059011808)",
+    "walkability_per_100k": 4.8841,
+    "median_home_value": 278400,
+    "walkability_index": 13.6
+  },
+  {
+    "geoid": "08005087301",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005087301)",
+    "walkability_per_100k": 4.8258,
+    "median_home_value": 283200,
+    "walkability_index": 13.67
+  },
+  {
+    "geoid": "08005005552",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005005552)",
+    "walkability_per_100k": 4.8129,
+    "median_home_value": 308200,
+    "walkability_index": 14.83
+  },
+  {
+    "geoid": "08059009830",
+    "county": "Jefferson",
+    "label": "Jefferson (08059009830)",
+    "walkability_per_100k": 4.7909,
+    "median_home_value": 344400,
+    "walkability_index": 16.5
+  },
+  {
+    "geoid": "08031015800",
+    "county": "Denver",
+    "label": "Denver (08031015800)",
+    "walkability_per_100k": 4.7603,
+    "median_home_value": 297600,
+    "walkability_index": 14.17
+  },
+  {
+    "geoid": "08031004503",
+    "county": "Denver",
+    "label": "Denver (08031004503)",
+    "walkability_per_100k": 4.6784,
+    "median_home_value": 304000,
+    "walkability_index": 14.22
+  }
+]
