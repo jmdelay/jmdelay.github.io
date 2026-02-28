@@ -11,7 +11,7 @@ excerpt: "Freelance data science and research consulting based in Birmingham, AL
 
 ## Hey, I'm John.
 
-I'm a data scientist with a background in **healthcare consulting** and **financial services**, and I now work with small businesses to help them get real value from their data.
+I'm a data scientist with a background in **healthcare analytics** and **financial services**, and I offer services to businesses, nonprofits, and institutions to help them get real value from their data.
 
 You probably have more data than you realize — in your spreadsheets, your CRM, your point-of-sale system, your website. I help you make sense of it.
 

@@ -1,7 +1,7 @@
 ---
-title: "Denver Metro: Walkability-to-Price Ratio by Census Tract"
+title: "Denver Metro: Where Buyers Get the Most Walkability for Their Dollar"
 date: 2025-01-15
-excerpt: "Where do you get the most walkability per dollar in the Denver metro? I combined Census median home values with the EPA walkability index to rank census tracts by walkability per $100k of home value."
+excerpt: "Data-driven neighborhood intel for Denver-area agents: which census tracts deliver the best walkability-to-price value—so you can match buyers to the right areas and position listings with confidence."
 layout: single
 author_profile: true
 categories:
@@ -13,19 +13,24 @@ tags:
   - Census
   - EPA
   - data science
+  - real estate
 ---
 
-The most useful way to compare neighborhoods for someone who cares about both walkability and cost is the **walkability-to-price ratio**: how much walkability you get per dollar of housing. In the Denver metro and Boulder County, I combined **Census ACS 5-year median home value** (B25077) with the **EPA National Walkability Index** (Smart Location Database) at the census tract level, then computed *walkability per $100k*—(walkability index × 100,000) ÷ median home value. Higher means more walkability per dollar; the best-value tracts often have moderate walkability and lower prices rather than the highest absolute walkability.
+Buyers who want walkability don't always have downtown or Boulder budgets. The **walkability-to-price ratio** answers the question your clients ask: *Where can I get the most walkable neighborhood for my money?* This post uses **Census median home values** and the **EPA National Walkability Index** to rank Denver metro census tracts by **walkability per $100k** of home value—so you can point clients to high-value areas and back up your recommendations with clear, source-based data.
 
-**Data:** Median home value is from the Census Bureau’s American Community Survey 5-year (table B25077, owner-occupied units) for tracts in Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, and Jefferson counties. Walkability is from the [EPA National Walkability Index](https://catalog.data.gov/dataset/walkability-index8) (block groups averaged to tract; missing tracts imputed from adjacent tracts). The ratio is sensitive to very low or very high home values, so tracts with non-typical values can rank at the top or bottom.
+**Why this metric matters for your clients:** Higher ratio = more walkability per dollar. The "best value" tracts aren't always the most walkable in absolute terms; they're often neighborhoods with solid walk scores and lower price points—exactly what many first-time or value-focused buyers are looking for. The chart and map below give you at-a-glance intel you can use in buyer consultations, listing one-pagers, or neighborhood comparisons.
 
-**Headline findings:**
+**Data & methodology:** Median home value is from the Census Bureau’s American Community Survey 5-year (table B25077) for tracts in Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, and Jefferson counties. Walkability is from the [EPA National Walkability Index](https://catalog.data.gov/dataset/walkability-index8) (Smart Location Database), aggregated to tract. The ratio is (walkability index × 100,000) ÷ median home value. Extreme high or low home values can push individual tracts to the top or bottom of the ranking.
 
-- **Best walkability per $100k:** The top tracts by this ratio are mostly in **Adams County**, with lower median home values ($63k–$158k) and walkability scores in the 8–15 range. Tract 08001009316 (Adams) leads with about **17.0** walkability points per $100k (median value ~$82k, walkability 14.0).
-- **Denver County** tracts tend to have higher walkability but also higher prices, so their ratio is often in the middle of the pack. **Boulder County** has some of the highest absolute walkability and highest prices, so ratios there are generally lower.
-- The **metro-wide spread** in the ratio is large: from around 2 to over 17 points per $100k, so choosing by this metric can surface neighborhoods that offer a lot of walkability for the money.
+---
 
-The chart below shows the **top 30 census tracts** in the Denver metro by walkability per $100k. Hover for tract ID, county, median home value, and walkability index.
+**Headline findings**
+
+- **Best value for walkability-minded buyers:** Top tracts are concentrated in **Adams County**, with median home values in the **$63k–$158k** range and walkability in the 8–15 range. The leading tract (08001009316) delivers about **17.0** walkability points per $100k—strong value for clients who prioritize walkability on a budget.
+- **Denver County & Boulder:** Denver tracts offer higher absolute walkability but higher prices, so they often land in the middle of the ratio ranking. Boulder has some of the highest walkability and highest prices in the metro, so ratios there are lower—useful context when clients are weighing location vs. budget.
+- **Metro-wide spread:** The ratio ranges from about 2 to over 17 points per $100k across the metro, so there's real variety. Using this metric helps you surface neighborhoods that deliver a lot of walkability for the money and tailor your search to each client's priorities.
+
+**Top 30 tracts by walkability per $100k** — Use this chart in buyer conversations or to quickly compare neighborhoods. Hover for tract ID, county, median home value, and walkability index.
 
 <figure style="margin: 1.5em 0;">
   <div id="denver-walkability-chart" style="width:100%; height:720px;"></div>
@@ -72,7 +77,7 @@ The chart below shows the **top 30 census tracts** in the Denver metro by walkab
 })();
 </script>
 
-**Interactive map:** Tracts are colored by walkability per $100k (darker = higher ratio). Hover for tract details.
+**Interactive map** — Tracts are colored by walkability per $100k (darker = higher ratio). Use it to show clients where the best-value walkable areas are; hover for tract details.
 
 <figure style="margin: 1.5em 0;">
   <div id="denver-tracts-map" style="width:100%; height:520px; border:1px solid #ddd;"></div>
@@ -151,3 +156,7 @@ The chart below shows the **top 30 census tracts** in the Denver metro by walkab
     });
 })();
 </script>
+
+---
+
+**For real estate professionals:** This analysis is built on public data (Census ACS, EPA) so you can cite it with confidence in client conversations, CMAs, or marketing. If you’d like custom walkability-to-price or neighborhood reports for a specific area, listing presentation, or buyer segment, [get in touch]({{ site.baseurl }}/contact/)—I can produce tailored data views and visuals for your practice.
