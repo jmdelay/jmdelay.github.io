@@ -1,0 +1,242 @@
+[
+  {
+    "geoid": "08059011732",
+    "county": "Jefferson",
+    "label": "Jefferson (08059011732)",
+    "walk_rank_ratio": 5.4146,
+    "median_home_value": 322300,
+    "walkability_index": 10.63
+  },
+  {
+    "geoid": "08031007088",
+    "county": "Denver",
+    "label": "Denver (08031007088)",
+    "walk_rank_ratio": 5.4111,
+    "median_home_value": 359000,
+    "walkability_index": 13.79
+  },
+  {
+    "geoid": "08001007900",
+    "county": "Adams",
+    "label": "Adams (08001007900)",
+    "walk_rank_ratio": 5.2674,
+    "median_home_value": 357900,
+    "walkability_index": 13.5
+  },
+  {
+    "geoid": "08001008901",
+    "county": "Adams",
+    "label": "Adams (08001008901)",
+    "walk_rank_ratio": 5.2449,
+    "median_home_value": 329100,
+    "walkability_index": 11.25
+  },
+  {
+    "geoid": "08005007301",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005007301)",
+    "walk_rank_ratio": 5.1739,
+    "median_home_value": 351100,
+    "walkability_index": 12.58
+  },
+  {
+    "geoid": "08001009307",
+    "county": "Adams",
+    "label": "Adams (08001009307)",
+    "walk_rank_ratio": 5.1429,
+    "median_home_value": 373900,
+    "walkability_index": 14.5
+  },
+  {
+    "geoid": "08005080000",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005080000)",
+    "walk_rank_ratio": 5.1064,
+    "median_home_value": 360500,
+    "walkability_index": 13.75
+  },
+  {
+    "geoid": "08001009306",
+    "county": "Adams",
+    "label": "Adams (08001009306)",
+    "walk_rank_ratio": 5.019,
+    "median_home_value": 369000,
+    "walkability_index": 14.08
+  },
+  {
+    "geoid": "08005080400",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005080400)",
+    "walk_rank_ratio": 5.0143,
+    "median_home_value": 386900,
+    "walkability_index": 16.17
+  },
+  {
+    "geoid": "08005082200",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005082200)",
+    "walk_rank_ratio": 4.9885,
+    "median_home_value": 358400,
+    "walkability_index": 13.33
+  },
+  {
+    "geoid": "08013013306",
+    "county": "Boulder",
+    "label": "Boulder (08013013306)",
+    "walk_rank_ratio": 4.9635,
+    "median_home_value": 385200,
+    "walkability_index": 15.58
+  },
+  {
+    "geoid": "08005084600",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005084600)",
+    "walk_rank_ratio": 4.8897,
+    "median_home_value": 385100,
+    "walkability_index": 15.42
+  },
+  {
+    "geoid": "08005007400",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005007400)",
+    "walk_rank_ratio": 4.8529,
+    "median_home_value": 350300,
+    "walkability_index": 12.33
+  },
+  {
+    "geoid": "08031001000",
+    "county": "Denver",
+    "label": "Denver (08031001000)",
+    "walk_rank_ratio": 4.7383,
+    "median_home_value": 370900,
+    "walkability_index": 13.94
+  },
+  {
+    "geoid": "08001008606",
+    "county": "Adams",
+    "label": "Adams (08001008606)",
+    "walk_rank_ratio": 4.7113,
+    "median_home_value": 360800,
+    "walkability_index": 13.56
+  },
+  {
+    "geoid": "08005087000",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005087000)",
+    "walk_rank_ratio": 4.6483,
+    "median_home_value": 389900,
+    "walkability_index": 15.5
+  },
+  {
+    "geoid": "08005007201",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005007201)",
+    "walk_rank_ratio": 4.6301,
+    "median_home_value": 353100,
+    "walkability_index": 12.39
+  },
+  {
+    "geoid": "08005005551",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005005551)",
+    "walk_rank_ratio": 4.6264,
+    "median_home_value": 359200,
+    "walkability_index": 13.25
+  },
+  {
+    "geoid": "08001009309",
+    "county": "Adams",
+    "label": "Adams (08001009309)",
+    "walk_rank_ratio": 4.6,
+    "median_home_value": 364200,
+    "walkability_index": 13.58
+  },
+  {
+    "geoid": "08001009308",
+    "county": "Adams",
+    "label": "Adams (08001009308)",
+    "walk_rank_ratio": 4.5556,
+    "median_home_value": 345100,
+    "walkability_index": 11.79
+  },
+  {
+    "geoid": "08001008801",
+    "county": "Adams",
+    "label": "Adams (08001008801)",
+    "walk_rank_ratio": 4.5333,
+    "median_home_value": 324500,
+    "walkability_index": 10.11
+  },
+  {
+    "geoid": "08031008304",
+    "county": "Denver",
+    "label": "Denver (08031008304)",
+    "walk_rank_ratio": 4.5254,
+    "median_home_value": 341900,
+    "walkability_index": 11.39
+  },
+  {
+    "geoid": "08005082400",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005082400)",
+    "walk_rank_ratio": 4.5161,
+    "median_home_value": 380900,
+    "walkability_index": 14.39
+  },
+  {
+    "geoid": "08005081002",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005081002)",
+    "walk_rank_ratio": 4.4878,
+    "median_home_value": 356900,
+    "walkability_index": 12.7
+  },
+  {
+    "geoid": "08001009501",
+    "county": "Adams",
+    "label": "Adams (08001009501)",
+    "walk_rank_ratio": 4.4309,
+    "median_home_value": 380400,
+    "walkability_index": 14.25
+  },
+  {
+    "geoid": "08001008802",
+    "county": "Adams",
+    "label": "Adams (08001008802)",
+    "walk_rank_ratio": 4.4118,
+    "median_home_value": 306000,
+    "walkability_index": 9.06
+  },
+  {
+    "geoid": "08001008200",
+    "county": "Adams",
+    "label": "Adams (08001008200)",
+    "walk_rank_ratio": 4.375,
+    "median_home_value": 356600,
+    "walkability_index": 12.5
+  },
+  {
+    "geoid": "08059010403",
+    "county": "Jefferson",
+    "label": "Jefferson (08059010403)",
+    "walk_rank_ratio": 4.3446,
+    "median_home_value": 393600,
+    "walkability_index": 15.17
+  },
+  {
+    "geoid": "08005083800",
+    "county": "Arapahoe",
+    "label": "Arapahoe (08005083800)",
+    "walk_rank_ratio": 4.2653,
+    "median_home_value": 361400,
+    "walkability_index": 13.22
+  },
+  {
+    "geoid": "08014030200",
+    "county": "Broomfield",
+    "label": "Broomfield (08014030200)",
+    "walk_rank_ratio": 4.2439,
+    "median_home_value": 404900,
+    "walkability_index": 16.0
+  }
+]

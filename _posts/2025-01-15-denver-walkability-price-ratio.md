@@ -16,31 +16,31 @@ tags:
   - real estate
 ---
 
-Buyers who want walkability don't always have downtown or Boulder budgets. The **walkability-to-price ratio** answers the question your clients ask: *Where can I get the most walkable neighborhood for my money?* This post uses **Census median home values** and the **EPA National Walkability Index** to rank Denver metro census tracts by **walkability per $100k** of home value—so you can point clients to high-value areas and back up your recommendations with clear, source-based data.
+Buyers who want walkability don't always have downtown or Boulder budgets. The **walk rank ratio** answers the question your clients ask: *Where can I get the most walkable neighborhood for my money?* This post uses **Census median home values** and the **EPA National Walkability Index** to rank Denver metro census tracts by comparing walkability ranking against price ranking—so you can point clients to high-value areas and back up your recommendations with clear, source-based data.
 
-**Why this metric matters for your clients:** Higher ratio = more walkability per dollar. The "best value" tracts aren't always the most walkable in absolute terms; they're often neighborhoods with solid walk scores and lower price points—exactly what many first-time or value-focused buyers are looking for. The chart and map below give you at-a-glance intel you can use in buyer consultations, listing one-pagers, or neighborhood comparisons.
+**Why this metric matters for your clients:** Higher ratio = high walkability rank + low price rank = best value. The walk rank ratio compares how highly a tract ranks for walkability against how highly it ranks for price. A ratio above 1 means a tract has better walkability rank than price rank (i.e., you get more walkability than you "pay" for in ranking terms). The chart and map below give you at-a-glance intel you can use in buyer consultations, listing one-pagers, or neighborhood comparisons.
 
-**Data & methodology:** Median home value is from the Census Bureau’s American Community Survey 5-year (table B25077) for tracts in Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, and Jefferson counties. Walkability is from the [EPA National Walkability Index](https://catalog.data.gov/dataset/walkability-index8) (Smart Location Database), aggregated to tract. The ratio is (walkability index × 100,000) ÷ median home value. Extreme high or low home values can push individual tracts to the top or bottom of the ranking.
+**Data & methodology:** Median home value is from the Census Bureau’s American Community Survey 5-year (table B25077) for tracts in Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, and Jefferson counties. Walkability is from the [EPA National Walkability Index](https://catalog.data.gov/dataset/walkability-index8) (Smart Location Database), aggregated to tract. The walk rank ratio is calculated as: rank of walkability ÷ rank of median home value, across all tracts. A ratio > 1 means the tract ranks higher on walkability than on price—good value. A ratio < 1 means it ranks higher on price than walkability.
 
 ---
 
 **Headline findings**
 
-- **Best value for walkability-minded buyers:** Top tracts are concentrated in **Adams County**, with median home values in the **$63k–$158k** range and walkability in the 8–15 range. The leading tract (08001009316) delivers about **17.0** walkability points per $100k—strong value for clients who prioritize walkability on a budget.
-- **Denver County & Boulder:** Denver tracts offer higher absolute walkability but higher prices, so they often land in the middle of the ratio ranking. Boulder has some of the highest walkability and highest prices in the metro, so ratios there are lower—useful context when clients are weighing location vs. budget.
-- **Metro-wide spread:** The ratio ranges from about 2 to over 17 points per $100k across the metro, so there's real variety. Using this metric helps you surface neighborhoods that deliver a lot of walkability for the money and tailor your search to each client's priorities.
+- **Best value for walkability-minded buyers:** Top tracts by walk rank ratio cluster in lower-priced counties (Adams, Arapahoe, Broomfield) where solid walkability meets lower median home values. These tracts rank high on walkability but lower on price—excellent for clients seeking walkable neighborhoods without premium pricing.
+- **Denver County & Boulder:** Downtown Denver offers high absolute walkability but also high prices, so the rank ratio is often closer to 1. Boulder has among the highest walkability and highest prices in the metro, so walk rank ratios there are typically below 1—these are premium walkable areas, useful context when clients are weighing location versus budget.
+- **Metro-wide spread:** Walk rank ratios vary significantly across the metro, allowing you to quickly identify which neighborhoods offer the best walkability value relative to price. Using this metric helps you surface neighborhoods that deliver walkability for the money and tailor your search strategy to each client's priorities.
 
-**Top 30 tracts by walkability per $100k** — Use this chart in buyer conversations or to quickly compare neighborhoods. Hover for tract ID, county, median home value, and walkability index.
+**Top 30 tracts by walk rank ratio** — Use this chart in buyer conversations or to quickly compare neighborhoods. Hover for tract ID, county, median home value, and walkability index.
 
 <figure style="margin: 1.5em 0;">
   <div id="denver-walkability-chart" style="width:100%; height:720px;"></div>
-  <figcaption style="margin-top:0.5em; font-size:0.9em; color:#666;">Top 30 Denver-area tracts by walkability per $100k home value. Higher = more walkability per dollar. Data: Census ACS B25077, EPA Smart Location Database.</figcaption>
+  <figcaption style="margin-top:0.5em; font-size:0.9em; color:#666;">Top 30 Denver-area tracts by walk rank ratio. Higher ratio = higher walkability rank relative to price rank. Data: Census ACS B25077, EPA Smart Location Database.</figcaption>
 </figure>
 
 <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
 <script>
 (function() {
-  const dataUrl = "{{ site.baseurl }}/assets/data/denver_walkability_per_100k.json";
+  const dataUrl = "{{ site.baseurl }}/assets/data/denver_walk_rank_ratio.json";
   fetch(dataUrl)
     .then(function(r) { return r.json(); })
     .then(function(data) {
@@ -49,7 +49,7 @@ Buyers who want walkability don't always have downtown or Boulder budgets. The *
         return;
       }
       var labels = data.map(function(d) { return d.label; });
-      var values = data.map(function(d) { return d.walkability_per_100k; });
+      var values = data.map(function(d) { return d.walk_rank_ratio; });
       var trace = {
         x: values,
         y: labels,
@@ -58,11 +58,11 @@ Buyers who want walkability don't always have downtown or Boulder budgets. The *
         marker: { color: "rgba(31, 119, 180, 0.8)" },
         text: values.map(function(v) { return v.toFixed(2); }),
         textposition: "outside",
-        hovertemplate: "%{y}<br>Walkability per $100k: %{x:.2f}<extra></extra>"
+        hovertemplate: "%{y}<br>Walk rank ratio: %{x:.2f}<extra></extra>"
       };
       var layout = {
         margin: { l: 200, r: 60, t: 24, b: 48 },
-        xaxis: { title: "Walkability per $100k", zeroline: true, zerolinewidth: 2, zerolinecolor: "#333" },
+        xaxis: { title: "Walk rank ratio (walkability rank / price rank)", zeroline: true, zerolinewidth: 2, zerolinecolor: "#333" },
         yaxis: { autorange: "reversed", tickfont: { size: 10 } },
         showlegend: false,
         plot_bgcolor: "rgba(0,0,0,0)",
@@ -77,11 +77,11 @@ Buyers who want walkability don't always have downtown or Boulder budgets. The *
 })();
 </script>
 
-**Interactive map** — Tracts are colored by walkability per $100k (darker = higher ratio). Use it to show clients where the best-value walkable areas are; hover for tract details.
+**Interactive map** — Tracts are colored by walk rank ratio (darker = higher ratio). Use it to show clients where the best-value walkable areas are; hover for tract details.
 
 <figure style="margin: 1.5em 0;">
   <div id="denver-tracts-map" style="width:100%; height:520px; border:1px solid #ddd;"></div>
-  <figcaption style="margin-top:0.5em; font-size:0.9em; color:#666;">Denver metro census tracts by walkability per $100k home value. Data: Census ACS B25077, EPA Smart Location Database.</figcaption>
+  <figcaption style="margin-top:0.5em; font-size:0.9em; color:#666;">Denver metro census tracts by walk rank ratio. Data: Census ACS B25077, EPA Smart Location Database.</figcaption>
 </figure>
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
@@ -95,7 +95,7 @@ Buyers who want walkability don't always have downtown or Boulder budgets. The *
     .then(function(geojson) {
       var features = geojson.features || [];
       var values = features
-        .map(function(f) { return f.properties && f.properties.walkability_per_100k; })
+        .map(function(f) { return f.properties && f.properties.walk_rank_ratio; })
         .filter(function(v) { return v != null && !isNaN(v) && v > 0; });
       var sorted = values.slice().sort(function(a,b){ return a - b; });
       var n = sorted.length;
@@ -127,11 +127,11 @@ Buyers who want walkability don't always have downtown or Boulder budgets. The *
 
       function onEachFeature(feature, layer) {
         var p = feature.properties || {};
-        var ratio = p.walkability_per_100k;
+        var ratio = p.walk_rank_ratio;
         var med = p.median_home_value;
         var walk = p.walkability_index;
         var msg = "<b>" + (p.COUNTY || "—") + "</b> (Tract " + (p.GEOID || "—") + ")<br/>";
-        msg += "Walkability per $100k: " + (ratio != null ? ratio.toFixed(2) : "—") + "<br/>";
+        msg += "Walk rank ratio: " + (ratio != null ? ratio.toFixed(2) : "—") + "<br/>";
         msg += "Median home value: " + (med != null ? "$" + med.toLocaleString() : "—") + "<br/>";
         msg += "Walkability index: " + (walk != null ? walk.toFixed(1) : "—");
         layer.bindTooltip(msg, { sticky: true, className: "denver-map-tooltip", direction: "top" });
@@ -139,7 +139,7 @@ Buyers who want walkability don't always have downtown or Boulder budgets. The *
 
       L.geoJSON(geojson, {
         style: function(feature) {
-          var v = feature.properties && feature.properties.walkability_per_100k;
+          var v = feature.properties && feature.properties.walk_rank_ratio;
           return {
             fillColor: getColor(v),
             weight: 0.8,
