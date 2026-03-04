@@ -52,8 +52,6 @@ Literature reviews, study design, survey design, and grant or manuscript support
 
 I've worked as a data scientist at a **Fortune 500 financial institution** and at **two growing national healthcare analytics companies**, and I've contributed to **leading research journal publications**. I've partnered with local clinics, labs, nonprofits, and small business leaders.
 
-*[Placeholder: Add a short testimonial or additional social proof when available — e.g. client quote, publication citation, or "As seen in" line.]*
-
 ---
 
 ## Let's Talk
