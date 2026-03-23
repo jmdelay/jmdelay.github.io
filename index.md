@@ -1,62 +1,71 @@
 ---
 layout: single
-author_profile: true
-title: "Data Science for Small Businesses"
-header:
-  overlay_color: "#1a1a2e"
-  overlay_filter: 0.5
-  tagline: "Turn your data into decisions."
-excerpt: "Freelance data science and research consulting based in Birmingham, AL — helping small businesses and nonprofits use their data to work smarter."
+author_profile: false
+excerpt: "Data science and analytics consulting for small businesses — forecasting, dashboards, modeling, and research support."
 ---
 
-## Hey, I'm John.
+<div class="brand-hero">
+  <svg viewBox="0 0 700 110" xmlns="http://www.w3.org/2000/svg" aria-label="Changepoint Analytics">
+    <polygon points="20,104 72,56 106,72 134,46 162,72 188,104" fill="#1B3560" opacity="0.75"/>
+    <polygon points="20,104 55,76 80,88 105,62 128,104" fill="#1E2E50" opacity="0.9"/>
+    <polygon points="118,104 155,66 178,78 200,52 222,104" fill="#1E4070" opacity="0.95"/>
+    <polygon points="222,104 222,42 238,28 258,38 278,104" fill="#1A5240" opacity="0.95"/>
+    <polyline points="118,104 155,66 178,78 200,52 222,104"
+              fill="none" stroke="#4A8CC8" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+    <polyline points="222,42 238,28 258,38 278,104"
+              fill="none" stroke="#3DB87A" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
+    <polygon points="215,50 222,26 229,50" fill="#8AAED4" opacity="0.5"/>
+    <circle cx="222" cy="42" r="9" fill="#E06B2E" opacity="0.22"/>
+    <circle cx="222" cy="42" r="5" fill="#E06B2E"/>
+    <circle cx="222" cy="42" r="3" fill="#F5A070"/>
+    <line x1="20" y1="104" x2="282" y2="104" stroke="#2A5FA5" stroke-width="0.5" opacity="0.3"/>
+    <text style="font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:28px;font-weight:500;fill:#D8E4F4;letter-spacing:-0.01em;" x="308" y="62">Changepoint</text>
+    <text style="font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:10px;font-weight:400;fill:#7AAAD4;letter-spacing:0.14em;" x="309" y="82">ANALYTICS</text>
+  </svg>
+  <p class="brand-tagline">Turn your data into decisions.</p>
+</div>
 
-I'm a data scientist with a background in **healthcare analytics** and **financial services**, and I offer services to businesses, nonprofits, and institutions to help them get real value from their data.
+## What We Do
 
-You probably have more data than you realize — in your spreadsheets, your CRM, your point-of-sale system, your website. I help you make sense of it.
+Changepoint Analytics provides data science and research consulting to small businesses, nonprofits, and healthcare organizations. We help clients extract real signal from the data they already have — and build tools they'll actually use.
 
 ---
 
-## What I Can Do For You
+## Services
 
-**Forecasting & Predictive Modeling**  
+**Data Cleaning & Automation**
+Stop doing repetitive data work by hand. We build pipelines that extract, clean, and transform data so your team can focus on decision-making.
+
+**Dashboard Building**
+Replace static spreadsheets with live, interactive dashboards built for the decisions you actually need to make.
+
+**Forecasting & Predictive Modeling**
 Anticipate demand, revenue, or customer behavior so you can plan ahead instead of react.
 
-**Dashboards & Reporting**  
-Replace your static spreadsheets with live, interactive dashboards you can actually use day-to-day.
+**Experimentation (A/B Testing)**
+Design and analyze experiments to validate business decisions with statistical rigor. Move fast with confidence.
 
-**Data Cleaning & Pipeline Automation**  
-Stop doing repetitive data work by hand. I'll automate the grunt work so your team can focus on what matters.
+**Customer Segmentation**
+Identify high-value customer groups, at-risk segments, and untapped market opportunities using clustering and cohort analysis.
 
-**Ad-hoc Analysis**  
-Have a specific question you need answered with data? I can dig in and give you a clear, actionable answer.
+**MLOps & Model Deployment**
+Build and maintain production machine learning systems that stay accurate over time and integrate seamlessly with your operations.
 
-**Healthcare & Claims Analytics** *(specialty)*  
-Deep experience with Medicare quality improvement, EHR data, prior authorization data, and clinical program ROI analysis.
-
-**Research Consulting**  
-Literature reviews, study design, survey design, and grant or manuscript support for researchers and small organizations.
+**Healthcare & Claims Analytics** *(specialty)*
+Deep experience with Medicare quality improvement, EHR data, prior authorization, and clinical program ROI.
 
 ---
 
-## Why Work With Me?
+## Why Changepoint Analytics?
 
-- **Real-world experience** — I've built production models at a health tech company, validated risk models at a major regional bank, and contributed to published public health research.
-- **I communicate clearly** — I translate complex findings into plain language for non-technical stakeholders. No jargon, no black boxes.
-- **Small business focus** — I'm not pitching you a six-figure enterprise contract. I offer right-sized engagements that fit your budget and your actual needs.
-- **MS in Biostatistics, BS in Mathematics** — UAB & Birmingham-Southern College.
-
----
-
-## Background & partnerships
-
-I've worked as a data scientist at a **Fortune 500 financial institution** and at **two growing national healthcare analytics companies**, and I've contributed to **leading research journal publications**. I've partnered with local clinics, labs, nonprofits, and small business leaders.
+- **Real-world experience** — Production models at a health tech company, risk model validation at a major regional bank, and contributions to published public health research.
+- **Clear communication** — Findings translated into plain language for non-technical stakeholders. No jargon, no black boxes.
+- **Right-sized engagements** — Not pitching six-figure enterprise contracts. Scoped to fit small business budgets and real needs.
 
 ---
 
 ## Let's Talk
 
-The best first step is a free 30-minute call. We'll talk about your data, your questions, and whether I'm a good fit to help.
+The best first step is a free 30-minute call. We'll discuss your data, your questions, and whether we're a good fit.
 
-[Book a free 30-minute call](/contact/){: .btn .btn--primary .btn--large}
-[View My Portfolio](/portfolio/){: .btn .btn--inverse .btn--large}
+[Get in Touch](/contact/){: .btn .btn--primary .btn--large}

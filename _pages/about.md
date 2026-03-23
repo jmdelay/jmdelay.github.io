@@ -1,17 +1,17 @@
 ---
 permalink: /about/
 title: "About You"
-excerpt: "Is this you? Data scientist John DeLay helps small businesses and researchers turn data into clear, actionable decisions."
+excerpt: "Is this you? Changepoint Analytics helps small businesses and researchers turn data into clear, actionable decisions."
 layout: single
 author_profile: true
 ---
 
 <style>
 .identity-block {
-  border-left: 4px solid #1a1a2e;
+  border-left: 4px solid #2A5FA5;
   padding: 0.75em 1.25em;
   margin: 1.5em 0;
-  background: #f8f8f8;
+  background: #F5F6F8;
   font-size: 1.05em;
   font-style: italic;
 }
@@ -82,7 +82,7 @@ I'm particularly useful when:
 
 ## About John
 
-I'm John DeLay — a data scientist based in Birmingham, AL. I've built production models at a health tech company, validated risk models at a major regional bank, and contributed to published public health research. I translate complex findings into plain language. No jargon, no black boxes.
+I'm John DeLay, founder of **Changepoint Analytics** — a data science consultancy based in Birmingham, AL. I've built production models at a health tech company, validated risk models at a major regional bank, and contributed to published public health research. I translate complex findings into plain language. No jargon, no black boxes.
 
 **Education:** MS in Biostatistics (UAB), BS in Mathematics (Birmingham-Southern College).
 

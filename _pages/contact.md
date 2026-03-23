@@ -10,6 +10,4 @@ The best first step is a **free 30-minute call**. We'll discuss your goals, your
 
 **Birmingham, AL** — I work with clients locally and remotely.
 
-[Book a free 30-minute call](https://calendly.com/jmacdelay){: .btn .btn--primary .btn--large}
-
-You can also reach me at **macdelay+llc@gmail.com** or [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124).
+You can reach me at **john@changepointdata.com** or [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124).
