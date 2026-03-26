@@ -66,6 +66,6 @@ Deep experience with Medicare quality improvement, EHR data, prior authorization
 
 ## Let's Talk
 
-The best first step is a free 30-minute call. We'll discuss your data, your questions, and whether we're a good fit.
+The best first step is a free 45-minute call. We'll discuss your data, your questions, and whether we're a good fit.
 
 [Get in Touch](/contact/){: .btn .btn--primary .btn--large}
