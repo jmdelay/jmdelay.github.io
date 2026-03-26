@@ -5,22 +5,34 @@ excerpt: "Data science and analytics consulting for small businesses — forecas
 ---
 
 <div class="brand-hero">
-  <svg viewBox="0 0 700 110" xmlns="http://www.w3.org/2000/svg" aria-label="Changepoint Analytics">
-    <polygon points="20,104 72,56 106,72 134,46 162,72 188,104" fill="#1B3560" opacity="0.75"/>
-    <polygon points="20,104 55,76 80,88 105,62 128,104" fill="#1E2E50" opacity="0.9"/>
-    <polygon points="118,104 155,66 178,78 200,52 222,104" fill="#1E4070" opacity="0.95"/>
-    <polygon points="222,104 222,42 238,28 258,38 278,104" fill="#1A5240" opacity="0.95"/>
-    <polyline points="118,104 155,66 178,78 200,52 222,104"
-              fill="none" stroke="#4A8CC8" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
-    <polyline points="222,42 238,28 258,38 278,104"
-              fill="none" stroke="#3DB87A" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/>
-    <polygon points="215,50 222,26 229,50" fill="#8AAED4" opacity="0.5"/>
-    <circle cx="222" cy="42" r="9" fill="#E06B2E" opacity="0.22"/>
-    <circle cx="222" cy="42" r="5" fill="#E06B2E"/>
-    <circle cx="222" cy="42" r="3" fill="#F5A070"/>
-    <line x1="20" y1="104" x2="282" y2="104" stroke="#2A5FA5" stroke-width="0.5" opacity="0.3"/>
-    <text style="font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:28px;font-weight:500;fill:#D8E4F4;letter-spacing:-0.01em;" x="308" y="62">Changepoint</text>
-    <text style="font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:10px;font-weight:400;fill:#7AAAD4;letter-spacing:0.14em;" x="309" y="82">ANALYTICS</text>
+  <svg width="100%" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg" aria-label="Changepoint Analytics">
+    <defs>
+      <style>
+        .cp-mark  { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:30px; font-weight:500; fill:#1B2A4A; letter-spacing:-0.01em; }
+        .cp-sub { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:11px; font-weight:400; fill:#4A6FA5; letter-spacing:0.14em; }
+        @media(prefers-color-scheme:dark){ .cp-mark{fill:#D8E4F4} .cp-sub{fill:#7AAAD4} }
+      </style>
+    </defs>
+    <!-- Mountain range mark with brand colors -->
+    <polygon points="30,132 80,90 112,104 138,80 165,102 192,132" fill="#2A5FA5" opacity="0.08"/>
+    <polygon points="30,132 62,108 88,118 112,96 135,132" fill="#1B2A4A" opacity="0.10"/>
+    <polygon points="110,132 148,96 172,108 196,84 218,132" fill="#2A5FA5" opacity="0.17"/>
+    <polygon points="218,132 218,64 234,50 256,60 276,132" fill="#2E9B6A" opacity="0.15"/>
+    <!-- Pre-slope ascent (Steel blue) -->
+    <polyline points="110,132 148,96 172,108 196,84 218,132"
+              fill="none" stroke="#2A5FA5" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- Post-slope ascent (Growth green) -->
+    <polyline points="218,64 234,50 256,60 276,132"
+              fill="none" stroke="#2E9B6A" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- Summit point (Signal orange - the changepoint) -->
+    <circle cx="218" cy="64" r="8" fill="#E06B2E" opacity="0.15"/>
+    <circle cx="218" cy="64" r="4.5" fill="#E06B2E"/>
+    <circle cx="218" cy="64" r="2.5" fill="#F5956A"/>
+    <!-- Baseline -->
+    <line x1="30" y1="132" x2="280" y2="132" stroke="#2A5FA5" stroke-width="0.5" opacity="0.18"/>
+    <!-- Company name -->
+    <text class="cp-mark"  x="308" y="96">Changepoint</text>
+    <text class="cp-sub" x="309" y="116">ANALYTICS</text>
   </svg>
   <p class="brand-tagline">Turn your data into decisions.</p>
 </div>
