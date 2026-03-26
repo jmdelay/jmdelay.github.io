@@ -72,10 +72,10 @@ You'll get code, documentation, and a walkthrough so you (or your team) can main
 ## Pricing:
 
 **"Seriously, what is this actually going to cost?"**
-A staff data scientist would cost you $100,000-$200,000 per year. I price to ensure your return exceeds the investment. During our first call, we'll scope the work and I'll give you a range that reflects the complexity and impact.
+A staff data scientist would cost you $50-$100 per hour. I price to ensure your return exceeds the investment. During our first call, we'll scope the work and I'll give you a range that reflects the complexity and impact.
 
 ---
 
-[Book a free 30-minute call](/contact/){: .btn .btn--primary .btn--large}
+[Book a free 45-minute call](/contact/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}

@@ -13,4 +13,4 @@ Open http://localhost:4000
 
 ## Repo
 
-Content lives in `index.md` (home), `_pages/` (About, Services, Portfolio, Contact, 404), and `_config.yml`. The `_site/` folder is generated; don’t edit it.
+Content lives in `index.md` (home), `_pages/` (About, Portfolio, Contact, FAQ, 404), and `_config.yml`. The `_site/` folder is generated; don’t edit it.
