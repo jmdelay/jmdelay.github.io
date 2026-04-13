@@ -1,98 +1,46 @@
 ---
 permalink: /about/
-title: "About You"
-excerpt: "Is this you? Changepoint Analytics helps small businesses and researchers turn data into clear, actionable decisions."
+title: "About"
+excerpt: "AI and data science consulting for healthcare and financial services, from someone who has worked inside both industries."
 layout: single
 author_profile: true
 ---
 
-<style>
-.identity-block {
-  border-left: 4px solid #2A5FA5;
-  padding: 0.75em 1.25em;
-  margin: 1.5em 0;
-  background: #F5F6F8;
-  font-size: 1.05em;
-  font-style: italic;
-}
-</style>
+I'm John DeLay, founder of Changepoint Analytics. I build AI and data science systems for healthcare and financial services organizations — the kind of work that requires both technical depth and an understanding of what happens when a model gets it wrong in a regulated environment.
 
-You run a real business. You make decisions every day — on pricing, staffing, inventory, marketing, expansion — and most of those decisions are based on instinct and experience.
-
-That's not a flaw. That got you here.
-
-But somewhere in the back of your mind, you know there's signal buried in your data that you're not using. A question you've been meaning to answer. A hunch you wish you could confirm.
+I've built and deployed LLM-based workflows at a health tech company focused on prior authorization and clinical decision support. I've validated quantitative risk models at a major regional bank under SR 11-7 requirements. I've done Medicare quality analytics and program evaluation at a national quality improvement organization. And I've contributed to peer-reviewed public health research through UAB.
 
 ---
 
-## You might be the right fit if…
+## Who I work with
 
-<div class="identity-block">
-You're competing in an industry that's consolidating — and you know the businesses that survive will be the ones that operate smarter, not just harder.
-</div>
+**Healthcare organizations** — health plans, health tech companies, provider groups, and quality improvement organizations. If your team is trying to  extract signal from clinical notes, build explainable models from claims data, or stand up reporting that actually reflects what's happening clinically — that's the work I do.
 
-<div class="identity-block">
-You have data sitting in spreadsheets, your POS system, or your CRM that nobody is really looking at — and you suspect it's telling you something important.
-</div>
+**Financial services firms** — regional banks, credit unions, risk and compliance teams. If you need models that are accurate *and* auditable or have analysts spending too much time on data prep instead of analysis, I can help.
 
-<div class="identity-block">
-You have interesting questions about your customers, your margins, or your market — but you don't want to hire a full-time analyst for questions that come up once a quarter.
-</div>
+**Academic researchers** — faculty and graduate students who need a collaborator for data analysis, study design, grant support, or manuscript preparation. I've worked in that environment and understand what peer review and IRB compliance actually require.
 
-<div class="identity-block">
-You've looked at enterprise analytics tools and thought: this is overkill, and I'd spend six months just learning the software.
-</div>
-
-<div class="identity-block">
-You've been burned by a vendor who sold you a dashboard that looked great in the demo and collected dust in real life.
-</div>
-
-<div class="identity-block">
-You want someone who can actually explain what they're doing — not hand you a black box and a bill.
-</div>
+Small businesses that don't fit neatly into any of those categories are welcome to reach out. The engagement model is the same — scoped to your problem, delivered without jargon.
 
 ---
 
-## What you probably don't need
+## What engagements look like
 
-You don't need a full-time data scientist on payroll. A senior hire runs **$100,000–$140,000/year** in salary alone — before benefits, before onboarding, before the months it takes to get them productive on your specific business.
+I take on a small number of clients at a time. Projects are scoped to a specific deliverable: a working model, a deployed pipeline, a dashboard your team will actually use, or a manuscript-ready analysis. I don't do open-ended retainers without a defined scope.
 
-You don't need a bloated SaaS platform that charges you monthly for features you'll never use, requires IT support to maintain, and locks your data in their ecosystem.
-
-You need someone who can come in, understand your business quickly, answer the question in front of you, and build something you'll actually use.
-
-That's the engagement model I offer.
-
----
-
-## The businesses I work best with
-
-I've worked in **healthcare consulting**, **financial services**, and **academic research** — environments where the stakes are high, the data is messy, and the people asking questions aren't data scientists themselves.
-
-Small and mid-sized businesses are the same way. You have real operational data, real decisions to make, and limited time to deal with complexity. I know how to work in that environment.
-
-I'm particularly useful when:
-
-- You're making a major operational or strategic decision and want the data to back it up (or push back on it)
-- You need a repeatable reporting process that doesn't depend on one employee knowing how to run a macro
-- You're entering a new market or launching a product and want to understand the landscape before you commit
-- Something in your numbers looks off and you want to know why
+Every engagement ends with documentation and a handoff. If you need your team to maintain or extend the work after I'm done, I build for that from the start.
 
 ---
 
 ## About John
 
-I'm John DeLay, founder of **Changepoint Analytics** — a data science consultancy based in Birmingham, AL. I've built production models at a health tech company, validated risk models at a major regional bank, and contributed to published public health research. I translate complex findings into plain language. No jargon, no black boxes.
+**Education:** MSPH in Biostatistics, University of Alabama at Birmingham — BS in Mathematics, Birmingham-Southern College.
 
-**Education:** MS in Biostatistics (UAB), BS in Mathematics (Birmingham-Southern College).
+**Background:** Health tech (AI/LLM systems, prior authorization), regional banking (risk model validation, SR 11-7), Medicare quality improvement (CMS programs, claims analytics, EHR data), published public health research.
+
+Based in Birmingham, AL. I work with clients remotely and locally.
 
 ---
-
-## A note on fit
-
-I take on a small number of clients at a time. That's not a sales tactic — it's how I work. If we talk and don't think I'm the right fit for your problem, that's still valuable information.
-
-If you recognize yourself anywhere on this page, it's worth a conversation.
 
 [Book a free 45-minute call](/contact/){: .btn .btn--primary .btn--large}
 

@@ -1,7 +1,7 @@
 # Site Settings
 title: "Changepoint Analytics"
 name: "Changepoint Analytics"
-description: "Data science and analytics consulting for small businesses — forecasting, dashboards, modeling, and research support."
+description: "AI and data science consulting for healthcare and financial services teams."
 url: "https://changepointdata.com"
 baseurl: ""
 repository: "jmdelay/jmdelay.github.io"
@@ -19,7 +19,7 @@ plugins:
 author:
   name: "John DeLay"
   avatar: "/assets/images/bio-photo.jpg"  # add your photo here
-  bio: "Data scientist with experience in healthcare & financial services. I help small businesses make smarter decisions with their data."
+  bio: "AI and data science consultant specializing in healthcare and financial services. Production models at health tech, risk model validation at a major regional bank, Medicare analytics, and published public health research."
   location: "Birmingham, AL"
   email: "john@changepointdata.com"
   links:
