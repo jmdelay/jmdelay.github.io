@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "AI and data science consulting for healthcare and financial services, from someone who has worked inside both industries."
+excerpt: "Changepoint Analytics is run by John DeLay — senior-level data and analytics work for businesses without a dedicated data team."
 layout: single
 author_profile: true
 ---
@@ -14,7 +14,7 @@ I've built and deployed LLM-based workflows at a health tech company focused on 
 
 ## Who I work with
 
-**Healthcare organizations** — health plans, health tech companies, provider groups, and quality improvement organizations. If your team is trying to  extract signal from clinical notes, build explainable models from claims data, or stand up reporting that actually reflects what's happening clinically — that's the work I do.
+**Healthcare organizations** — health plans, health tech companies, provider groups, and quality improvement organizations. If your team is trying to extract signal from clinical notes, build explainable models from claims data, or stand up reporting that actually reflects what's happening clinically — that's the work I do.
 
 **Financial services firms** — regional banks, credit unions, risk and compliance teams. If you need models that are accurate *and* auditable or have analysts spending too much time on data prep instead of analysis, I can help.
 
@@ -42,6 +42,6 @@ Based in Birmingham, AL. I work with clients remotely and locally.
 
 ---
 
-[Book a free 45-minute call](/contact/){: .btn .btn--primary .btn--large}
+[Start with a Diagnostic Conversation](/contact/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}

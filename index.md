@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-excerpt: "AI and data science consulting for healthcare and financial services teams."
+excerpt: "Data and analytics support for growing service businesses without a dedicated data team."
 ---
 
 <div class="brand-hero">
@@ -34,28 +34,31 @@ excerpt: "AI and data science consulting for healthcare and financial services t
     <text class="cp-mark"  x="308" y="96">Changepoint</text>
     <text class="cp-sub" x="309" y="116">ANALYTICS</text>
   </svg>
-  <p class="brand-tagline">AI and data science consulting for healthcare and financial services.</p>
+  <p class="brand-tagline">Data & analytics support for growing service businesses without a data team.</p>
 </div>
 
 ## What We Do
 
-Changepoint Analytics helps healthcare and financial services teams build and integrate AI into the workflows that matter — prior authorization, claims processing, risk modeling, and operational reporting. Engagements are scoped to deliver working systems, not slide decks.
+Changepoint Analytics helps healthcare practices, financial services firms, and professional services teams make sense of their operational data — without hiring full-time analytics staff. Whether the problem is reporting that takes a day to produce manually, numbers leadership doesn't trust, or decisions made on gut instinct because the data isn't organized, we scope a project, build the solution, and hand it off so your team can use it.
 
 ---
 
 ## Services
 
-**AI & LLM Integration**
-Deploy large language models in production for document review, clinical decision support, prior authorization workflows, and regulatory-compliant text analysis. Built for healthcare and financial services environments where accuracy and auditability are non-negotiable.
+**Data & Reporting Diagnostic**
+Not sure where to start, or whether your data is even in shape for a bigger project? A focused scoping engagement that reviews your current reporting, identifies gaps, and produces a clear recommendation — low commitment, concrete output.
 
-**Forecasting & Predictive Modeling**
-Anticipate demand, revenue, patient volume, or credit risk with models built to SR 11-7 and clinical validation standards. Designed for regulated environments where models need to be explainable, not just accurate.
+**Executive Dashboard System**
+One place where leadership sees the numbers that actually drive decisions — revenue, volume, utilization, or whatever matters in your business. Built on your existing data, designed to be used daily, not just at the end of the quarter.
 
-**Dashboards & Reporting**
-Replace ad-hoc requests and static spreadsheets with operational dashboards built for clinical, compliance, and finance teams. Built on your data, designed for the decisions you actually make.
+**Forecasting & Planning Models**
+Revenue forecasts, patient or client volume projections, staffing models, and scenario planning tools. Built to be explainable to non-technical stakeholders and updated as your data changes.
 
-**Data Cleaning & Pipeline Automation**
-Stop doing repetitive data work by hand. We build pipelines that extract, clean, and transform EHR data, claims feeds, and financial data so your analysts can focus on analysis.
+**Automated Reporting & Data Pipelines**
+If someone on your team spends hours every week pulling together a report that could run automatically, that's a pipeline problem. We replace manual Excel workflows with automated, reliable processes.
+
+**Advanced & Regulated Analytics**
+Healthcare claims analysis, model validation, AI pilots, and work requiring SR 11-7 or CMS compliance standards. This is the deeper technical layer for organizations in regulated environments.
 
 [See all services](/services/){: .btn .btn--inverse}
 
@@ -63,14 +66,27 @@ Stop doing repetitive data work by hand. We build pipelines that extract, clean,
 
 ## Why Changepoint Analytics?
 
-- **Regulated-industry experience** — Production AI at a health tech company (LLMs, prior authorization), risk model validation at a major regional bank (SR 11-7 compliance), Medicare quality analytics at a national quality improvement organization, and contributions to published public health research.
-- **Clear communication** — Findings and model outputs translated into plain language for clinical, compliance, and operational stakeholders. No black boxes.
-- **Right-sized engagements** — Scoped to solve a specific problem, not to maximize billable hours. You get working deliverables, documentation, and a handoff that sticks.
+- **No full-time hire required** — You get senior-level analytical work scoped to a specific problem. No recruiting, no onboarding, no ongoing salary commitment. The engagement ends when the deliverable is done.
+- **Built for people who aren't data teams** — Outputs are designed for operators, not analysts. Dashboards your team will actually open. Reports they can explain to a board. Documentation that doesn't require a data science degree to maintain.
+- **Regulated-industry depth** — Production AI in healthcare (LLMs, prior authorization, EHR data), risk model validation at a regional bank (SR 11-7), Medicare quality analytics at a national QIO, and peer-reviewed public health research. The technical credibility is there when the project requires it.
 
 ---
 
-## Let's Talk
+## How Engagements Work
 
-The best first step is a free 45-minute call. We'll discuss your problem, your data, and whether we're a good fit.
+Most projects follow the same pattern:
+
+1. **Diagnostic conversation** — We review your data, reporting setup, and what decisions you're trying to make. This is free and takes 30–45 minutes.
+2. **Scoping engagement** — A short, fixed-price engagement to audit your data and produce a concrete recommendation. Low commitment, clear output. Often the right first project.
+3. **Fixed-scope project** — Typically 2–8 weeks. A defined deliverable: a dashboard, a model, an automated pipeline. You know the scope and cost before we start.
+4. **Optional follow-on support** — Some clients want periodic updates or a second project. That's available, but it's never the default assumption.
+
+We're not a large agency and we're not pitching a six-figure transformation. Most engagements start small and expand only if the first project delivers.
+
+---
+
+## Start with a Diagnostic Conversation
+
+Not sure if your data problem is solvable, or whether it's worth the investment? Start with a short conversation. We'll look at your reporting setup, understand what decisions you're trying to make, and tell you honestly whether we can help — and if so, what that would look like.
 
 [Get in Touch](/contact/){: .btn .btn--primary .btn--large}

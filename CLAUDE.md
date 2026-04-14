@@ -22,7 +22,7 @@ bundle exec jekyll build
 
 **Deployment:** Pushes to `master` branch auto-deploy via GitHub Pages to `changepointdata.com` (custom domain via CNAME).
 
-**Theme:** All layouts come from the remote Minimal Mistakes theme — no local `_layouts/` overrides. Custom styling lives entirely in `_includes/head/custom.html`.
+**Theme:** All layouts come from the remote Minimal Mistakes theme — no local `_layouts/` overrides. Custom styling lives entirely in `_includes/head/custom.html`. Two theme partials are overridden locally: `_includes/author-profile.html` and `_includes/page__date.html`.
 
 ### Content Structure
 
@@ -33,8 +33,8 @@ bundle exec jekyll build
 | `_posts/` | Blog posts — filename format: `YYYY-MM-DD-slug.md` |
 | `_data/navigation.yml` | Main nav menu links |
 | `_includes/head/custom.html` | All custom CSS and brand styling |
-| `assets/images/` | Images organized per post/project |
-| `assets/data/` | JSON/GeoJSON files for interactive visualizations |
+| `assets/images/` | Images organized per post/project; `logo.svg` is the masthead logo |
+| `assets/data/` | JSON/GeoJSON files loaded by posts for interactive D3/Leaflet visualizations |
 | `_site/` | Generated output — never edit directly |
 
 ### Brand Colors
@@ -58,7 +58,7 @@ tags: [...]
 ---
 ```
 
-Pages in `_pages/` use `layout: single` or `layout: splash` with a `permalink:` set explicitly.
+Pages in `_pages/` use `layout: single` or `layout: splash` with a `permalink:` set explicitly. The `_config.yml` defaults set `author_profile: true` for all pages; `index.md` overrides this to `false` so the homepage hero is full-width.
 
 ### Jekyll Plugin Notes
 

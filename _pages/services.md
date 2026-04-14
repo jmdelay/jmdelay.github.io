@@ -1,45 +1,71 @@
 ---
 permalink: /services/
 title: "Services"
-excerpt: "AI integration, predictive modeling, dashboards, and data pipelines for healthcare and financial services teams."
+excerpt: "Outcome-based analytics engagements for growing businesses without a dedicated data team — diagnostics, dashboards, forecasting, and automation."
 layout: single
 author_profile: true
 ---
 
-Four core services, each built for teams operating in regulated environments where the stakes of bad data or a bad model are real.
+Five engagement types, each designed to solve a specific problem for businesses that don't have a dedicated data team. Start with a Diagnostic if you're not sure where to begin — or go directly to the service that matches your pain point.
 
 ---
 
-## AI & LLM Integration
+## Data & Reporting Diagnostic
 
-Healthcare and financial services generate enormous volumes of unstructured text — clinical notes, prior authorization requests, loan documents, compliance filings, member correspondence. Large language models can process and act on that text at scale, but deploying them in a regulated environment requires more than a proof of concept.
+**Best for:** Teams that know something is wrong with their reporting but aren't sure where to start — or organizations that want an outside opinion before committing to a larger project.
 
-I design and build LLM-based workflows that are accurate, auditable, and appropriate for clinical or financial contexts. Past work includes prior authorization review automation, clinical document analysis, and information extraction from EHR free-text. If your team is evaluating AI for a specific workflow and needs someone who has done this in a compliance-sensitive environment before, that's what I do.
+Most data problems look more complicated than they are. The Diagnostic is a focused, fixed-price engagement that reviews your current reporting and data setup, identifies the highest-priority gaps, and delivers a written recommendation with clear options. You walk away knowing what the actual problem is, what it would take to fix it, and whether it makes sense to proceed.
 
----
-
-## Forecasting & Predictive Modeling
-
-Anticipating what happens next — patient volume, credit defaults, claim costs, revenue — requires models that are built correctly and can be explained to a non-technical audience. In regulated industries, explainability isn't optional: it's required for SR 11-7 model risk management, CMS program evaluation, and clinical decision support.
-
-I build predictive models with documentation that satisfies model governance requirements and outputs that can be communicated clearly to operations, finance, or clinical leadership. If your organization has tried to use a vendor black-box model and found it impossible to defend to regulators or executives, a custom model with proper documentation is often the better path.
+Typical deliverable: written assessment, prioritized recommendations, and a scoping proposal for next steps if applicable.
 
 ---
 
-## Dashboards & Reporting
+## Executive Dashboard System
 
-Operational reporting in healthcare and financial services is often stuck in one of two failure modes: ad-hoc spreadsheet requests that eat analyst time, or enterprise BI tools that are technically impressive and practically unused. Neither serves the people making decisions.
+**Best for:** Leadership teams making decisions from spreadsheets, emailed reports, or gut instinct — and wanting one place where the numbers are current, reliable, and organized around the decisions that matter.
 
-I build dashboards scoped to specific operational decisions — claims trend monitoring, quality measure performance, credit portfolio concentration, compliance reporting — using tools your team can actually maintain. The goal is a report your clinical director, risk officer, or finance team checks without being asked, because it shows them what they need to know.
+The most common data problem isn't missing data — it's data that exists in five places, maintained inconsistently, and summarized differently depending on who you ask. An Executive Dashboard System creates a single source of truth: one place where revenue, volume, utilization, or whatever drives your business is visible, updated automatically, and designed for the people making decisions rather than the people producing reports.
 
----
-
-## Data Cleaning & Pipeline Automation
-
-EHR extracts, claims feeds, core banking data, and third-party data sources all arrive messy, inconsistently formatted, and in need of significant transformation before anyone can analyze them. If your analysts are spending a meaningful portion of their time on data prep, that's a pipeline problem, not an analyst problem.
-
-I build automated pipelines that extract, validate, transform, and load data into a format your team can actually use — on a schedule, with error handling, and with documentation that doesn't live exclusively in one person's head. Past work includes Medicare claims processing pipelines, EHR data extraction for quality program reporting, and financial data reconciliation workflows.
+Built on your existing data sources. Designed to be used daily, not opened once and forgotten.
 
 ---
 
-[Get in Touch](/contact/){: .btn .btn--primary .btn--large}
+## Forecasting & Planning Models
+
+**Best for:** Businesses that need to plan ahead — revenue projections, patient or client volume, staffing levels, cash flow — and are currently relying on last year's numbers or rough estimates.
+
+Good forecasts require the right model for your data, not just a trend line in Excel. We build models that are calibrated to how your business actually behaves, documented well enough for non-technical stakeholders to understand and challenge, and updated as your data changes.
+
+Common use cases: revenue forecasting, patient or client volume projections, staffing models, scenario planning for growth or contraction, and program cost/ROI modeling.
+
+In regulated environments (healthcare, banking), models are built to appropriate validation standards — including SR 11-7 model risk management requirements where applicable.
+
+---
+
+## Automated Reporting & Data Pipelines
+
+**Best for:** Teams spending hours every week on data prep, report assembly, or reconciliation work that could run automatically.
+
+If the answer to "how do you produce that report?" involves downloading files from three systems, pasting them into a spreadsheet, doing some cleanup, and emailing a PDF — that's a pipeline problem. It's also a risk: manual processes break, introduce errors, and depend on whoever knows the steps.
+
+We replace manual workflows with automated, reliable pipelines that extract, validate, and transform your data on a schedule — with error handling and documentation that doesn't live exclusively in one person's head.
+
+Common use cases: replacing manual Excel reporting workflows, automating data pulls from EHRs, practice management systems, or core banking platforms, and building reconciliation processes for data that arrives from multiple sources.
+
+---
+
+## Advanced & Regulated Analytics
+
+**Best for:** Healthcare organizations, financial institutions, and research teams with technical complexity — regulated data environments, model governance requirements, or AI/LLM pilots.
+
+This is the deeper technical layer. Work in this area includes:
+
+- **Healthcare claims and EHR analytics** — Medicare and commercial claims analysis, EHR data extraction and quality reporting, prior authorization workflow automation, quality measure performance (HEDIS, CAHPS, clinical quality), and program ROI evaluation.
+- **Model validation and governance** — Quantitative model validation under SR 11-7, documentation for model risk management frameworks, and independent review of vendor models.
+- **AI and LLM integration** — Deploying large language models in production for document review, clinical decision support, or information extraction in compliance-sensitive environments. Accurate, auditable, and built for regulated contexts.
+
+This work draws on direct experience: production LLM systems at a health tech company, risk model validation at a regional bank, and Medicare quality analytics at a national quality improvement organization.
+
+---
+
+Not sure which service fits your situation? [Start with a Diagnostic Conversation](/contact/){: .btn .btn--primary .btn--large}
