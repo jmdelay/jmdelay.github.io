@@ -1,71 +1,60 @@
 ---
 permalink: /services/
 title: "Services"
-excerpt: "Outcome-based analytics engagements for growing businesses without a dedicated data team — diagnostics, dashboards, forecasting, and automation."
+excerpt: "Three ways to work together—small projects, large projects, and continuous fractional support. Start with a free data and operations audit."
 layout: single
 author_profile: true
 ---
 
-Five engagement types, each designed to solve a specific problem for businesses that don't have a dedicated data team. Start with a Diagnostic if you're not sure where to begin — or go directly to the service that matches your pain point.
+Changepoint Analytics is a fractional analytics operator. We don't sell software or strategy decks. We come in, understand the business quickly, answer the question in front of you, and build something you can actually use.
 
 ---
 
-## Data & Reporting Diagnostic
+## Ways to Work Together
 
-**Best for:** Teams that know something is wrong with their reporting but aren't sure where to start — or organizations that want an outside opinion before committing to a larger project.
+### Small Project — Fast, Focused Answers
 
-Most data problems look more complicated than they are. The Diagnostic is a focused, fixed-price engagement that reviews your current reporting and data setup, identifies the highest-priority gaps, and delivers a written recommendation with clear options. You walk away knowing what the actual problem is, what it would take to fix it, and whether it makes sense to proceed.
+*Ideal when you have one clear question, bottleneck, or reporting gap and need answers quickly.*
 
-Typical deliverable: written assessment, prioritized recommendations, and a scoping proposal for next steps if applicable.
+- Data & operations audits
+- KPI dashboards
+- Ad-hoc analysis & forecasting
+- Process or reporting automation
 
----
-
-## Executive Dashboard System
-
-**Best for:** Leadership teams making decisions from spreadsheets, emailed reports, or gut instinct — and wanting one place where the numbers are current, reliable, and organized around the decisions that matter.
-
-The most common data problem isn't missing data — it's data that exists in five places, maintained inconsistently, and summarized differently depending on who you ask. An Executive Dashboard System creates a single source of truth: one place where revenue, volume, utilization, or whatever drives your business is visible, updated automatically, and designed for the people making decisions rather than the people producing reports.
-
-Built on your existing data sources. Designed to be used daily, not opened once and forgotten.
+After this type of engagement, leaders typically know what decision to make next — and what not to spend time fixing yet.
 
 ---
 
-## Forecasting & Planning Models
+### Large Project — Build Something That Lasts
 
-**Best for:** Businesses that need to plan ahead — revenue projections, patient or client volume, staffing levels, cash flow — and are currently relying on last year's numbers or rough estimates.
+*Best for cross-functional problems or decisions that repeat month after month.*
 
-Good forecasts require the right model for your data, not just a trend line in Excel. We build models that are calibrated to how your business actually behaves, documented well enough for non-technical stakeholders to understand and challenge, and updated as your data changes.
+- End-to-end analytics systems
+- Pricing, forecasting, or optimization models
+- Multi-source data integration
+- Internal decision tools
 
-Common use cases: revenue forecasting, patient or client volume projections, staffing models, scenario planning for growth or contraction, and program cost/ROI modeling.
+These engagements replace recurring confusion with a durable internal tool — so leadership isn't revisiting the same questions every quarter.
 
-In regulated environments (healthcare, banking), models are built to appropriate validation standards — including SR 11-7 model risk management requirements where applicable.
-
----
-
-## Automated Reporting & Data Pipelines
-
-**Best for:** Teams spending hours every week on data prep, report assembly, or reconciliation work that could run automatically.
-
-If the answer to "how do you produce that report?" involves downloading files from three systems, pasting them into a spreadsheet, doing some cleanup, and emailing a PDF — that's a pipeline problem. It's also a risk: manual processes break, introduce errors, and depend on whoever knows the steps.
-
-We replace manual workflows with automated, reliable pipelines that extract, validate, and transform your data on a schedule — with error handling and documentation that doesn't live exclusively in one person's head.
-
-Common use cases: replacing manual Excel reporting workflows, automating data pulls from EHRs, practice management systems, or core banking platforms, and building reconciliation processes for data that arrives from multiple sources.
+**Regulated and advanced work** often lands here: healthcare claims and EHR analytics (Medicare and commercial claims, quality reporting, prior authorization workflows, HEDIS and related measures, program ROI), model validation and governance under SR 11-7, and production AI/LLM integration for document review, clinical decision support, or extraction in compliance-sensitive environments. That depth is available when the project requires it — built on direct experience with production LLM systems at a health tech company, risk model validation at a regional bank, and Medicare quality analytics at a national quality improvement organization.
 
 ---
 
-## Advanced & Regulated Analytics
+### Continuous Support — Fractional Analytics Support
 
-**Best for:** Healthcare organizations, financial institutions, and research teams with technical complexity — regulated data environments, model governance requirements, or AI/LLM pilots.
+*Ongoing support when analytics is part of how you run the business, but not enough to justify a full-time hire.*
 
-This is the deeper technical layer. Work in this area includes:
+- Monthly reporting & insight refreshes
+- Leadership decision support
+- Model monitoring & iteration
+- Data quality ownership
 
-- **Healthcare claims and EHR analytics** — Medicare and commercial claims analysis, EHR data extraction and quality reporting, prior authorization workflow automation, quality measure performance (HEDIS, CAHPS, clinical quality), and program ROI evaluation.
-- **Model validation and governance** — Quantitative model validation under SR 11-7, documentation for model risk management frameworks, and independent review of vendor models.
-- **AI and LLM integration** — Deploying large language models in production for document review, clinical decision support, or information extraction in compliance-sensitive environments. Accurate, auditable, and built for regulated contexts.
-
-This work draws on direct experience: production LLM systems at a health tech company, risk model validation at a regional bank, and Medicare quality analytics at a national quality improvement organization.
+This works best for teams where analytics informs regular leadership decisions, but hiring full-time would be overkill.
 
 ---
 
-Not sure which service fits your situation? [Start with a Diagnostic Conversation](/contact/){: .btn .btn--primary .btn--large}
+## Start with a Free Data & Operations Audit
+
+A short, no-commitment look at what your data is saying, what's missing, and what's actually worth fixing.
+
+[Book a meeting](/contact/){: .btn .btn--primary .btn--large}

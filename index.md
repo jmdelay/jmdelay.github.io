@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-excerpt: "Decision‑focused data and analytics for growing businesses."
+excerpt: "Fractional analytics operator for growing businesses—real answers from your data without a full data team."
 ---
 
 <div class="brand-hero">
@@ -39,26 +39,19 @@ excerpt: "Decision‑focused data and analytics for growing businesses."
 
 ## What We Do
 
-Changepoint Analytics helps healthcare practices, financial services firms, and professional services teams make sense of their operational data — without hiring full-time analytics staff. Whether the problem is reporting that takes a day to produce manually, numbers leadership doesn't trust, or decisions made on gut instinct because the data isn't organized, we scope a project, build the solution, and hand it off so your team can use it.
+Changepoint Analytics is a fractional analytics operator. We don't sell software or strategy decks. We come in, understand the business quickly, answer the question in front of you, and build something you can actually use.
+
+We work most often with healthcare practices, financial services firms, and professional services teams—when reporting is manual, numbers aren't trusted, or decisions default to gut because the data isn't organized.
 
 ---
 
 ## Services
 
-**Data & Reporting Diagnostic**
-Not sure where to start, or whether your data is even in shape for a bigger project? A focused scoping engagement that reviews your current reporting, identifies gaps, and produces a clear recommendation — low commitment, concrete output.
+**Small project — fast, focused answers** — One clear question, bottleneck, or reporting gap; audits, dashboards, ad-hoc analysis, automation.
 
-**Executive Dashboard System**
-One place where leadership sees the numbers that actually drive decisions — revenue, volume, utilization, or whatever matters in your business. Built on your existing data, designed to be used daily, not just at the end of the quarter.
+**Large project — build something that lasts** — Cross-functional problems that repeat every month; systems, models, integration, internal decision tools (including regulated environments when needed).
 
-**Forecasting & Planning Models**
-Revenue forecasts, patient or client volume projections, staffing models, and scenario planning tools. Built to be explainable to non-technical stakeholders and updated as your data changes.
-
-**Automated Reporting & Data Pipelines**
-If someone on your team spends hours every week pulling together a report that could run automatically, that's a pipeline problem. We replace manual Excel workflows with automated, reliable processes.
-
-**Advanced & Regulated Analytics**
-Healthcare claims analysis, model validation, AI pilots, and work requiring SR 11-7 or CMS compliance standards. This is the deeper technical layer for organizations in regulated environments.
+**Continuous support — fractional analytics** — Ongoing reporting, leadership support, model iteration, and data quality—without a full-time hire.
 
 [See all services](/services/){: .btn .btn--inverse}
 
@@ -74,19 +67,19 @@ Healthcare claims analysis, model validation, AI pilots, and work requiring SR 1
 
 ## How Engagements Work
 
-Most projects follow the same pattern:
+Most relationships follow the same pattern:
 
-1. **Diagnostic conversation** — We review your data, reporting setup, and what decisions you're trying to make. This is free and takes 30–45 minutes.
-2. **Scoping engagement** — A short, fixed-price engagement to audit your data and produce a concrete recommendation. Low commitment, clear output. Often the right first project.
-3. **Fixed-scope project** — Typically 2–8 weeks. A defined deliverable: a dashboard, a model, an automated pipeline. You know the scope and cost before we start.
-4. **Optional follow-on support** — Some clients want periodic updates or a second project. That's available, but it's never the default assumption.
+1. **Free Data & Operations Audit** — A short, no-commitment look at what your data is saying, what's missing, and what's actually worth fixing. We'll tell you honestly whether we can help.
+2. **Scoping engagement** — When you're ready to move, a short, fixed-price engagement produces a concrete recommendation and clear options—often the right first paid step after the audit.
+3. **Fixed-scope project** — Typically a few weeks. A defined outcome aligned with a small or large project (see [Services](/services/)). You know the scope and cost before we start.
+4. **Optional continuous support** — For teams where analytics is part of how they run the business but a full-time hire isn't justified.
 
 We're not a large agency and we're not pitching a six-figure transformation. Most engagements start small and expand only if the first project delivers.
 
 ---
 
-## Start with a Diagnostic Conversation
+## Start with a Free Data & Operations Audit
 
-Not sure if your data problem is solvable, or whether it's worth the investment? Start with a short conversation. We'll look at your reporting setup, understand what decisions you're trying to make, and tell you honestly whether we can help — and if so, what that would look like.
+A short, no-commitment look at what your data is saying, what's missing, and what's actually worth fixing.
 
 [Get in Touch](/contact/){: .btn .btn--primary .btn--large}

@@ -29,8 +29,8 @@ author_profile: true
 **"How long does a typical project take?"**
 This varies wildly depending on scope. Ad-hoc analyses might be 1-2 weeks. An enterprise dashboard or application could be 4-8 weeks. An ongoing retainer is open-ended.
 
-**"What's your process from first call to delivery?"**
-Introduction → Scope Definition → Proposal → Kickoff → Analysis → Deliverable → Handoff
+**"What's your process from the free audit to delivery?"**
+Free Data & Operations Audit → Scope definition → Proposal → Kickoff → Analysis → Deliverable → Handoff. Details on how we work together are on the [Services](/services/) page (small projects, large projects, continuous support).
 
 **"Do you work on retainer, or is it project-by-project?"**
 My bandwidth varies through the year. Time demand will be discussed during Scope Definition.
@@ -72,10 +72,10 @@ You'll get code, documentation, and a walkthrough so you (or your team) can main
 ## Pricing:
 
 **"Seriously, what is this actually going to cost?"**
-A staff data scientist would cost you $50-$100 per hour. I price to ensure your return exceeds the investment. During our first call, we'll scope the work and I'll give you a range that reflects the complexity and impact.
+A staff data scientist would cost you $50-$100 per hour. I price to ensure your return exceeds the investment. After the free audit, we'll scope the work and I'll give you a range that reflects the complexity and impact.
 
 ---
 
-[Book a free 45-minute call](/contact/){: .btn .btn--primary .btn--large}
+[Start with a Free Data & Operations Audit](/contact/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}
