@@ -16,6 +16,12 @@ bundle exec jekyll serve --port 5000
 bundle exec jekyll build
 ```
 
+### Windows: `certificate verify failed` when using `jekyll-remote-theme`
+
+If `bundle exec jekyll serve` fails while downloading the Minimal Mistakes theme from GitHub with `SSL_connect ... certificate verify failed (unable to get local issuer certificate)`, check **third-party HTTPS interception** first. Antivirus tools (for example **Avast** “Web Shield” / SSL scanning) terminate TLS and present a custom root CA; Ruby’s default trust store does not include that root, so every GitHub request fails.
+
+**Fix (pick one):** In the antivirus product, disable **HTTPS scanning** / **SSL scanning** for development, or exclude `ruby.exe`, `bundle`, and/or `jekyll` from SSL inspection. After that, `bundle exec jekyll serve` should reach GitHub normally. Re-enabling scanning is fine for browsing if you add a narrower exception for dev tools.
+
 ## Architecture
 
 **Stack:** Jekyll + Minimal Mistakes v4.24.0 (remote theme) + GitHub Pages
