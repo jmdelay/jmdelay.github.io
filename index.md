@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-excerpt: "Data and analytics support for growing service businesses without a dedicated data team."
+excerpt: "Decision‑focused data and analytics for growing businesses."
 ---
 
 <div class="brand-hero">
