@@ -1,4 +1,4 @@
-# Changepoint Analytics — Consulting site
+# Changepoint Analytics LLC — Consulting site
 
 Personal site for small business data science and research consulting. Built with Jekyll and the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme, deployed on GitHub Pages.
 

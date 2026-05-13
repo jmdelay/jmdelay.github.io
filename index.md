@@ -5,7 +5,7 @@ excerpt: "Fractional analytics operator for growing businesses—real answers fr
 ---
 
 <div class="brand-hero">
-  <svg width="100%" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg" aria-label="Changepoint Analytics">
+  <svg width="100%" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg" aria-label="Changepoint Analytics LLC">
     <defs>
       <style>
         .cp-mark  { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:30px; font-weight:500; fill:#1B2A4A; letter-spacing:-0.01em; }
