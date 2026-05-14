@@ -43,3 +43,5 @@ exclude:
   - Gemfile.lock
   - vendor
   - CLAUDE.md
+  - plan.md
+  - README.md
