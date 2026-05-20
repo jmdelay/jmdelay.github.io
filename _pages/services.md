@@ -1,60 +1,87 @@
 ---
 permalink: /services/
 title: "Services"
-excerpt: "Three ways to work together—small projects, large projects, and continuous fractional support. Start with a free data and operations audit."
+excerpt: "Three ways to work together—Answer, System, and Engine. Start with a free 45-minute Data & Operations Audit."
 layout: single
 author_profile: true
 ---
 
-Changepoint Analytics is a fractional analytics operator. We don't sell software or strategy decks. We come in, understand the business quickly, answer the question in front of you, and build something you can actually use.
+Changepoint Analytics builds **decision infrastructure** for SMB operators without an internal data function. Every engagement maps to one of three outcomes—Answer, System, or Engine—so you know what you're buying and what you'll have when it's done.
+
+You get the logic, code, and explanation. No black boxes. No open-ended retainers.
 
 ---
 
-## Ways to Work Together
+## Answer
 
-### Small Project — Fast, Focused Answers
+*Settle one high-stakes question.*
 
-*Ideal when you have one clear question, bottleneck, or reporting gap and need answers quickly.*
+When you have a specific decision in front of you—pricing, capacity, staffing, payer mix, location, hiring, a question your reports won't answer—and you need a clear recommendation, not a dashboard.
 
-- Data & operations audits
-- KPI dashboards
-- Ad-hoc analysis & forecasting
-- Process or reporting automation
-
-After this type of engagement, leaders typically know what decision to make next — and what not to spend time fixing yet.
+- One-time analysis on a real decision
+- Plain-language output with reasoning and caveats
+- Clear next step—no ongoing system to maintain
+- Typical timeline: **1–3 weeks**
 
 ---
 
-### Large Project — Build Something That Lasts
+## System
 
-*Best for cross-functional problems or decisions that repeat month after month.*
+*Build a repeatable workflow or tool.*
 
-- End-to-end analytics systems
-- Pricing, forecasting, or optimization models
-- Multi-source data integration
-- Internal decision tools
+When the same question keeps coming up every month and you need a durable internal capability—not a one-off analysis you'll have to re-do.
 
-These engagements replace recurring confusion with a durable internal tool — so leadership isn't revisiting the same questions every quarter.
+- Structured data → repeatable output your team uses internally
+- Logic, code, and a walkthrough so your team can run it
+- Durable—no continuous babysitting required
+- Typical timeline: **2–6 weeks**
 
-**Regulated and advanced work** often lands here: healthcare claims and EHR analytics (Medicare and commercial claims, quality reporting, prior authorization workflows, HEDIS and related measures, program ROI), model validation and governance under SR 11-7, and production AI/LLM integration for document review, clinical decision support, or extraction in compliance-sensitive environments. That depth is available when the project requires it — built on direct experience with production LLM systems at a health tech company, risk model validation at a regional bank, and Medicare quality analytics at a national quality improvement organization.
-
----
-
-### Continuous Support — Fractional Analytics Support
-
-*Ongoing support when analytics is part of how you run the business, but not enough to justify a full-time hire.*
-
-- Monthly reporting & insight refreshes
-- Leadership decision support
-- Model monitoring & iteration
-- Data quality ownership
-
-This works best for teams where analytics informs regular leadership decisions, but hiring full-time would be overkill.
+Common Systems: revenue-cycle leak detection, denial root-cause workflows, capacity/scheduling models, payer mix or service-line economics, lightweight pricing tools, automated client/patient cohort builds.
 
 ---
 
-## Start with a Free Data & Operations Audit
+## Engine
 
-A short, no-commitment look at what your data is saying, what's missing, and what's actually worth fixing.
+*Ongoing decision system.*
 
-[Book a meeting](/contact/){: .btn .btn--primary .btn--large}
+When the decision itself needs to keep happening—every week, every shift, every claim—and a human checking a dashboard won't get it done.
+
+- Multi-step pipeline: **data → logic → output → action**
+- Runs on a schedule or continuously, asynchronously
+- Produces recurring operational decisions, not just reports
+- Sized to the cadence and stakes of the decision it produces
+
+If a System starts being updated continuously, it's an Engine—and gets rescoped as one.
+
+---
+
+## Optional support layer
+
+Light continuity after a System or Engine ships, for teams that want async expert backup without an open-ended retainer.
+
+- Async only, scoped requests per month
+- No real-time access or open-ended availability
+- Sized to the specific Engine or System it backs
+
+---
+
+## What I don't sell
+
+- Dashboards or reporting as the primary deliverable
+- Open-ended advisory or strategy decks
+- Heavy infrastructure builds or platform projects
+- "Trust me, it works" black-box models
+
+If what you actually need is one of those, I'll tell you—and often I can point you toward someone who does it well.
+
+---
+
+## How an engagement starts
+
+1. **45-minute Data & Operations Audit** *(free)* — A structured discussion to diagnose problem, data, and feasibility. Ends with an honest recommendation: Answer, System, Engine, or no fit.
+2. **Scoped proposal** — Fixed scope for Answers and Systems, fixed monthly for Engines. You know cost and outcome before we start.
+3. **Delivery** — Code, logic, explanation, and a walkthrough. Your team can run it after I leave.
+
+---
+
+[Book a free audit](/contact/){: .btn .btn--primary .btn--large}

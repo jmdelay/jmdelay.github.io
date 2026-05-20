@@ -1,57 +1,49 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Fractional analytics operator—real answers from your data for organizations without a full data team."
+excerpt: "A solo operator building decision systems SMBs actually use—not dashboards, not advice."
 layout: single
 author_profile: true
 ---
 
-Changepoint Analytics is a fractional analytics operator. We don't sell software or strategy decks. We come in, understand the business quickly, answer the question in front of you, and build something you can actually use.
+Changepoint Analytics is a one-person operation. I build **decision infrastructure** for SMB operators who have real data and real decisions to make, but no internal data team to make them.
 
-I'm John DeLay, the person behind Changepoint. I take on a limited number of clients at a time and scope work to specific outcomes—then document and hand off so your team can use what we build.
-
----
-
-## Who this is for
-
-**Small and mid-sized organizations** — especially teams that need recurring answers from data but don't have room for a full-time analytics hire. If the same decisions keep coming up every month and the numbers live in spreadsheets, email, or gut instinct, the engagement model is built for you.
-
-**Healthcare organizations** — health plans, health tech companies, provider groups, and quality improvement organizations. If your team is trying to extract signal from clinical notes, build explainable models from claims data, or stand up reporting that reflects what's happening clinically—that's the work I do.
-
-**Financial services firms** — regional banks, credit unions, risk and compliance teams. If you need models that are accurate *and* auditable or have analysts spending too much time on data prep instead of analysis, I can help.
-
-**Academic researchers** — faculty and graduate students who need a collaborator for data analysis, study design, grant support, or manuscript preparation. I've worked in that environment and understand what peer review and IRB compliance actually require.
-
-If you don't fit neatly into one of those buckets, you're still welcome to reach out. The model is the same—scoped to your problem, delivered without jargon.
+I'm John DeLay. I take a small number of clients at a time—on purpose—and every engagement maps to a clear outcome: an **Answer**, a **System**, or an **Engine**. You get logic, code, and explanation. No black boxes, no open-ended retainers, no slide decks pretending to be deliverables.
 
 ---
 
-## How engagements work
+## Who I work with
 
-**Small projects** — Fast, focused answers when you have one clear question, bottleneck, or reporting gap.
+**Primary — healthcare practices, clinics, and outpatient operators.** If you have EHR, claims, billing, or scheduling data and a recurring operational or revenue-cycle question no one has time to answer cleanly, that's the core of what I do.
 
-**Large projects** — Build something that lasts when the problem is cross-functional or the same decision repeats month after month.
+**Also a fit — operations-driven services and retail SMBs.** Same pattern: real data, a real decision, and no analyst to make it.
 
-**Continuous support** — Fractional analytics when insight and data quality need to be part of how you run the business, but a full-time role would be overkill.
-
-Details and examples are on the [Services](/services/) page. Every engagement ends with documentation and a handoff; if your team needs to maintain or extend the work, that's planned from the start.
+If you don't fit either bucket but you have data and a specific decision in front of you, reach out anyway. I'll tell you honestly whether I can help.
 
 ---
 
-## Why clients trust me
+## What I'm not
 
-**About John**
+- **Not a dashboard shop.** If what you actually need is a reporting tool, there are better options than me.
+- **Not a vague consultant.** I don't sell strategy decks or open-ended advisory.
+- **Not a platform project.** I work from your existing messy data; no six-month transformation required first.
 
-**Education:** MSPH in Biostatistics, University of Alabama at Birmingham — BS in Mathematics, Birmingham-Southern College.
-
-**Background:** Health tech (AI/LLM systems, prior authorization), regional banking (risk model validation, SR 11-7), Medicare quality improvement (CMS programs, claims analytics, EHR data), published public health research.
-
-I've built and deployed LLM-based workflows at a health tech company focused on prior authorization and clinical decision support. I've validated quantitative risk models at a major regional bank under SR 11-7 requirements. I've done Medicare quality analytics and program evaluation at a national quality improvement organization. And I've contributed to peer-reviewed public health research through UAB.
-
-Based in Birmingham, AL. I work with clients remotely and locally.
+What I am: a solo operator building decision systems SMBs actually use. Productized leverage, not billable hours for their own sake.
 
 ---
 
-[Start with a Free Data & Operations Audit](/contact/){: .btn .btn--primary .btn--large}
+## Background
+
+**Education** — MSPH in Biostatistics, University of Alabama at Birmingham; BS in Mathematics, Birmingham-Southern College.
+
+**Experience** — Production AI / LLM workflows at a health tech company (prior authorization, clinical decision support). Quantitative risk model validation under SR 11-7 at a regional bank. Medicare quality analytics and program evaluation at a national quality improvement organization. Peer-reviewed public health research through UAB.
+
+That depth is available when a project requires it. Most of the time, what you actually need is simpler than that—and I'd rather do the simple thing well than oversell the complicated one.
+
+Based in Birmingham, AL. Local and remote.
+
+---
+
+[Start with a 45-minute Data & Operations Audit](/contact/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}

@@ -6,76 +6,70 @@ layout: single
 author_profile: true
 ---
 
-<style>
-.testimonial-block {
-  border-left: 4px solid #1a1a2e;
-  padding: 0.75em 1.25em;
-  margin: 1.5em 0;
-  background: #f8f8f8;
-  font-size: 1.05em;
-  font-style: italic;
-}
-.testimonial-attribution {
-  font-style: normal;
-  font-size: 0.9em;
-  color: #555;
-  margin-top: 0.5em;
-}
-</style>
+## Offers & fit
 
+**"What's the difference between an Answer, a System, and an Engine?"**
+An **Answer** settles one specific decision—one-time analysis, plain-language recommendation, no ongoing system. A **System** is a repeatable internal workflow or tool your team uses to produce the same kind of output again and again. An **Engine** is an ongoing decision system that runs on a schedule and produces recurring operational decisions—data → logic → output → action. Details on the [Services](/services/) page.
 
-## Process & timeline:
+**"How do I know which one I need?"**
+That's exactly what the free 45-minute Data & Operations Audit is for. Most operators come in thinking they need one and leave needing a different one. Sometimes the right answer is "you don't need any of this yet"—and I'll tell you that, too.
 
-**"How long does a typical project take?"**
-This varies wildly depending on scope. Ad-hoc analyses might be 1-2 weeks. An enterprise dashboard or application could be 4-8 weeks. An ongoing retainer is open-ended.
+**"Do you take dashboard or reporting projects?"**
+No, not as the primary deliverable. Reporting is a thing your team should own. If a dashboard falls out of a System or Engine as a side effect, fine—but I'm not the right person to build "we need a dashboard" as the goal.
 
-**"What's your process from the free audit to delivery?"**
-Free Data & Operations Audit → Scope definition → Proposal → Kickoff → Analysis → Deliverable → Handoff. Details on how we work together are on the [Services](/services/) page (small projects, large projects, continuous support).
-
-**"Do you work on retainer, or is it project-by-project?"**
-My bandwidth varies through the year. Time demand will be discussed during Scope Definition.
-
-**"Can you start immediately, or do you have a waitlist?"**
-I can start small projects immediately. Long-term arrangements will depend on my client load.
+**"What industries do you work with?"**
+Primarily healthcare practices, clinics, and outpatient operators. I also work with operations-driven services and retail SMBs that fit the same pattern—real data, real decision, no internal data team. Background is healthcare and finance; good methodology travels.
 
 ---
 
-## Data & logistics:
+## Process & timeline
 
-**"What if my data is messy / in different systems / not well-organized?"**
-Data cleaning is part of my process. If your data needs ETL work, that's built into the timeline and scope.
+**"How long does a typical engagement take?"**
+- **Answer:** 1–3 weeks
+- **System:** 2–6 weeks
+- **Engine:** ongoing once built; initial build is similar to a System
 
-**"Do you need to visit in person, or can we work remotely?"**
-My work is done remote, but I'm always happy to leave my office for meetings.
+**"What's the process from audit to delivery?"**
+Free 45-minute Data & Operations Audit → recommendation (Answer / System / Engine / no fit) → fixed-scope proposal → kickoff → delivery with code, logic, and walkthrough.
 
-**"How do you handle sensitive data / confidentiality?"**
-My career has always fallen under supervision of HIPAA, IRB, and the Federal Reserve. Additional documentation and security infrastructure can be arranged.
-
-**"What tools/software do I need to have?"**
-I can handle CSVs and spreadsheets for quick projects, or I can access your enterprise tools with APIs. If you have complex data infrastructure, that's something we'll scope upfront so there are no surprises.
-
----
-
-## Scope & expectations:
-
-**"How do I know if this is the right fit for my budget?"**
-I tailor my services to ensure that your bottom line is _better_ after I'm gone.
-
-**"What industries can you work with?"**
-My background is healthcare and finance, but I'm eager to work across industries. Good methodology travels.
-
-**"What happens after the project? Is it a black box, or do you explain what you built?"**
-You'll get code, documentation, and a walkthrough so you (or your team) can maintain it. No black boxes.
+**"Can you start immediately, or is there a waitlist?"**
+I cap concurrent clients on purpose. I can usually start an Answer quickly; Systems and Engines depend on current load. I'll be honest about timing in the audit.
 
 ---
 
-## Pricing:
+## Data & logistics
 
-**"Seriously, what is this actually going to cost?"**
-A staff data scientist would cost you $50-$100 per hour. I price to ensure your return exceeds the investment. After the free audit, we'll scope the work and I'll give you a range that reflects the complexity and impact.
+**"My data is messy / spread across systems / partly in spreadsheets. Is that a problem?"**
+That's the normal starting point. Cleaning and reconciling are part of the work and scoped upfront. I don't require a platform project before we can do anything useful.
+
+**"Do we need to meet in person?"**
+Work is done remote. Birmingham-area clients—happy to meet in person when it's useful.
+
+**"How do you handle sensitive data and confidentiality?"**
+My career has operated under HIPAA, IRB, and Federal Reserve supervision. BAAs, NDAs, and additional security arrangements are available when the engagement calls for it.
+
+**"What tools do I need to have?"**
+For an Answer, often just CSV/Excel exports. For a System or Engine, we'll scope the data access upfront so there are no surprises.
 
 ---
 
-[Start with a Free Data & Operations Audit](/contact/){: .btn .btn--primary .btn--large}
+## Scope & deliverables
+
+**"Will I be locked into a black box?"**
+No. Every engagement ships with the underlying logic, code, and a walkthrough. Your team can run, audit, or extend the work after I leave.
+
+**"What if the work starts becoming ongoing?"**
+If a System starts being updated continuously, it becomes an Engine and gets rescoped as one. I'd rather have that conversation early than slowly turn into a scope-creep retainer.
+
+---
+
+## Investment
+
+**"How is pricing handled?"**
+Answers and Systems are fixed-scope. Engines are fixed-monthly. Specifics come out of the audit once we've scoped the problem, data, and feasibility together—pricing in the abstract tends to mislead more than it informs. If the ROI isn't clear, I won't take the project; that filter saves both of us time.
+
+---
+
+[Start with a 45-minute Data & Operations Audit](/contact/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}
