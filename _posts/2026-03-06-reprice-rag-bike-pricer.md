@@ -1,7 +1,7 @@
 ---
-title: "rePRICE: Know What It's Worth Before You Name a Number"
+title: "rePRICE: Know What Used Inventory Is Worth Before You Name a Number"
 date: 2026-03-06
-excerpt: "Pricing used inventory is a guessing game—until you ground it in real market data. rePRICE scrapes live eBay listings and uses AI to reason over actual comparables, producing confident price estimates in under a second."
+excerpt: "Pricing used inventory is a guessing game until you ground it in current market data. rePRICE turns live comparable listings into a repeatable pricing workflow for operators who cannot afford to leave margin behind."
 layout: single
 author_profile: true
 categories:
@@ -16,11 +16,22 @@ tags:
   - bicycles
 ---
 
-Pricing used inventory is a guessing game. You either trust gut feel, scan a few recent listings yourself, or lean on a reference sheet that was accurate six months ago—and any of those approaches will cost you, either in margin left behind or deals that fall apart because you came in too high. The real answer is to look at what comparable items are actually selling for right now, and reason from that.
+Pricing used inventory is a margin problem hiding inside a workflow problem. The person naming the price usually has seconds, not an hour, to decide what an item is worth. If they price too low, margin disappears. If they price too high, the item sits or the deal falls apart.
 
-## The demo
+The business question behind **rePRICE** is simple: **what should we offer or list this item for, based on the market right now?**
 
-I built **rePRICE** to do exactly that for used bikes. You give it a make, model, year, and condition—it pulls live comparable sales, computes market statistics, and hands back a price card in under a second:
+## The data used
+
+The demo uses used bicycles because the market is active, fragmented, and easy to verify. For each pricing request, the workflow pulls current eBay comparables, extracts the relevant listing details, and stores them in a searchable database. The important inputs are the same things a human pricer would check manually:
+
+- Make, model, year, and condition
+- Recent comparable prices
+- Location and market context
+- Evidence strength: how many close matches were available, and how consistent they were
+
+## The workflow
+
+You give rePRICE a make, model, year, and condition. It retrieves the closest real-world comparables, computes market statistics, and produces a pricing card in under a second:
 
 ```
 ====================================================
@@ -37,17 +48,30 @@ I built **rePRICE** to do exactly that for used bikes. You give it a make, model
     - Active Seattle commuter bike demand
 ```
 
-That estimate is grounded in the same listings a buyer would find if they searched eBay themselves—not a static table, not a guess.
+That estimate is grounded in the same listings a buyer would find if they searched eBay themselves. The difference is that the evidence is gathered, filtered, and summarized in a repeatable way.
 
 ## How it works
 
-The tool scrapes live eBay listings for whatever bike you're valuing, stores them in a searchable database, and when you ask for a price, it finds the closest real-world comparables—matching on make, model, condition, and geography—then hands those listings and their statistics to an AI model to reason over. If the database doesn't have an exact match, it widens the search automatically until it finds enough evidence to work with. The number you get isn't a guess; it's the same conclusion a careful human would reach after an hour of research, done in seconds.
+The tool scrapes live listings for whatever item is being valued, stores them in a searchable database, and retrieves the closest matches by make, model, condition, and geography. It then hands the comparable set and summary statistics to an AI model to reason over. If the database does not have an exact match, it widens the search until there is enough evidence to work with.
 
 ![rePRICE system architecture: scrape, store, retrieve, price](/assets/images/reprice/architecture.png)
 
-## This isn't really about bikes
+## The decision it enables
 
-Used bikes are a convenient example, but the problem is universal. A **pawn shop** deciding what to offer on a guitar before the customer walks out. A **used furniture dealer** sizing up an estate purchase without time to do a full market sweep. A **consignment shop** trying to move inventory at the right price without leaving margin behind. Anywhere you price assets in a market that moves—week to week, city to city—the cost of being wrong adds up fast, and the solution is the same: ground your estimates in real, current data.
+The output is not a dashboard. It is a decision aid for the moment when a price has to be named:
+
+- What should we offer for this item?
+- What should we list it for?
+- How wide should the acceptable price range be?
+- Is the evidence strong enough to trust, or should a human review it?
+
+For an operator, the value is consistency. The same pricing logic can run for every employee, every location, and every week without relying on one person's memory of the market.
+
+## Who should care
+
+Used bikes are a convenient example, but the problem is universal. A **pawn shop** deciding what to offer on a guitar before the customer walks out. A **used furniture dealer** sizing up an estate purchase without time to run a full market sweep. A **consignment shop** trying to move inventory without leaving margin behind. A **clinic or care-adjacent business** pricing refurbished equipment, resale inventory, or patient-facing supply bundles where market prices move faster than the internal reference sheet.
+
+Anywhere you price assets in a changing market, the cost of being wrong adds up quickly. The decision-support pattern is the same: ground the estimate in current data, make the reasoning visible, and turn the process into a repeatable workflow.
 
 ---
 
