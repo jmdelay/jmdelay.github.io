@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-excerpt: "Decision infrastructure for SMB operators without an internal data function. Turn the data you already have into decisions, systems, and engines your team actually uses."
+excerpt: "Find the profit leaks hiding in your operations. I help SMB operators reduce waste, protect margin, and act faster using the data they already have—without hiring a data team."
 ---
 
 <div class="brand-hero">
@@ -28,26 +28,29 @@ excerpt: "Decision infrastructure for SMB operators without an internal data fun
     <text class="cp-mark"  x="308" y="96">Changepoint</text>
     <text class="cp-sub" x="309" y="116">ANALYTICS</text>
   </svg>
-  <p class="brand-tagline">Decision infrastructure for SMB operators without an internal data function</p>
+  <p class="brand-tagline">Fractional Analytics Operator for SMBs without an internal data team</p>
 </div>
 
-## I build systems that help you make decisions.
+## Find the profit leaks hiding in your operations.
 
-Turn the data you already have—EHR, claims, CRM, billing, spreadsheets—into decisions, workflows, and engines your team actually uses.
+I help owner-operators reduce waste, protect margin, and act faster using the data they already have—EHR, claims, CRM, billing, spreadsheets—without hiring a data team or buying bloated software.
+
+> You're not buying analysis. You're buying a reduction in avoidable cost, delay, and uncertainty.
 
 ---
 
 ## Who this is for
 
-Owners and operators of **healthcare practices, clinics, and outpatient groups**—and other operations-driven SMBs—sitting on data they're not using to make decisions.
+Owners and operators of **healthcare practices, clinics, and outpatient groups**—and other operations-driven SMBs—sitting on data that isn't protecting their margin.
 
-Common signals: revenue leakage you can't fully explain, staffing or capacity guesswork, a recurring question no one has time to answer, or reports that describe the past but never recommend the next move.
+Common signals: revenue leakage you can't fully explain, collections slowing down, staffing or capacity guesswork, dead inventory or stockouts, no-shows eating into labor efficiency, or reports that describe the past but never tell you what to fix next.
 
 ---
 
 ## How I work
 
 - Start from your existing messy data—no platform project required first
+- Find where money is leaking, then build lightweight systems to act on it
 - Every engagement maps to a clear outcome: an **Answer**, a **System**, or an **Engine**
 - You get logic, code, and explanation—no black boxes
 - Leaves behind capability your team can run internally
@@ -57,11 +60,11 @@ Common signals: revenue leakage you can't fully explain, staffing or capacity gu
 
 ## Three ways to work together
 
-**Answer** — *Settle one high-stakes question.* A one-time analysis on a real decision, plain-language recommendation, clear next step. No ongoing system.
+**Answer** — *Settle one high-stakes question.* Why are collections slowing? Which referral sources actually produce margin? Where is capacity being wasted? One-time analysis, plain-language recommendation, clear next step.
 
-**System** — *Build a repeatable workflow or tool.* Structured data turned into a repeatable output your team uses internally. Durable—no continuous babysitting.
+**System** — *Build a repeatable workflow or tool.* Pricing support, inventory review, denial root-cause tracking, scheduling prioritization—structured data turned into a repeatable output your team uses every month.
 
-**Engine** — *Ongoing decision system.* Data → logic → output → action. Runs on a schedule, no daily check-ins, produces recurring operational decisions.
+**Engine** — *Ongoing decision system.* Data → logic → output → action. Runs on a schedule, no daily check-ins, produces recurring operational decisions that protect margin week after week.
 
 [See how each works](/services/){: .btn .btn--inverse}
 
@@ -69,11 +72,12 @@ Common signals: revenue leakage you can't fully explain, staffing or capacity gu
 
 ## What you get
 
-- **Pre-transformation layer** — before hiring a full-time analyst or stacking on more software
+- **Margin protection, not dashboards** — operational ROI on the surface, analytics under the hood
+- **Pre-transformation layer** — improve performance before committing to a full-time analyst or more software
 - **Execution, not advice** — deliverables you use, not slide decks
 - **Outcome over analysis** — if ROI isn't clear, I don't take the project
 
-**Not** a dashboard/software shop or a vague consultant. **Is** a solo operator building decision systems SMBs actually use—productized leverage, not billable hours for their own sake.
+**Not** a dashboard shop, software reseller, or vague consultant. **Is** a fractional analytics operator building lightweight systems that show operators where to act next—productized leverage, not billable hours for their own sake.
 
 ---
 
@@ -81,4 +85,4 @@ Common signals: revenue leakage you can't fully explain, staffing or capacity gu
 
 A structured discussion to diagnose problem, data, and feasibility. You'll leave with an honest recommendation: Answer, System, Engine, or no fit.
 
-[Book a free audit](/contact/){: .btn .btn--primary .btn--large}
+[Book a free audit](/audit/){: .btn .btn--primary .btn--large}
