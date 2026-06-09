@@ -5,8 +5,12 @@ main:
     url: /about/
   - title: "Services"
     url: /services/
-  - title: "Blog"
+  - title: "Audit"
+    url: /audit/
+  - title: "Case Studies"
     url: /blog/
+  - title: "For Advisors"
+    url: /advisors/
   - title: "Questions"
     url: /faq/
   - title: "Contact"

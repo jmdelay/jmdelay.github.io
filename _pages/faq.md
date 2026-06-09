@@ -1,7 +1,7 @@
 ---
 permalink: /faq/
 title: "You May Ask . . ."
-excerpt: ""
+excerpt: "Common questions about fit, process, pricing, and how Changepoint helps operators find trapped profit and protect margin."
 layout: single
 author_profile: true
 ---
@@ -18,7 +18,10 @@ That's exactly what the free 45-minute Data & Operations Audit is for. Most oper
 No, not as the primary deliverable. Reporting is a thing your team should own. If a dashboard falls out of a System or Engine as a side effect, fine—but I'm not the right person to build "we need a dashboard" as the goal.
 
 **"What industries do you work with?"**
-Primarily healthcare practices, clinics, and outpatient operators. I also work with operations-driven services and retail SMBs that fit the same pattern—real data, real decision, no internal data team. Background is healthcare and finance; good methodology travels.
+Primarily healthcare practices, clinics, and outpatient operators. I also work with operations-driven services and retail SMBs that fit the same pattern—real data, real margin pressure, no internal data team. Background is healthcare and finance; good methodology travels.
+
+**"What kinds of problems do you actually solve?"**
+Problems with direct financial consequences: revenue leakage in process handoffs, collections delays, dead inventory, labor inefficiency, no-show patterns, pricing inconsistency, customer churn risk, and manual reporting that consumes expensive operator time. If the work doesn't clearly reduce waste or improve a decision, it's probably not the right engagement.
 
 ---
 
@@ -66,10 +69,10 @@ If a System starts being updated continuously, it becomes an Engine and gets res
 ## Investment
 
 **"How is pricing handled?"**
-Answers and Systems are fixed-scope. Engines are fixed-monthly. Specifics come out of the audit once we've scoped the problem, data, and feasibility together—pricing in the abstract tends to mislead more than it informs. If the ROI isn't clear, I won't take the project; that filter saves both of us time.
+Answers and Systems are fixed-scope. Engines are fixed-monthly. Specifics come out of the audit once we've scoped the problem, data, and feasibility together. As soft anchors: Answers typically start around **~$3k**, Systems typically run from **~$5k**, and Engines are fixed monthly anchored around **~$5k/mo**—final scope determines the actual number. If the ROI isn't clear, I won't take the project; that filter saves both of us time.
 
 ---
 
-[Start with a 45-minute Data & Operations Audit](/contact/){: .btn .btn--primary .btn--large}
+[Start with a 45-minute Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}
