@@ -1,6 +1,7 @@
 ---
 title: "Denver Metro: Where Buyers Get the Most Walkability for Their Dollar"
 date: 2025-01-15
+published: false
 excerpt: "A decision-support example for real estate agents: combine public housing and walkability data to identify which neighborhoods give buyers the most walkability for their budget."
 layout: single
 author_profile: true

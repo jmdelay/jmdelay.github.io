@@ -20,6 +20,7 @@ You get the logic, code, and explanation. No black boxes. No open-ended retainer
 | Demand forecasting | Free cash trapped in excess inventory and avoid stockouts |
 | Revenue-cycle analysis | Find where collections stall and improve cash flow |
 | Capacity / scheduling analysis | Reduce idle time, no-shows, and underutilized labor |
+| Route optimization | Lower fuel cost, drive-time waste, and overtime |
 | Pricing / margin analytics | Protect gross margin and stop underpricing |
 | Anomaly detection | Catch costly exceptions before they become recurring losses |
 
@@ -53,7 +54,7 @@ When the same question keeps coming up every month and you need a durable intern
 - Durable—no continuous babysitting required
 - Typical timeline: **2–6 weeks**
 - **Economic outcome:** replace manual spreadsheet chaos with a repeatable decision process
-- **Typical investment:** typically runs from **~$5k**
+- **Typical investment:** typically **~$5k–$25k**
 
 Common Systems: revenue-cycle leak detection, denial root-cause workflows, capacity/scheduling models, payer mix or service-line economics, lightweight pricing tools, automated client/patient cohort builds.
 

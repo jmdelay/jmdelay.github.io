@@ -20,7 +20,7 @@ plugins:
 author:
   name: "John DeLay"
   avatar: "/assets/images/bio-photo.jpg"  # add your photo here
-  bio: "Fractional Analytics Operator. I help SMB operators find trapped profit, reduce waste, and protect margin—Answer, System, Engine—without hiring a data team. Background: production AI at health tech, SR 11-7 model validation at a regional bank, Medicare analytics, and peer-reviewed public health research."
+  bio: "Fractional Analytics Operator. I help SMB operators find trapped profit, reduce waste, and protect margin—Answer, System, Engine—without hiring a data team. Background: Medicare quality analytics, SR 11-7 model validation at a regional bank, production clinical decision-support workflows at health tech, and peer-reviewed public health research."
   location: "Birmingham, AL"
   email: "john@changepointdata.com"
   links:

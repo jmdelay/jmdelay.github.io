@@ -38,7 +38,7 @@ What I am: a fractional analytics operator building lightweight systems that red
 
 **Education** — MSPH in Biostatistics, University of Alabama at Birmingham; BS in Mathematics, Birmingham-Southern College.
 
-**Experience** — Production AI / LLM workflows at a health tech company (prior authorization, clinical decision support). Quantitative risk model validation under SR 11-7 at a regional bank. Medicare quality analytics and program evaluation at a national quality improvement organization. Peer-reviewed public health research through UAB.
+**Experience** — Medicare quality analytics and program evaluation at a national quality improvement organization. Quantitative risk model validation under SR 11-7 at a regional bank. Production clinical decision-support workflows at a health tech company (prior authorization, clinical decision support). Peer-reviewed public health research through UAB.
 
 That depth is available when a project requires it. Most of the time, what you actually need is simpler than that—and I'd rather do the simple thing well than oversell the complicated one.
 
