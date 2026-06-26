@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-These are decision-support examples—not vanity content. Each one shows where margin leaks, trapped cash, or operational waste shows up in a real business model, and what an operator could do about it.
+These are decision-support examples—not vanity content. Each one shows where margin leaks, trapped cash, or operational waste shows up in a real business model, and what an operator could do about it. Healthcare and ops-margin examples first; other verticals show the same decision-support pattern.
 
 If you're wondering whether this kind of work fits your situation, start here—or [book a free audit](/audit/).
 

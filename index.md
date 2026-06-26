@@ -43,7 +43,7 @@ I help owner-operators reduce waste, protect margin, and act faster using the da
 
 Owners and operators of **healthcare practices, clinics, and outpatient groups**—and other operations-driven SMBs—sitting on data that isn't protecting their margin.
 
-Common signals: revenue leakage you can't fully explain, collections slowing down, staffing or capacity guesswork, dead inventory or stockouts, no-shows eating into labor efficiency, or reports that describe the past but never tell you what to fix next.
+Common signals: revenue leakage you can't fully explain, collections slowing down, staffing or capacity guesswork, dead inventory or stockouts, no-shows eating into labor efficiency, referral source quality or conversion leakage, customer churn risk in recurring revenue models, or reports that describe the past but never tell you what to fix next.
 
 ---
 
@@ -54,6 +54,7 @@ Common signals: revenue leakage you can't fully explain, collections slowing dow
 - Every engagement maps to a clear outcome: an **Answer**, a **System**, or an **Engine**
 - You get logic, code, and explanation—no black boxes
 - Leaves behind capability your team can run internally
+- I turn the analytics distraction into a system your team can run
 - Most projects complete in 2–6 weeks
 
 ---
@@ -82,6 +83,8 @@ Common signals: revenue leakage you can't fully explain, collections slowing dow
 ---
 
 ## Start with a 45-minute Data & Operations Audit
+
+Advisors: fractional CFOs, CPAs, and ops consultants — [see how referrals work](/advisors/).
 
 A structured discussion to diagnose problem, data, and feasibility. You'll leave with an honest recommendation: Answer, System, Engine, or no fit.
 

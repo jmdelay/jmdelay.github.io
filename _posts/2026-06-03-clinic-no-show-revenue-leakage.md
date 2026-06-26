@@ -79,15 +79,17 @@ Other factors compound it: reminders cut the no-show rate by several points, lon
 
 ### What actually moves the needle
 
-Cross-tabs show where misses happen, but not which factor drives the most *dollars* once everything is weighed together. Since the business cares about revenue, I modeled the dollars lost per appointment directly with a **Tweedie regression**—a model built for outcomes that are exactly zero for most records (kept slots) and a skewed positive amount for the rest (misses). It folds together how *often* a slot is missed and how *expensive* that miss is.
-
-The dominant driver, by a wide margin, was **visit type**—it accounted for roughly 45% of the variation the model could explain, more than payer, reminders, lead time, and service line combined. New-patient exams carried about 1.7× the expected leakage of an average visit; being a new patient or having no reminder each added roughly another 35–45%. Follow-ups, routine visits, and imaging leaked far less.
+Cross-tabs show where misses happen, but not which factor drives the most *dollars* once everything is weighed together. The dominant driver, by a wide margin, was **visit type**—it accounted for roughly 45% of the variation the model could explain, more than payer, reminders, lead time, and service line combined. New-patient exams carried about 1.7× the expected leakage of an average visit; being a new patient or having no reminder each added roughly another 35–45%. Follow-ups, routine visits, and imaging leaked far less.
 
 ![Strongest drivers of revenue lost per appointment from the Tweedie model]({{ site.baseurl }}/assets/images/clinic-noshow-regression.png)
 
 *Cost multipliers above 1 increase expected dollars lost; below 1 reduce it. New-patient exams, new patients, and missing reminders rise to the top; routine and follow-up visits fall to the bottom.*
 
 Modeling dollars also corrects a tempting mistake. Medicaid slots have a higher *no-show rate*, but they leak *fewer* dollars than commercial slots because the allowed amounts are smaller—so optimizing on the rate alone would send the team chasing the wrong slots. The practical reading: change how you schedule and confirm appointments **by visit type and value**—not by tacking generic reminders onto everything equally.
+
+### Methodology
+
+Since the business cares about revenue, I modeled the dollars lost per appointment directly with a **Tweedie regression**—a model built for outcomes that are exactly zero for most records (kept slots) and a skewed positive amount for the rest (misses). It folds together how *often* a slot is missed and how *expensive* that miss is.
 
 ## What to look for
 
@@ -127,4 +129,4 @@ This matters for outpatient clinics, specialty practices, therapy groups, imagin
 
 And once you know which appointments carry the most risk, there's a natural next step: turning that into a simple at-a-glance score the front desk could use when booking, so the highest-risk, highest-value slots get the right attention before they ever become a no-show. That's a follow-on for another day—but it starts with the answer.
 
-[Start with a Data & Operations Audit]({{ site.baseurl }}/contact/) if you want to turn scheduling and billing exports into a concrete action plan.
+[Start with a 45-minute Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
