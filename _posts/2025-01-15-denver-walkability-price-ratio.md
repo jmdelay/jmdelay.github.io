@@ -1,7 +1,8 @@
 ---
 title: "Denver Metro: Where Buyers Get the Most Walkability for Their Dollar"
 date: 2025-01-15
-excerpt: "Data-driven neighborhood intel for Denver-area agents: which census tracts deliver the best walkability-to-price value—so you can match buyers to the right areas and position listings with confidence."
+published: false
+excerpt: "A decision-support example for real estate agents: combine public housing and walkability data to identify which neighborhoods give buyers the most walkability for their budget."
 layout: single
 author_profile: true
 categories:
@@ -16,21 +17,33 @@ tags:
   - real estate
 ---
 
-Buyers who want walkability don't always have downtown or Boulder budgets. The **walk rank ratio** answers the question your clients ask: *Where can I get the most walkable neighborhood for my money?* This post uses **Census median home values** and the **EPA National Walkability Index** to rank Denver metro census tracts by comparing walkability ranking against price ranking—so you can point clients to high-value areas and back up your recommendations with clear, source-based data.
+Buyers who want walkability do not always have downtown Denver or Boulder budgets. That creates a practical question for agents: **where can a buyer get the most walkable neighborhood for the money?**
 
-**Why this metric matters for your clients:** Higher ratio = high walkability rank + low price rank = best value. The walk rank ratio compares how highly a tract ranks for walkability against how highly it ranks for price. A ratio above 1 means a tract has better walkability rank than price rank (i.e., you get more walkability than you "pay" for in ranking terms). The chart and map below give you at-a-glance intel you can use in buyer consultations, listing one-pagers, or neighborhood comparisons.
+This is a small **Answer** engagement: take public data, turn it into a buyer-facing ranking, and give the agent a clearer recommendation than "look near downtown."
 
-**Data & methodology:** Median home value is from the Census Bureau’s American Community Survey 5-year (table B25077) for tracts in Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, and Jefferson counties. Walkability is from the [EPA National Walkability Index](https://catalog.data.gov/dataset/walkability-index8) (Smart Location Database), aggregated to tract. The walk rank ratio is calculated as: rank of walkability ÷ rank of median home value, across all tracts. A ratio > 1 means the tract ranks higher on walkability than on price—good value. A ratio < 1 means it ranks higher on price than walkability.
+## The data used
+
+Median home value comes from the Census Bureau's American Community Survey 5-year table B25077 for tracts in Adams, Arapahoe, Boulder, Broomfield, Denver, Douglas, and Jefferson counties. Walkability comes from the [EPA National Walkability Index](https://catalog.data.gov/dataset/walkability-index8), aggregated to tract.
+
+The decision metric is the **walk rank ratio**:
+
+`walkability rank / median home value rank`
+
+A ratio above 1 means the tract ranks better on walkability than it does on price. In plain English: more walkability than the price rank would suggest.
 
 ---
 
-**Headline findings**
+## What the analysis found
 
 - **Best value for walkability-minded buyers:** Top tracts by walk rank ratio cluster in lower-priced counties (Adams, Arapahoe, Broomfield) where solid walkability meets lower median home values. These tracts rank high on walkability but lower on price—excellent for clients seeking walkable neighborhoods without premium pricing.
 - **Denver County & Boulder:** Downtown Denver offers high absolute walkability but also high prices, so the rank ratio is often closer to 1. Boulder has among the highest walkability and highest prices in the metro, so walk rank ratios there are typically below 1—these are premium walkable areas, useful context when clients are weighing location versus budget.
 - **Metro-wide spread:** Walk rank ratios vary significantly across the metro, allowing you to quickly identify which neighborhoods offer the best walkability value relative to price. Using this metric helps you surface neighborhoods that deliver walkability for the money and tailor your search strategy to each client's priorities.
 
-**Top 30 tracts by walk rank ratio** — Use this chart in buyer conversations or to quickly compare neighborhoods. Hover for tract ID, county, median home value, and walkability index.
+## The decision it enables
+
+An agent can use this output in buyer consultations, listing one-pagers, or neighborhood comparisons. It gives a source-based answer to a common client tradeoff: where to look when walkability matters but premium-core pricing is not realistic.
+
+**Top 30 tracts by walk rank ratio** — Use this chart to compare neighborhoods quickly. Hover for tract ID, county, median home value, and walkability index.
 
 <figure style="margin: 1.5em 0;">
   <div id="denver-walkability-chart" style="width:100%; height:720px;"></div>
@@ -159,4 +172,8 @@ Buyers who want walkability don't always have downtown or Boulder budgets. The *
 
 ---
 
-**For real estate professionals:** This analysis is built on public data (Census ACS, EPA) so you can cite it with confidence in client conversations, CMAs, or marketing. If you’d like custom walkability-to-price or neighborhood reports for a specific area, listing presentation, or buyer segment, [get in touch]({{ site.baseurl }}/contact/)—I can produce tailored data views and visuals for your practice.
+## Who should care
+
+This is for real estate professionals who need more than a generic neighborhood report. The broader pattern applies to any SMB operator with a recurring "where should we focus?" question: combine credible external data with the business decision, then turn it into a ranked action list.
+
+If you would like custom walkability-to-price or neighborhood reports for a specific area, listing presentation, or buyer segment, [get in touch]({{ site.baseurl }}/contact/). I can produce tailored data views and visuals for your practice.

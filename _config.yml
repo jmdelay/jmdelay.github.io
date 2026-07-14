@@ -21,6 +21,7 @@ author:
   name: "John DeLay"
   avatar: "/assets/images/bio-photo.jpg"  # add your photo here
   bio: "Fractional analytics operator for healthcare and regulated SMBs—staffing, pricing, and performance. Healthcare ops and margin systems."
+  location: "Birmingham, AL"
   email: "john@changepointdata.com"
   links:
     - label: "LinkedIn"
