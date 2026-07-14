@@ -1,16 +1,15 @@
 ---
 layout: single
 author_profile: false
-excerpt: "Fractional analytics operator for growing businesses—real answers from your data without a full data team."
+excerpt: "I help healthcare and regulated SMBs turn messy operational data into decisions on staffing, pricing, and performance."
 ---
 
 <div class="brand-hero">
   <svg width="100%" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg" aria-label="Changepoint Analytics LLC">
     <defs>
       <style>
-        .cp-mark  { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:30px; font-weight:500; fill:#1B2A4A; letter-spacing:-0.01em; }
-        .cp-sub { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:11px; font-weight:400; fill:#4A6FA5; letter-spacing:0.14em; }
-        @media(prefers-color-scheme:dark){ .cp-mark{fill:#D8E4F4} .cp-sub{fill:#7AAAD4} }
+        .cp-mark  { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:30px; font-weight:500; fill:#D8E4F4; letter-spacing:-0.01em; }
+        .cp-sub { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:11px; font-weight:400; fill:#7AAAD4; letter-spacing:0.14em; }
       </style>
     </defs>
     <!-- Mountain range mark with brand colors -->
@@ -34,24 +33,24 @@ excerpt: "Fractional analytics operator for growing businesses—real answers fr
     <text class="cp-mark"  x="308" y="96">Changepoint</text>
     <text class="cp-sub" x="309" y="116">ANALYTICS</text>
   </svg>
-  <p class="brand-tagline">Data & analytics support for growing service businesses without a data team.</p>
+  <p class="brand-tagline">Healthcare and regulated SMBs — staffing, pricing, and performance decisions from the data you already have.</p>
 </div>
 
 ## What We Do
 
-Changepoint Analytics is a fractional analytics operator. We don't sell software or strategy decks. We come in, understand the business quickly, answer the question in front of you, and build something you can actually use.
+Changepoint Analytics is a fractional analytics operator for healthcare and regulated SMBs. We don't sell software or strategy decks. We find where money is leaking across staffing, pricing, and performance — then build lightweight systems so owners can act on it.
 
-We work most often with healthcare practices, financial services firms, and professional services teams—when reporting is manual, numbers aren't trusted, or decisions default to gut because the data isn't organized.
+We work most often with independent clinics, health services operators, and similar owner-led businesses — when labor is wasted, margin is opaque, collections stall, or decisions default to gut because the data isn't organized.
 
 ---
 
 ## Services
 
-**Small project — fast, focused answers** — One clear question, bottleneck, or reporting gap; audits, dashboards, ad-hoc analysis, automation.
+**Answer — fast clarity on one question** — Where is staffing capacity wasted? Why are collections slowing? Which locations or services underprice? One decision, plain-language recommendation, clear next step.
 
-**Large project — build something that lasts** — Cross-functional problems that repeat every month; systems, models, integration, internal decision tools (including regulated environments when needed).
+**System — a tool that lasts** — Repeatable workflows for capacity, pricing, margin, or performance so the same question doesn't come back every month — owned by your team, not locked in a black box.
 
-**Continuous support — fractional analytics** — Ongoing reporting, leadership support, model iteration, and data quality—without a full-time hire.
+**Engine — ongoing decision support** — Recurring monitoring and optimization for staffing, pricing, or performance when the cost of delay compounds monthly — scoped continuity, not open-ended advisory.
 
 [See all services](/services/){: .btn .btn--inverse}
 
@@ -59,9 +58,9 @@ We work most often with healthcare practices, financial services firms, and prof
 
 ## Why Changepoint Analytics?
 
-- **No full-time hire required** — You get senior-level analytical work scoped to a specific problem. No recruiting, no onboarding, no ongoing salary commitment. The engagement ends when the deliverable is done.
-- **Built for people who aren't data teams** — Outputs are designed for operators, not analysts. Dashboards your team will actually open. Reports they can explain to a board. Documentation that doesn't require a data science degree to maintain.
-- **Regulated-industry depth** — Production AI in healthcare (LLMs, prior authorization, EHR data), risk model validation at a regional bank (SR 11-7), Medicare quality analytics at a national QIO, and peer-reviewed public health research. The technical credibility is there when the project requires it.
+- **No full-time hire required** — Senior-level work scoped to a staffing, pricing, or performance problem. No recruiting, no onboarding, no ongoing salary commitment.
+- **Built for operators, not data teams** — Outputs say what to do next: where margin is leaking, what to fix, and how to act before problems get expensive.
+- **Healthcare-ops depth when it matters** — Provider operations, claims and EHR data, revenue-cycle visibility, and regulated environments — with technical credibility under the hood when the project requires it.
 
 ---
 
@@ -69,10 +68,10 @@ We work most often with healthcare practices, financial services firms, and prof
 
 Most relationships follow the same pattern:
 
-1. **Free Data & Operations Audit** — A short, no-commitment look at what your data is saying, what's missing, and what's actually worth fixing. We'll tell you honestly whether we can help.
-2. **Scoping engagement** — When you're ready to move, a short, fixed-price engagement produces a concrete recommendation and clear options—often the right first paid step after the audit.
-3. **Fixed-scope project** — Typically a few weeks. A defined outcome aligned with a small or large project (see [Services](/services/)). You know the scope and cost before we start.
-4. **Optional continuous support** — For teams where analytics is part of how they run the business but a full-time hire isn't justified.
+1. **Free Data & Operations Audit** — A short, no-commitment look at the problem, the available data, and whether the ROI path is real. We'll tell you honestly whether we can help.
+2. **Answer or scoping step** — Fixed-price clarity on one decision — often the right first paid step after the audit.
+3. **System or Engine** — When the same decision repeats, we build a lightweight system or ongoing engine. You know the scope and cost before we start.
+4. **Optional continuity** — Asynchronous, scoped support when you need it — not pseudo-employment disguised as a retainer.
 
 We're not a large agency and we're not pitching a six-figure transformation. Most engagements start small and expand only if the first project delivers.
 
@@ -80,6 +79,6 @@ We're not a large agency and we're not pitching a six-figure transformation. Mos
 
 ## Start with a Free Data & Operations Audit
 
-A short, no-commitment look at what your data is saying, what's missing, and what's actually worth fixing.
+A short, no-commitment look at where operational data can improve staffing, pricing, or performance — and what's actually worth fixing.
 
 [Get in Touch](/contact/){: .btn .btn--primary .btn--large}

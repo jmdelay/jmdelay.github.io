@@ -1,40 +1,38 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Fractional analytics operator—real answers from your data for organizations without a full data team."
+excerpt: "Fractional analytics operator for healthcare and regulated SMBs — staffing, pricing, and performance decisions without a full data team."
 layout: single
 author_profile: true
 ---
 
-Changepoint Analytics is a fractional analytics operator. We don't sell software or strategy decks. We come in, understand the business quickly, answer the question in front of you, and build something you can actually use.
+Changepoint Analytics is a fractional analytics operator for healthcare and regulated SMBs. We don't sell software or strategy decks. We find trapped profit in operations and build lightweight systems that help owners act on it — without hiring a data team.
 
-I'm John DeLay, the person behind Changepoint. I take on a limited number of clients at a time and scope work to specific outcomes—then document and hand off so your team can use what we build.
+I'm John DeLay, the person behind Changepoint. I take on a limited number of clients at a time, scope work to specific outcomes on staffing, pricing, or performance, and hand off the logic so your team can run it.
 
 ---
 
 ## Who this is for
 
-**Small and mid-sized organizations** — especially teams that need recurring answers from data but don't have room for a full-time analytics hire. If the same decisions keep coming up every month and the numbers live in spreadsheets, email, or gut instinct, the engagement model is built for you.
+**Independent healthcare and health services operators** — clinics, outpatient groups, rehab and therapy, behavioral health, home health, and similar regulated operators. Best fit when staffing, capacity, no-shows, collections, or site/provider performance are costing you money you can feel.
 
-**Healthcare organizations** — health plans, health tech companies, provider groups, and quality improvement organizations. If your team is trying to extract signal from clinical notes, build explainable models from claims data, or stand up reporting that reflects what's happening clinically—that's the work I do.
+**Owner-led businesses with pricing or margin pressure** — clinics and other service operators where underpricing, location margin opacity, or manual margin reporting is the problem. Secondary wedge, same engagement model.
 
-**Financial services firms** — regional banks, credit unions, risk and compliance teams. If you need models that are accurate *and* auditable or have analysts spending too much time on data prep instead of analysis, I can help.
+**SMBs too small for a full analytics hire** — typically operators who can approve scope and move in weeks, sitting on underused data in Excel, EHR, practice management, CRM, or accounting tools. Built for people who can say yes — not committees that need to run it up the flagpole.
 
-**Academic researchers** — faculty and graduate students who need a collaborator for data analysis, study design, grant support, or manuscript preparation. I've worked in that environment and understand what peer review and IRB compliance actually require.
-
-If you don't fit neatly into one of those buckets, you're still welcome to reach out. The model is the same—scoped to your problem, delivered without jargon.
+Not a fit: vague “AI strategy,” cosmetic dashboards with no decision attached, or generalist “help us with analytics” with no staffing, pricing, or performance problem in view.
 
 ---
 
 ## How engagements work
 
-**Small projects** — Fast, focused answers when you have one clear question, bottleneck, or reporting gap.
+**Answer** — Fast clarity when you have one clear operating or financial question.
 
-**Large projects** — Build something that lasts when the problem is cross-functional or the same decision repeats month after month.
+**System** — A durable workflow or tool when the same decision repeats.
 
-**Continuous support** — Fractional analytics when insight and data quality need to be part of how you run the business, but a full-time role would be overkill.
+**Engine** — Scoped ongoing decision support when delay compounds monthly.
 
-Details and examples are on the [Services](/services/) page. Every engagement ends with documentation and a handoff; if your team needs to maintain or extend the work, that's planned from the start.
+Details are on the [Services](/services/) page. Every engagement ends with documentation and a handoff; client-owned output is planned from the start.
 
 ---
 
@@ -48,7 +46,7 @@ Details and examples are on the [Services](/services/) page. Every engagement en
 
 I've built and deployed LLM-based workflows at a health tech company focused on prior authorization and clinical decision support. I've validated quantitative risk models at a major regional bank under SR 11-7 requirements. I've done Medicare quality analytics and program evaluation at a national quality improvement organization. And I've contributed to peer-reviewed public health research through UAB.
 
-Based in Birmingham, AL. I work with clients remotely and locally.
+That depth stays under the hood. On the surface, the work is operational ROI — clearer staffing, pricing, and performance decisions.
 
 ---
 
