@@ -1,81 +1,81 @@
 ---
 permalink: /faq/
-title: "FAQ"
-excerpt: "Common questions about fit, process, pricing, and how Changepoint helps operators find trapped profit and protect margin."
+title: "You May Ask . . ."
+excerpt: ""
 layout: single
 author_profile: true
 ---
 
-## Offers & fit
+<style>
+.testimonial-block {
+  border-left: 4px solid #1a1a2e;
+  padding: 0.75em 1.25em;
+  margin: 1.5em 0;
+  background: #f8f8f8;
+  font-size: 1.05em;
+  font-style: italic;
+}
+.testimonial-attribution {
+  font-style: normal;
+  font-size: 0.9em;
+  color: #555;
+  margin-top: 0.5em;
+}
+</style>
 
-**"What's the difference between an Answer, a System, and an Engine?"**
-An **Answer** settles one specific decision—one-time analysis, plain-language recommendation, no ongoing system. A **System** is a repeatable internal workflow or tool your team uses to produce the same kind of output again and again. An **Engine** is an ongoing decision system that runs on a schedule and produces recurring operational decisions—data → logic → output → action. Details on the [Services](/services/) page.
 
-**"How do I know which one I need?"**
-That's exactly what the free 45-minute Data & Operations Audit is for. Most operators come in thinking they need one and leave needing a different one. Sometimes the right answer is "you don't need any of this yet"—and I'll tell you that, too.
+## Process & timeline:
 
-**"Do you take dashboard or reporting projects?"**
-No, not as the primary deliverable. Reporting is a thing your team should own. If a dashboard falls out of a System or Engine as a side effect, fine—but I'm not the right person to build "we need a dashboard" as the goal.
+**"How long does a typical project take?"**
+Depends on shape. An Answer is often measured in days to a couple of weeks. A System is typically a few weeks. An Engine is ongoing by design, with clear scope and review cadence — not an open-ended retainer.
 
-**"What industries do you work with?"**
-Primarily healthcare practices, clinics, and outpatient operators. I also work with operations-driven services and retail SMBs that fit the same pattern—real data, real margin pressure, no internal data team. Background is healthcare and finance; good methodology travels.
+**"What's your process from the free audit to delivery?"**
+Free Data & Operations Audit → Fit and shape (Answer, System, Engine, or no fit) → Fixed-scope proposal → Kickoff → Build → Handoff. Details are on the [Services](/services/) page.
 
-**"What kinds of problems do you actually solve?"**
-Problems with direct financial consequences: revenue leakage in process handoffs, collections delays, dead inventory, labor inefficiency, no-show patterns, pricing inconsistency, customer churn risk, and manual reporting that consumes expensive operator time. If the work doesn't clearly reduce waste or improve a decision, it's probably not the right engagement.
+**"Do you work on retainer, or is it project-by-project?"**
+Most work starts as a fixed-scope Answer or System. Ongoing Engine support is available when the decision is recurring — scoped and asynchronous, not open-ended access.
 
-**"Who is the best fit?"**
-Founder-owned or locally controlled operators who can approve scope, data access, and payment without a committee. Engagements where the buyer can move in weeks—not months of procurement or sign-off layers.
-
----
-
-## Process & timeline
-
-**"How long does a typical engagement take?"**
-- **Answer:** 1–3 weeks
-- **System:** 2–6 weeks
-- **Engine:** ongoing once built; initial build is similar to a System
-
-**"What's the process from audit to delivery?"**
-Free 45-minute Data & Operations Audit → recommendation (Answer / System / Engine / no fit) → fixed-scope proposal → kickoff → delivery with code, logic, and walkthrough.
-
-**"Can you start immediately, or is there a waitlist?"**
-I take at most 3 concurrent clients on purpose. I can usually start an Answer quickly; Systems and Engines depend on current load. I'll be honest about timing in the audit.
+**"Can you start immediately, or do you have a waitlist?"**
+Bandwidth is intentionally limited. If there is room and the problem fits, Answers can start quickly. Larger Systems and Engines depend on current client load.
 
 ---
 
-## Data & logistics
+## Data & logistics:
 
-**"My data is messy / spread across systems / partly in spreadsheets. Is that a problem?"**
-That's the normal starting point. Cleaning and reconciling are part of the work and scoped upfront. I don't require a platform project before we can do anything useful.
+**"What if my data is messy / in different systems / not well-organized?"**
+That is normal. Cleaning and joining existing data (Excel, EHR, practice management, claims, CRM, accounting tools) is part of scoping — we work with what you already have.
 
-**"Do we need to meet in person?"**
-Work is done remote. Birmingham-area clients—happy to meet in person when it's useful.
+**"Do you need to visit in person, or can we work remotely?"**
+Most work is remote. On-site meetings are available when stakeholder alignment or process context needs it.
 
-**"How do you handle sensitive data and confidentiality?"**
-My career has operated under HIPAA, IRB, and Federal Reserve supervision. BAAs, NDAs, and additional security arrangements are available when the engagement calls for it.
+**"How do you handle sensitive data / confidentiality?"**
+Career work has always fallen under HIPAA, IRB, and banking supervisory expectations where relevant. Additional documentation and security arrangements can be scoped when needed.
 
-**"What tools do I need to have?"**
-For an Answer, often just CSV/Excel exports. For a System or Engine, we'll scope the data access upfront so there are no surprises.
-
----
-
-## Scope & deliverables
-
-**"Will I be locked into a black box?"**
-No. Every engagement ships with the underlying logic, code, and a walkthrough. Your team can run, audit, or extend the work after I leave.
-
-**"What if the work starts becoming ongoing?"**
-If a System starts being updated continuously, it becomes an Engine and gets rescoped as one. I'd rather have that conversation early than slowly turn into a scope-creep retainer.
+**"What tools/software do I need to have?"**
+CSVs and spreadsheets are enough for many Answers. If we need API or system access, that gets scoped upfront so there are no surprises. The goal is a lightweight system you can run — not a software purchase.
 
 ---
 
-## Investment
+## Scope & expectations:
 
-**"How is pricing handled?"**
-Answers and Systems are fixed-scope. Engines are fixed-monthly. Specifics come out of the audit once we've scoped the problem, data, and feasibility together. As soft anchors: Answers typically start around **~$3k**, Systems typically run from **~$5k**, and Engines are fixed monthly anchored around **~$5k/mo**—final scope determines the actual number. If the ROI isn't clear, I won't take the project; that filter saves both of us time.
+**"How do I know if this is the right fit for my budget?"**
+Work has to have a believable path to lower waste, better cash conversion, tighter pricing, or clearer performance decisions. If we cannot explain the ROI in plain English, we should not do the project.
+
+**"What industries can you work with?"**
+Primary focus is healthcare operations analytics. Secondary is pricing and margin analytics for clinics and similar owner-led operators. Opportunistic work outside those wedges happens when the problem maps cleanly — we do not market as a generalist analytics shop.
+
+**"What happens after the project? Is it a black box, or do you explain what you built?"**
+You get the logic, documentation, and a walkthrough so your team can maintain it. No black boxes. Client-owned output is the default.
 
 ---
 
-[Start with a 45-minute Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+## Pricing:
+
+**"Seriously, what is this actually going to cost?"**
+Fixed scope, fixed price. After the free audit, you'll get a range that reflects the decision at stake and the complexity of the build — not an open-ended hourly burn. The return should exceed the investment.
+
+---
+
+[Start with a Free Data & Operations Audit](/contact/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}

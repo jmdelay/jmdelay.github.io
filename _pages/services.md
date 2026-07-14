@@ -1,109 +1,82 @@
 ---
 permalink: /services/
 title: "Services"
-excerpt: "Three ways to work together—Answer, System, and Engine. Find trapped profit, reduce waste, and protect margin using the data you already have."
+excerpt: "Answer, System, or Engine — fixed-scope work that turns operational data into staffing, pricing, and performance decisions."
 layout: single
 author_profile: true
 ---
 
-Changepoint Analytics helps SMB operators find trapped profit, reduce waste, and protect margin using the data they already have. Every engagement maps to one of three outcomes—**Answer**, **System**, or **Engine**—so you know what you're buying and what you'll have when it's done.
+Changepoint Analytics is a fractional analytics operator for healthcare and regulated SMBs. We don't sell software or strategy decks. We turn messy operational data into decisions on staffing, pricing, and performance — so the distraction becomes a system and starts producing margin.
 
-You get the logic, code, and explanation. No black boxes. No open-ended retainers.
-
----
-
-## What the owner hears
-
-| Technical capability | What it means for your business |
-|---|---|
-| Predictive churn modeling | Save the clients most likely to leave before revenue walks out the door |
-| Demand forecasting | Free cash trapped in excess inventory and avoid stockouts |
-| Revenue-cycle analysis | Find where collections stall and improve cash flow |
-| Capacity / scheduling analysis | Reduce idle time, no-shows, and underutilized labor |
-| Route optimization | Lower fuel cost, drive-time waste, and overtime |
-| Pricing / margin analytics | Protect gross margin and stop underpricing |
-| Anomaly detection | Catch costly exceptions before they become recurring losses |
-
-The visible offer is operational ROI. The hidden engine is data science.
+Every engagement maps to one of three shapes.
 
 ---
 
-## Answer
+## Ways to Work Together
 
-*Settle one high-stakes question.*
+### Answer — Fast Clarity on One Question
 
-When you have a specific decision in front of you—pricing, capacity, staffing, payer mix, collections, a question your reports won't answer—and you need a clear recommendation, not a dashboard.
+*Ideal when you have one high-stakes operating or financial question and need a decision path quickly.*
 
-- One-time analysis on a real decision
-- Plain-language output with reasoning and caveats
-- Clear next step—no ongoing system to maintain
-- Typical timeline: **1–3 weeks**
-- **Economic outcome:** clarity on where margin is leaking and what to fix first
-- **Typical investment:** starts around **~$3k**
+Typical questions:
 
----
+- Where is staffing capacity wasted?
+- Why are collections slowing?
+- Which referral sources actually produce margin?
+- Which services or locations are underpricing?
+- Which sites, payers, or providers actually perform?
 
-## System
-
-*Build a repeatable workflow or tool.*
-
-When the same question keeps coming up every month and you need a durable internal capability—not a one-off analysis you'll have to re-do.
-
-- Structured data → repeatable output your team uses internally
-- Logic, code, and a walkthrough so your team can run it
-- Durable—no continuous babysitting required
-- Typical timeline: **2–6 weeks**
-- **Economic outcome:** replace manual spreadsheet chaos with a repeatable decision process
-- **Typical investment:** typically **~$5k–$25k**
-
-Common Systems: revenue-cycle leak detection, denial root-cause workflows, capacity/scheduling models, payer mix or service-line economics, lightweight pricing tools, automated client/patient cohort builds.
+You get a one-time analysis, a plain-language explanation, a recommendation, and a clear next step — not a strategy deck.
 
 ---
 
-## Engine
+### System — Build Something That Lasts
 
-*Ongoing decision system.*
+*Best when the same decision repeats month after month and spreadsheet chaos is burning operator time.*
 
-When the decision itself needs to keep happening—every week, every shift, every claim—and a human checking a dashboard won't get it done.
+Typical builds:
 
-- Multi-step pipeline: **data → logic → output → action**
-- Runs on a schedule or continuously, asynchronously
-- Produces recurring operational decisions, not just reports
-- Sized to the cadence and stakes of the decision it produces
-- **Economic outcome:** continuous margin protection without adding headcount
-- **Typical investment:** fixed monthly, anchored around **~$5k/mo**
+- Staffing / capacity prioritization workflows
+- Pricing support and margin-monitoring logic
+- Referral or source performance tied to action
+- Operational exception reporting with clear thresholds
+- Location or provider performance review workflows
 
-If a System starts being updated continuously, it's an Engine—and gets rescoped as one.
+You get a repeatable internal tool or workflow, documentation, and logic your team owns — so leadership isn't revisiting the same questions every quarter.
 
----
-
-## Optional support layer
-
-Light continuity after a System or Engine ships, for teams that want async expert backup without an open-ended retainer.
-
-- Async only, scoped requests per month
-- No real-time access or open-ended availability
-- Sized to the specific Engine or System it backs
+Healthcare operations work often lands here: capacity and scheduling, revenue-cycle visibility, claims and EHR-backed performance views, and decision tools that hold up in regulated environments when the project requires it.
 
 ---
 
-## What I don't sell
+### Engine — Ongoing Decision Support
 
-- Dashboards or reporting as the primary deliverable
-- Open-ended advisory or strategy decks
-- Heavy infrastructure builds or platform projects
-- "Trust me, it works" black-box models
+*For recurring high-value decisions where the cost of delay compounds monthly.*
 
-If what you actually need is one of those, I'll tell you—and often I can point you toward someone who does it well.
+Typical engines:
 
----
+- Recurring capacity / staffing optimization
+- Monthly pricing or margin decision cycles
+- Revenue-cycle monitoring with exception routing
+- Location or provider performance monitoring
 
-## How an engagement starts
-
-1. **45-minute Data & Operations Audit** *(free)* — A structured discussion to diagnose problem, data, and feasibility. Ends with an honest recommendation: Answer, System, Engine, or no fit.
-2. **Scoped proposal** — Fixed scope for Answers and Systems, fixed monthly for Engines. You know cost and outcome before we start.
-3. **Delivery** — Code, logic, explanation, and a walkthrough. Your team can run it after I leave.
+This is a defined ongoing system — pipeline from data to action — not open-ended advisory and not a full-time hire in disguise. Continuity stays scoped and asynchronous.
 
 ---
 
-[Book a free audit](/audit/){: .btn .btn--primary .btn--large}
+## What We Optimize For
+
+Visible offer: operational ROI — lower labor waste, better capacity use, tighter collections, cleaner pricing discipline, protected margin.
+
+Primary focus: **healthcare operations analytics** for independent clinics and health services operators.
+
+Secondary focus: **pricing and margin analytics** for clinics and other owner-led service businesses.
+
+If the work does not clearly improve a staffing, pricing, or performance decision — or reduce waste — it is probably not the right engagement.
+
+---
+
+## Start with a Free Data & Operations Audit
+
+A short, no-commitment look at the problem, the data you already have, and whether Answer, System, Engine — or no fit — is the right next step.
+
+[Book a meeting](/contact/){: .btn .btn--primary .btn--large}

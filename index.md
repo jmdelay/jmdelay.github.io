@@ -1,91 +1,84 @@
 ---
 layout: single
 author_profile: false
-excerpt: "Find the profit leaks hiding in your operations. I help SMB operators reduce waste, protect margin, and act faster using the data they already have—without hiring a data team."
+excerpt: "I help healthcare and regulated SMBs turn messy operational data into decisions on staffing, pricing, and performance."
 ---
 
 <div class="brand-hero">
   <svg width="100%" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg" aria-label="Changepoint Analytics LLC">
     <defs>
       <style>
-        .cp-mark  { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:30px; font-weight:500; fill:#1B2A4A; letter-spacing:-0.01em; }
-        .cp-sub { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:11px; font-weight:400; fill:#4A6FA5; letter-spacing:0.14em; }
-        @media(prefers-color-scheme:dark){ .cp-mark{fill:#D8E4F4} .cp-sub{fill:#7AAAD4} }
+        .cp-mark  { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:30px; font-weight:500; fill:#D8E4F4; letter-spacing:-0.01em; }
+        .cp-sub { font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif; font-size:11px; font-weight:400; fill:#7AAAD4; letter-spacing:0.14em; }
       </style>
     </defs>
+    <!-- Mountain range mark with brand colors -->
     <polygon points="30,132 80,90 112,104 138,80 165,102 192,132" fill="#2A5FA5" opacity="0.08"/>
     <polygon points="30,132 62,108 88,118 112,96 135,132" fill="#1B2A4A" opacity="0.10"/>
     <polygon points="110,132 148,96 172,108 196,84 218,132" fill="#2A5FA5" opacity="0.17"/>
     <polygon points="218,132 218,64 234,50 256,60 276,132" fill="#2E9B6A" opacity="0.15"/>
+    <!-- Pre-slope ascent (Steel blue) -->
     <polyline points="110,132 148,96 172,108 196,84 218,132"
               fill="none" stroke="#2A5FA5" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- Post-slope ascent (Growth green) -->
     <polyline points="218,64 234,50 256,60 276,132"
               fill="none" stroke="#2E9B6A" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <!-- Summit point (Signal orange - the changepoint) -->
     <circle cx="218" cy="64" r="8" fill="#E06B2E" opacity="0.15"/>
     <circle cx="218" cy="64" r="4.5" fill="#E06B2E"/>
     <circle cx="218" cy="64" r="2.5" fill="#F5956A"/>
+    <!-- Baseline -->
     <line x1="30" y1="132" x2="280" y2="132" stroke="#2A5FA5" stroke-width="0.5" opacity="0.18"/>
+    <!-- Company name -->
     <text class="cp-mark"  x="308" y="96">Changepoint</text>
     <text class="cp-sub" x="309" y="116">ANALYTICS</text>
   </svg>
-  <p class="brand-tagline">Fractional Analytics Operator for SMBs without an internal data team</p>
+  <p class="brand-tagline">Healthcare and regulated SMBs — staffing, pricing, and performance decisions from the data you already have.</p>
 </div>
 
-## Find the profit leaks hiding in your operations.
+## What We Do
 
-I help owner-operators reduce waste, protect margin, and act faster using the data they already have—EHR, claims, CRM, billing, spreadsheets—without hiring a data team or buying bloated software.
+Changepoint Analytics is a fractional analytics operator for healthcare and regulated SMBs. We don't sell software or strategy decks. We find where money is leaking across staffing, pricing, and performance — then build lightweight systems so owners can act on it.
 
-> You're not buying analysis. You're buying a reduction in avoidable cost, delay, and uncertainty.
-
----
-
-## Who this is for
-
-Owners and operators of **healthcare practices, clinics, and outpatient groups**—and other operations-driven SMBs—sitting on data that isn't protecting their margin.
-
-Common signals: revenue leakage you can't fully explain, collections slowing down, staffing or capacity guesswork, dead inventory or stockouts, no-shows eating into labor efficiency, referral source quality or conversion leakage, customer churn risk in recurring revenue models, or reports that describe the past but never tell you what to fix next.
+We work most often with independent clinics, health services operators, and similar owner-led businesses — when labor is wasted, margin is opaque, collections stall, or decisions default to gut because the data isn't organized.
 
 ---
 
-## How I work
+## Services
 
-- Start from your existing messy data—no platform project required first
-- Find where money is leaking, then build lightweight systems to act on it
-- Every engagement maps to a clear outcome: an **Answer**, a **System**, or an **Engine**
-- You get logic, code, and explanation—no black boxes
-- Leaves behind capability your team can run internally
-- I turn the analytics distraction into a system your team can run
-- Most projects complete in 2–6 weeks
+**Answer — fast clarity on one question** — Where is staffing capacity wasted? Why are collections slowing? Which locations or services underprice? One decision, plain-language recommendation, clear next step.
 
----
+**System — a tool that lasts** — Repeatable workflows for capacity, pricing, margin, or performance so the same question doesn't come back every month — owned by your team, not locked in a black box.
 
-## Three ways to work together
+**Engine — ongoing decision support** — Recurring monitoring and optimization for staffing, pricing, or performance when the cost of delay compounds monthly — scoped continuity, not open-ended advisory.
 
-**Answer** — *Settle one high-stakes question.* Why are collections slowing? Which referral sources actually produce margin? Where is capacity being wasted? One-time analysis, plain-language recommendation, clear next step.
-
-**System** — *Build a repeatable workflow or tool.* Pricing support, inventory review, denial root-cause tracking, scheduling prioritization—structured data turned into a repeatable output your team uses every month.
-
-**Engine** — *Ongoing decision system.* Data → logic → output → action. Runs on a schedule, no daily check-ins, produces recurring operational decisions that protect margin week after week.
-
-[See how each works](/services/){: .btn .btn--inverse}
+[See all services](/services/){: .btn .btn--inverse}
 
 ---
 
-## What you get
+## Why Changepoint Analytics?
 
-- **Margin protection, not dashboards** — operational ROI on the surface, analytics under the hood
-- **Pre-transformation layer** — improve performance before committing to a full-time analyst or more software
-- **Execution, not advice** — deliverables you use, not slide decks
-- **Outcome over analysis** — if ROI isn't clear, I don't take the project
-
-**Not** a dashboard shop, software reseller, or vague consultant. **Is** a fractional analytics operator building lightweight systems that show operators where to act next—productized leverage, not billable hours for their own sake.
+- **No full-time hire required** — Senior-level work scoped to a staffing, pricing, or performance problem. No recruiting, no onboarding, no ongoing salary commitment.
+- **Built for operators, not data teams** — Outputs say what to do next: where margin is leaking, what to fix, and how to act before problems get expensive.
+- **Healthcare-ops depth when it matters** — Provider operations, claims and EHR data, revenue-cycle visibility, and regulated environments — with technical credibility under the hood when the project requires it.
 
 ---
 
-## Start with a 45-minute Data & Operations Audit
+## How Engagements Work
 
-Advisors: fractional CFOs, CPAs, and ops consultants — [see how referrals work](/advisors/).
+Most relationships follow the same pattern:
 
-A structured discussion to diagnose problem, data, and feasibility. You'll leave with an honest recommendation: Answer, System, Engine, or no fit.
+1. **Free Data & Operations Audit** — A short, no-commitment look at the problem, the available data, and whether the ROI path is real. We'll tell you honestly whether we can help.
+2. **Answer or scoping step** — Fixed-price clarity on one decision — often the right first paid step after the audit.
+3. **System or Engine** — When the same decision repeats, we build a lightweight system or ongoing engine. You know the scope and cost before we start.
+4. **Optional continuity** — Asynchronous, scoped support when you need it — not pseudo-employment disguised as a retainer.
 
-[Book a free audit](/audit/){: .btn .btn--primary .btn--large}
+We're not a large agency and we're not pitching a six-figure transformation. Most engagements start small and expand only if the first project delivers.
+
+---
+
+## Start with a Free Data & Operations Audit
+
+A short, no-commitment look at where operational data can improve staffing, pricing, or performance — and what's actually worth fixing.
+
+[Get in Touch](/contact/){: .btn .btn--primary .btn--large}

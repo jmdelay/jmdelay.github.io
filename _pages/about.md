@@ -1,51 +1,55 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Fractional Analytics Operator. I help SMB operators find trapped profit, reduce waste, and protect margin—not dashboards, not advice."
+excerpt: "Fractional analytics operator for healthcare and regulated SMBs — staffing, pricing, and performance decisions without a full data team."
 layout: single
 author_profile: true
 ---
 
-Changepoint Analytics is a one-person operation. I'm John DeLay—a **Fractional Analytics Operator** who helps SMB operators find trapped profit, reduce waste, and protect margin using the data they already have.
+Changepoint Analytics is a fractional analytics operator for healthcare and regulated SMBs. We don't sell software or strategy decks. We find trapped profit in operations and build lightweight systems that help owners act on it — without hiring a data team.
 
-I take a small number of clients at a time—on purpose—and every engagement maps to a clear outcome: an **Answer**, a **System**, or an **Engine**. You get logic, code, and explanation. No black boxes, no open-ended retainers, no slide decks pretending to be deliverables.
-
-I don't build dashboards. I build systems that tell operators what to do next—where margin is leaking, what to fix, and how to act before problems get expensive.
+I'm John DeLay, the person behind Changepoint. I take on a limited number of clients at a time, scope work to specific outcomes on staffing, pricing, or performance, and hand off the logic so your team can run it.
 
 ---
 
-## Who I work with
+## Who this is for
 
-**Primary — healthcare practices, clinics, and outpatient operators.** If you have EHR, claims, billing, or scheduling data and recurring revenue-cycle or operational waste no one has time to quantify, that's the core of what I do.
+**Independent healthcare and health services operators** — clinics, outpatient groups, rehab and therapy, behavioral health, home health, and similar regulated operators. Best fit when staffing, capacity, no-shows, collections, or site/provider performance are costing you money you can feel.
 
-**Also a fit — operations-driven services and retail SMBs.** Same pattern: real data, trapped margin, and no analyst to find it.
+**Owner-led businesses with pricing or margin pressure** — clinics and other service operators where underpricing, location margin opacity, or manual margin reporting is the problem. Secondary wedge, same engagement model.
 
-If you don't fit either bucket but you have data and a specific economic problem in front of you, reach out anyway. I'll tell you honestly whether I can help.
+**SMBs too small for a full analytics hire** — typically operators who can approve scope and move in weeks, sitting on underused data in Excel, EHR, practice management, CRM, or accounting tools. Built for people who can say yes — not committees that need to run it up the flagpole.
 
----
-
-## What I'm not
-
-- **Not a dashboard shop.** If what you actually need is a reporting tool, there are better options than me.
-- **Not a vague consultant.** I don't sell strategy decks or open-ended advisory.
-- **Not a platform project.** I work from your existing messy data; no six-month transformation required first.
-
-What I am: a fractional analytics operator building lightweight systems that reduce waste and improve margin. Productized leverage, not billable hours for their own sake.
+Not a fit: vague “AI strategy,” cosmetic dashboards with no decision attached, or generalist “help us with analytics” with no staffing, pricing, or performance problem in view.
 
 ---
 
-## Background
+## How engagements work
 
-**Education** — MSPH in Biostatistics, University of Alabama at Birmingham; BS in Mathematics, Birmingham-Southern College.
+**Answer** — Fast clarity when you have one clear operating or financial question.
 
-**Experience** — Medicare quality analytics and program evaluation at a national quality improvement organization. Quantitative risk model validation under SR 11-7 at a regional bank. Production clinical decision-support workflows at a health tech company (prior authorization, clinical decision support). Peer-reviewed public health research through UAB.
+**System** — A durable workflow or tool when the same decision repeats.
 
-That depth is available when a project requires it. Most of the time, what you actually need is simpler than that—and I'd rather do the simple thing well than oversell the complicated one.
+**Engine** — Scoped ongoing decision support when delay compounds monthly.
 
-Based in Birmingham, AL. Local and remote.
+Details are on the [Services](/services/) page. Every engagement ends with documentation and a handoff; client-owned output is planned from the start.
 
 ---
 
-[Start with a 45-minute Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+## Why clients trust me
+
+**About John**
+
+**Education:** MSPH in Biostatistics, University of Alabama at Birmingham — BS in Mathematics, Birmingham-Southern College.
+
+**Background:** Health tech (AI/LLM systems, prior authorization), regional banking (risk model validation, SR 11-7), Medicare quality improvement (CMS programs, claims analytics, EHR data), published public health research.
+
+I've built and deployed LLM-based workflows at a health tech company focused on prior authorization and clinical decision support. I've validated quantitative risk models at a major regional bank under SR 11-7 requirements. I've done Medicare quality analytics and program evaluation at a national quality improvement organization. And I've contributed to peer-reviewed public health research through UAB.
+
+That depth stays under the hood. On the surface, the work is operational ROI — clearer staffing, pricing, and performance decisions.
+
+---
+
+[Start with a Free Data & Operations Audit](/contact/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}

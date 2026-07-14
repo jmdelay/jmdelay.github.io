@@ -1,7 +1,7 @@
 # Site Settings
 title: "Changepoint Analytics LLC"
 name: "Changepoint Analytics LLC"
-description: "Find the profit leaks hiding in your operations. Fractional Analytics Operator helping SMB operators reduce waste, protect margin, and act faster using the data they already have—primarily healthcare practices, clinics, and outpatient operators."
+description: "Fractional analytics operator for healthcare and regulated SMBs—staffing, pricing, and performance decisions from the data you already have."
 url: "https://changepointdata.com"
 baseurl: ""
 repository: "jmdelay/jmdelay.github.io"
@@ -20,7 +20,7 @@ plugins:
 author:
   name: "John DeLay"
   avatar: "/assets/images/bio-photo.jpg"  # add your photo here
-  bio: "Fractional Analytics Operator. I help SMB operators find trapped profit, reduce waste, and protect margin—Answer, System, Engine—without hiring a data team. Background: Medicare quality analytics, SR 11-7 model validation at a regional bank, production clinical decision-support workflows at health tech, and peer-reviewed public health research."
+  bio: "Fractional analytics operator for healthcare and regulated SMBs—staffing, pricing, and performance. Healthcare ops and margin systems."
   location: "Birmingham, AL"
   email: "john@changepointdata.com"
   links:
