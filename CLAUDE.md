@@ -43,13 +43,16 @@ If `bundle exec jekyll serve` fails while downloading the Minimal Mistakes theme
 | `assets/data/` | JSON/GeoJSON files loaded by posts for interactive D3/Leaflet visualizations |
 | `_site/` | Generated output — never edit directly |
 
-### Brand Colors
+### Brand Colors (2001 scheme)
 
-Defined in `_includes/head/custom.html`:
-- Primary (dark blue): `#1B2A4A`
-- Secondary (steel blue): `#2A5FA5`
-- Accent (orange): `#E06B2E`
-- Growth green: `#2E9B6A`
+Defined as CSS variables in `_includes/head/custom.html`:
+- Void / ink: `#121212`
+- Hull / panel: `#EDECE8` / `#F7F6F2`
+- Steel (primary brand): `#3A5A7A`
+- Sky (supporting / UI): `#6A8A9E`
+- Signal (summit / accent): `#E06B2E`
+- Growth (post-summit): `#2A6B4E`
+- Type: Michroma (display / wordmark), Share Tech Mono (labels / chrome)
 
 ### Front Matter Conventions
 
@@ -69,7 +72,3 @@ Pages in `_pages/` use `layout: single` or `layout: splash` with a `permalink:` 
 ### Jekyll Plugin Notes
 
 The `Gemfile` uses `github-pages` gem for compatibility. Extra gems (`fiddle`, `ostruct`, `faraday-retry`, `tzinfo-data`) exist to patch Windows/Ruby version gaps. The `_config.yml` explicitly includes `_pages` in `include:` so Jekyll processes that directory.
-
-### Legacy Directory
-
-`mm-github-pages-starter/` at the repo root is an unused starter template remnant and can be removed.

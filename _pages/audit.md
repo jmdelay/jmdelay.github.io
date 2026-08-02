@@ -53,6 +53,6 @@ Pick a time that works. The conversation is remote; Birmingham-area operators ca
 
 ---
 
-Prefer email first? **john@changepointdata.com** · [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124)
+Prefer email first? **[john@changepointdata.com](mailto:john@changepointdata.com)** · [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124)
 
 [Contact](/contact/){: .btn .btn--inverse}

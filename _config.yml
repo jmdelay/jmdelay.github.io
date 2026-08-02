@@ -19,7 +19,7 @@ plugins:
 # Author
 author:
   name: "John DeLay"
-  avatar: "/assets/images/bio-photo.jpg"  # add your photo here
+  avatar: "/assets/images/bio-photo.jpg"
   bio: "Fractional analytics operator for healthcare and regulated SMBs—staffing, pricing, and performance. Healthcare ops and margin systems."
   location: "Birmingham, AL"
   email: "john@changepointdata.com"
@@ -36,6 +36,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      categories: Data
 
 # Exclude from builds
 exclude:
