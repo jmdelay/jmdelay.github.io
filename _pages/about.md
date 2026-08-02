@@ -50,6 +50,6 @@ That depth stays under the hood. On the surface, the work is operational ROI —
 
 ---
 
-[Start with a Free Data & Operations Audit](/contact/){: .btn .btn--primary .btn--large}
+[Start with a Free Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}

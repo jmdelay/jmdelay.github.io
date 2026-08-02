@@ -12,4 +12,4 @@ The best first step is a short, no-commitment look at the operating problem, the
 
 ---
 
-You can also reach me at **john@changepointdata.com** or [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124).
+You can also reach me at **[john@changepointdata.com](mailto:john@changepointdata.com)** or [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124).

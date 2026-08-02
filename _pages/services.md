@@ -79,4 +79,4 @@ If the work does not clearly improve a staffing, pricing, or performance decisio
 
 A short, no-commitment look at the problem, the data you already have, and whether Answer, System, Engine — or no fit — is the right next step.
 
-[Book a meeting](/contact/){: .btn .btn--primary .btn--large}
+[Book a meeting](/audit/){: .btn .btn--primary .btn--large}

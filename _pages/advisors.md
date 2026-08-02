@@ -56,7 +56,7 @@ You stay in the loop as much or as little as the client prefers. I'm happy to co
 
 If you have a client who fits—or want to understand how this works before making an intro—reach out directly.
 
-**john@changepointdata.com** · [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124)
+**[john@changepointdata.com](mailto:john@changepointdata.com)** · [LinkedIn](https://www.linkedin.com/in/john-delay-7741b7124)
 
 [See services](/services/){: .btn .btn--inverse}
 

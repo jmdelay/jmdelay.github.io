@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /
   - title: "About"
     url: /about/
   - title: "Services"
@@ -9,9 +7,9 @@ main:
     url: /audit/
   - title: "Case Studies"
     url: /blog/
-  - title: "For Advisors"
+  - title: "Advisors"
     url: /advisors/
-  - title: "Questions"
+  - title: "FAQ"
     url: /faq/
   - title: "Contact"
     url: /contact/
