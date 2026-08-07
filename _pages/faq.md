@@ -12,7 +12,7 @@ author_profile: true
 Depends on shape. An Answer is often measured in days to a couple of weeks. A System is typically a few weeks. An Engine is ongoing by design, with clear scope and review cadence — not an open-ended retainer.
 
 **"What's your process from the free audit to delivery?"**
-Free Data & Operations Audit → Fit and shape (Answer, System, Engine, or no fit) → Fixed-scope proposal → Kickoff → Build → Handoff. Details are on the [Services](/services/) and [Audit](/audit/) pages.
+Free Operations Audit → Fit and shape (Answer, System, Engine, or no fit) → Fixed-scope proposal → Kickoff → Build → Handoff. Details are on the [Services](/services/) and [Audit](/audit/) pages.
 
 **"Do you work on retainer, or is it project-by-project?"**
 Most work starts as a fixed-scope Answer or System. Ongoing Engine support is available when the decision is recurring — scoped and asynchronous, not open-ended access.
@@ -44,7 +44,7 @@ CSVs and spreadsheets are enough for many Answers. If we need API or system acce
 Work has to have a believable path to lower waste, better cash conversion, tighter pricing, or clearer performance decisions. If we cannot explain the ROI in plain English, we should not do the project.
 
 **"What industries can you work with?"**
-Primary focus is healthcare operations analytics. Secondary is pricing and margin analytics for clinics and similar owner-led operators. Opportunistic work outside those wedges happens when the problem maps cleanly — we do not market as a generalist analytics shop.
+Primary focus is operational efficiency and margin recovery for healthcare operators. Secondary is pricing and margin analytics for clinics and similar owner-led operators. Opportunistic work outside those wedges happens when the problem maps cleanly — we do not market as a generalist analytics shop.
 
 **"What happens after the project? Is it a black box, or do you explain what you built?"**
 You get the logic, documentation, and a walkthrough so your team can maintain it. No black boxes. Client-owned output is the default.
@@ -58,6 +58,6 @@ Fixed scope, fixed price. After the free audit, you'll get a range that reflects
 
 ---
 
-[Start with a Free Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+[Start with a Free Operations Audit](/audit/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}

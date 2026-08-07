@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: false
-excerpt: "Fractional analytics for healthcare and regulated SMBs — staffing, pricing, and performance decisions from the data you already have."
+excerpt: "Find operational waste and recover margin for healthcare and regulated SMBs — without hiring a data team."
 ---
 
 <div class="brand-hero">
@@ -27,14 +27,29 @@ excerpt: "Fractional analytics for healthcare and regulated SMBs — staffing, p
     <text class="cp-mark" x="308" y="92">CHANGEPOINT</text>
     <text class="cp-sub" x="309" y="114">ANALYTICS</text>
   </svg>
-  <p class="brand-tagline">Healthcare and regulated SMBs — staffing, pricing, and performance decisions from the data you already have.</p>
+  <p class="brand-tagline">Find operational waste. Recover margin. Act on staffing, pricing, and performance.</p>
 </div>
 
 ## What We Do
 
-Changepoint Analytics is a fractional analytics operator for healthcare and regulated SMBs. We don't sell software or strategy decks. We find where money is leaking across staffing, pricing, and performance — then build lightweight systems so owners can act on it.
+Changepoint Analytics is an operations intelligence partner for healthcare and regulated SMBs. We don't sell software or strategy decks. We find where money is leaking — then build lightweight systems so owners can act on it.
 
-We work most often with independent clinics, health services operators, and similar owner-led businesses — when labor is wasted, margin is opaque, collections stall, or decisions default to gut because the data isn't organized.
+We work most often with independent clinics, health services operators, and similar owner-led businesses under cost or margin pressure.
+
+---
+
+## Call Changepoint when
+
+- Margins are declining and nobody can explain why
+- A business is growing but losing control of operations
+- A clinic or service organization is under financial pressure
+- Leadership suspects waste but cannot locate it
+- Departments disagree about the numbers
+- Staffing costs are rising faster than revenue
+- A turnaround, restructuring, or cost-reduction effort is beginning
+- A buyer, lender, investor, or board is demanding operational clarity
+
+[Start with a Free Operations Audit](/audit/){: .btn .btn--primary}
 
 ---
 
@@ -62,7 +77,7 @@ We work most often with independent clinics, health services operators, and simi
 
 Most relationships follow the same pattern:
 
-1. **Free Data & Operations Audit** — A short, no-commitment look at the problem, the available data, and whether the ROI path is real. We'll tell you honestly whether we can help.
+1. **Free Operations Audit** — A short, no-commitment look at the operating pressure, whether waste is findable, and whether the ROI path is real. We'll tell you honestly whether we can help.
 2. **Answer or scoping step** — Fixed-price clarity on one decision — often the right first paid step after the audit.
 3. **System or Engine** — When the same decision repeats, we build a lightweight system or ongoing engine. You know the scope and cost before we start.
 4. **Optional continuity** — Asynchronous, scoped support when you need it — not pseudo-employment disguised as a retainer.
@@ -71,8 +86,8 @@ We're not a large agency and we're not pitching a six-figure transformation. Mos
 
 ---
 
-## Start with a Free Data & Operations Audit
+## Start with a Free Operations Audit
 
-A short, no-commitment look at where operational data can improve staffing, pricing, or performance — and what's actually worth fixing.
+A short, no-commitment conversation about where margin or operational control is slipping — and what's actually worth fixing.
 
-[Start with a Free Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+[Start with a Free Operations Audit](/audit/){: .btn .btn--primary .btn--large}

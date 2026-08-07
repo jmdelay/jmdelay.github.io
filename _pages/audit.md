@@ -1,17 +1,17 @@
 ---
 permalink: /audit/
-title: "Data & Operations Audit"
-excerpt: "A free 45-minute structured discussion to diagnose problem, data, and feasibility—then leave with an honest recommendation: Answer, System, Engine, or no fit."
+title: "Operations Audit"
+excerpt: "A free 45-minute conversation to diagnose operating pressure, findability of waste, and ROI—then leave with an honest recommendation: Answer, System, Engine, or no fit."
 layout: single
 author_profile: true
 ---
 
-## 45-minute Data & Operations Audit
+## Free 45-minute Operations Audit
 
-This is the best place to start. A structured 45-minute discussion to diagnose three things:
+This is the best place to start. A structured 45-minute conversation to diagnose three things:
 
-1. **The problem** — what decision are you actually trying to make, and where is margin or cash at risk
-2. **The data** — what you have, what's missing, what's clean enough to use
+1. **The pressure** — what decision are you actually trying to make, and where is margin, cash, or operational control at risk
+2. **What's knowable** — what evidence you already have, what's missing, and whether waste can be located cleanly
 3. **Feasibility** — what it would realistically take to settle the question and what ROI looks like
 
 You'll leave with an honest recommendation: **Answer**, **System**, **Engine**, or **no fit**. No commitment, no follow-up sales sequence.
@@ -20,13 +20,14 @@ You'll leave with an honest recommendation: **Answer**, **System**, **Engine**, 
 
 ## What this is for
 
-Operators who suspect they're leaving money on the table but can't pinpoint where:
+Operators who suspect money is leaking but can't pinpoint where:
 
+- Margins declining with no clear explanation
+- Staffing costs rising faster than revenue
 - Revenue leakage you can't fully explain
 - Collections or cash conversion slowing down
-- Staffing, capacity, or scheduling guesswork
-- Inventory aging or stockout patterns
-- A recurring question no one has time to answer cleanly
+- Capacity, scheduling, or utilization guesswork
+- A turnaround or cost-reduction effort that needs operational clarity
 - Reports that describe the past but never recommend the next move
 
 If the ROI path isn't believable, I'll tell you that too. That filter saves both of us time.

@@ -1,12 +1,12 @@
 ---
 permalink: /about/
 title: "About"
-excerpt: "Fractional analytics operator for healthcare and regulated SMBs — staffing, pricing, and performance decisions without a full data team."
+excerpt: "Find operational waste and recover margin for healthcare and regulated SMBs — without hiring a data team."
 layout: single
 author_profile: true
 ---
 
-Changepoint Analytics is a fractional analytics operator for healthcare and regulated SMBs. We don't sell software or strategy decks. We find trapped profit in operations and build lightweight systems that help owners act on it — without hiring a data team.
+Changepoint Analytics is an operations intelligence partner for healthcare and regulated SMBs. We don't sell software or strategy decks. We find trapped profit in operations and build lightweight systems that help owners act on it — without hiring a data team.
 
 I'm John DeLay, the person behind Changepoint. I take on a limited number of clients at a time, scope work to specific outcomes on staffing, pricing, or performance, and hand off the logic so your team can run it.
 
@@ -50,6 +50,6 @@ That depth stays under the hood. On the surface, the work is operational ROI —
 
 ---
 
-[Start with a Free Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+[Start with a Free Operations Audit](/audit/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}
