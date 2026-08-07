@@ -155,4 +155,4 @@ The LLM proposes. The system enforces. That is the difference between playing wi
 
 ---
 
-If a recurring decision is still living in someone's chat history, [start with a 45-minute Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+If a recurring decision is still living in someone's chat history, [start with a free Operations Audit](/audit/){: .btn .btn--primary .btn--large}

@@ -1,12 +1,12 @@
 ---
 permalink: /services/
 title: "Services"
-excerpt: "Answer, System, or Engine — fixed-scope work that turns operational data into staffing, pricing, and performance decisions."
+excerpt: "Answer, System, or Engine — fixed-scope work that finds operational waste and turns it into staffing, pricing, and performance decisions."
 layout: single
 author_profile: true
 ---
 
-Changepoint Analytics is a fractional analytics operator for healthcare and regulated SMBs. We don't sell software or strategy decks. We turn messy operational data into decisions on staffing, pricing, and performance — so the distraction becomes a system and starts producing margin.
+Changepoint Analytics is an operations intelligence partner for healthcare and regulated SMBs. We don't sell software or strategy decks. We find operational waste, recover margin, and turn staffing, pricing, and performance problems into systems that keep producing clarity.
 
 Every engagement maps to one of three shapes.
 
@@ -67,7 +67,7 @@ This is a defined ongoing system — pipeline from data to action — not open-e
 
 Visible offer: operational ROI — lower labor waste, better capacity use, tighter collections, cleaner pricing discipline, protected margin.
 
-Primary focus: **healthcare operations analytics** for independent clinics and health services operators.
+Primary focus: **operational efficiency and margin recovery** for independent clinics and health services operators.
 
 Secondary focus: **pricing and margin analytics** for clinics and other owner-led service businesses.
 
@@ -75,8 +75,8 @@ If the work does not clearly improve a staffing, pricing, or performance decisio
 
 ---
 
-## Start with a Free Data & Operations Audit
+## Start with a Free Operations Audit
 
-A short, no-commitment look at the problem, the data you already have, and whether Answer, System, Engine — or no fit — is the right next step.
+A short, no-commitment conversation about where margin or operational control is slipping — and whether Answer, System, Engine, or no fit is the right next step.
 
 [Book a meeting](/audit/){: .btn .btn--primary .btn--large}

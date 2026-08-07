@@ -74,4 +74,4 @@ The workflow pulls live listings for whatever item is being valued, stores them 
 
 ---
 
-If pricing discipline is eating margin in your operation, [start with a 45-minute Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+If pricing discipline is eating margin in your operation, [start with a free Operations Audit](/audit/){: .btn .btn--primary .btn--large}

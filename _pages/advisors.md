@@ -10,7 +10,20 @@ author_profile: true
 
 If you advise owner-operators—fractional CFO, EOS implementer, M&A advisor, CPA, healthcare operations consultant—you've seen the pattern: real businesses with real data, but no one turning it into decisions that protect margin, cash flow, or EBITDA.
 
-That's what Changepoint does. I'm a **Fractional Analytics Operator**—not a dashboard shop, not a vague consultant, not a software reseller.
+That's what Changepoint does. I'm an **operations intelligence partner**—not a dashboard shop, not a vague consultant, not a software reseller. You don't need to explain analytics. You only need to recognize the situation.
+
+---
+
+## Call Changepoint when
+
+- Margins are declining and nobody can explain why
+- A business is growing but losing control of operations
+- A hospital, clinic, or service organization is under financial pressure
+- Leadership suspects waste but cannot locate it
+- Departments disagree about the numbers
+- Staffing costs are rising faster than revenue
+- A turnaround, restructuring, or cost-reduction effort is beginning
+- A buyer, lender, investor, or board is demanding operational clarity
 
 ---
 
@@ -22,20 +35,12 @@ That's what Changepoint does. I'm a **Fractional Analytics Operator**—not a da
 - **Healthcare depth** with methodology that travels to other ops-driven SMBs
 - **No competition with your relationship**—I complement advisory work; I don't replace it
 
-Common entry points for your clients:
-
-- Revenue leakage hidden in billing, claims, or process handoffs
-- Collections or cash conversion delays
-- Capacity waste, no-shows, or uneven labor productivity
-- Inventory aging, pricing inconsistency, or margin erosion
-- Manual reporting consuming expensive operator time
-
 ---
 
 ## How referrals work
 
-1. **Introduce the client** — email intro or a link to the [Data & Operations Audit](/audit/)
-2. **45-minute audit** *(free)* — I diagnose problem, data, and feasibility; recommend Answer, System, Engine, or no fit
+1. **Introduce the client** — email intro or a link to the [Operations Audit](/audit/)
+2. **45-minute audit** *(free)* — I diagnose operating pressure, findability of waste, and feasibility; recommend Answer, System, Engine, or no fit
 3. **Scoped proposal** — fixed cost and outcome before any work starts
 4. **Delivery** — client gets logic, code, and a walkthrough they can run internally
 

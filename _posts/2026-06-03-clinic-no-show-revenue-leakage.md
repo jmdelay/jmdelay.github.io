@@ -129,4 +129,4 @@ This matters for outpatient clinics, specialty practices, therapy groups, imagin
 
 And once you know which appointments carry the most risk, there's a natural next step: turning that into a simple at-a-glance score the front desk could use when booking, so the highest-risk, highest-value slots get the right attention before they ever become a no-show. That's a follow-on for another day—but it starts with the answer.
 
-[Start with a 45-minute Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+[Start with a free Operations Audit](/audit/){: .btn .btn--primary .btn--large}

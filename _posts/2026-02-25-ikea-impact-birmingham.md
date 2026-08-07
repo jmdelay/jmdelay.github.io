@@ -82,4 +82,4 @@ The forecast uses a time-based train/validation split—the last 12 months held 
 
 ---
 
-Facing a competitive shift or demand disruption? [Start with a 45-minute Data & Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+Facing a competitive shift or demand disruption? [Start with a free Operations Audit](/audit/){: .btn .btn--primary .btn--large}
