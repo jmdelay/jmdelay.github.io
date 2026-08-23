@@ -1,13 +1,13 @@
 <svg viewBox="0 0 160 116" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="4,104 36,66 58,78 78,52 98,104" fill="#3A5A7A" opacity="0.17"/>
-  <polygon points="98,104 98,44 112,30 132,40 150,104" fill="#2A6B4E" opacity="0.15"/>
+  <polygon points="4,104 36,66 58,78 78,52 98,104" fill="#2A5FA5" opacity="0.17"/>
+  <polygon points="98,104 98,44 112,30 132,40 150,104" fill="#2E9B6A" opacity="0.15"/>
   <polyline points="4,104 36,66 58,78 78,52 98,104"
-            fill="none" stroke="#3A5A7A" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+            fill="none" stroke="#2A5FA5" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
   <polyline points="98,44 112,30 132,40 150,104"
-            fill="none" stroke="#2A6B4E" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
-  <polygon points="91,52 98,28 105,52" fill="#121212" opacity="0.55"/>
+            fill="none" stroke="#2E9B6A" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+  <polygon points="91,52 98,28 105,52" fill="#1B2A4A" opacity="0.35"/>
   <circle cx="98" cy="44" r="8" fill="#E06B2E" opacity="0.15"/>
   <circle cx="98" cy="44" r="5" fill="#E06B2E"/>
   <circle cx="98" cy="44" r="3" fill="#F5956A"/>
-  <line x1="4" y1="104" x2="152" y2="104" stroke="#3A5A7A" stroke-width="0.5" opacity="0.18"/>
+  <line x1="4" y1="104" x2="152" y2="104" stroke="#2A5FA5" stroke-width="0.5" opacity="0.18"/>
 </svg>

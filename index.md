@@ -8,24 +8,24 @@ excerpt: "Find operational waste and recover margin for healthcare and regulated
   <svg width="100%" viewBox="0 0 700 150" xmlns="http://www.w3.org/2000/svg" aria-label="Changepoint Analytics LLC" role="img">
     <defs>
       <style>
-        .cp-mark { font-family: Michroma, sans-serif; font-size: 26px; fill: #EDECE8; letter-spacing: 0.04em; }
-        .cp-sub  { font-family: Michroma, sans-serif; font-size: 9px; fill: #6A8A9E; letter-spacing: 0.42em; }
+        .cp-mark { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 30px; font-weight: 500; fill: #D8E4F4; letter-spacing: -0.01em; }
+        .cp-sub  { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 400; fill: #7AAAD4; letter-spacing: 0.14em; }
       </style>
     </defs>
-    <polygon points="30,132 80,90 112,104 138,80 165,102 192,132" fill="#3A5A7A" opacity="0.2"/>
-    <polygon points="30,132 62,108 88,118 112,96 135,132" fill="#121212" opacity="0.35"/>
-    <polygon points="110,132 148,96 172,108 196,84 218,132" fill="#3A5A7A" opacity="0.35"/>
-    <polygon points="218,132 218,64 234,50 256,60 276,132" fill="#2A6B4E" opacity="0.3"/>
+    <polygon points="30,132 80,90 112,104 138,80 165,102 192,132" fill="#2A5FA5" opacity="0.08"/>
+    <polygon points="30,132 62,108 88,118 112,96 135,132" fill="#1B2A4A" opacity="0.10"/>
+    <polygon points="110,132 148,96 172,108 196,84 218,132" fill="#2A5FA5" opacity="0.17"/>
+    <polygon points="218,132 218,64 234,50 256,60 276,132" fill="#2E9B6A" opacity="0.15"/>
     <polyline points="110,132 148,96 172,108 196,84 218,132"
-              fill="none" stroke="#6A8A9E" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+              fill="none" stroke="#4A8CC8" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
     <polyline points="218,64 234,50 256,60 276,132"
-              fill="none" stroke="#2A6B4E" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
-    <circle class="signal-core" cx="218" cy="64" r="9" fill="#E06B2E" opacity="0.22"/>
-    <circle class="signal-core" cx="218" cy="64" r="5" fill="#E06B2E"/>
-    <circle cx="218" cy="64" r="2.2" fill="#F5956A"/>
-    <line x1="30" y1="132" x2="280" y2="132" stroke="#3A5A7A" stroke-width="0.5" opacity="0.4"/>
-    <text class="cp-mark" x="308" y="92">CHANGEPOINT</text>
-    <text class="cp-sub" x="309" y="114">ANALYTICS</text>
+              fill="none" stroke="#3DB87A" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="218" cy="64" r="8" fill="#E06B2E" opacity="0.15"/>
+    <circle cx="218" cy="64" r="4.5" fill="#E06B2E"/>
+    <circle cx="218" cy="64" r="2.5" fill="#F5956A"/>
+    <line x1="30" y1="132" x2="280" y2="132" stroke="#2A5FA5" stroke-width="0.5" opacity="0.18"/>
+    <text class="cp-mark" x="308" y="96">Changepoint</text>
+    <text class="cp-sub" x="309" y="116">ANALYTICS</text>
   </svg>
   <p class="brand-tagline">Find operational waste. Recover margin. Act on staffing, pricing, and performance.</p>
 </div>

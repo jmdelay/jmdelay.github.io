@@ -43,16 +43,15 @@ If `bundle exec jekyll serve` fails while downloading the Minimal Mistakes theme
 | `assets/data/` | JSON/GeoJSON files loaded by posts for interactive D3/Leaflet visualizations |
 | `_site/` | Generated output — never edit directly |
 
-### Brand Colors (2001 scheme)
+### Brand Colors
 
-Defined as CSS variables in `_includes/head/custom.html`:
-- Void / ink: `#121212`
-- Hull / panel: `#EDECE8` / `#F7F6F2`
-- Steel (primary brand): `#3A5A7A`
-- Sky (supporting / UI): `#6A8A9E`
+Defined as CSS variables in `_includes/head/custom.html` (classic palette):
+- Navy (primary / text): `#1B2A4A`
+- Steel (brand / links): `#2A5FA5`
+- Sky (supporting / UI): `#4A8CC8`
 - Signal (summit / accent): `#E06B2E`
-- Growth (post-summit): `#2A6B4E`
-- Type: Michroma (display / wordmark), Share Tech Mono (labels / chrome)
+- Growth (post-summit): `#2E9B6A`
+- Type: system UI stack (Segoe / Helvetica); Signal reserved for summit + inverse-button hover
 
 ### Front Matter Conventions
 
