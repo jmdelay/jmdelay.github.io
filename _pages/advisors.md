@@ -39,7 +39,7 @@ That's what Changepoint does. I'm an **operations intelligence partner**—not a
 
 ## How referrals work
 
-1. **Introduce the client** — email intro or a link to the [Operations Audit](/audit/)
+1. **Introduce the client** — email intro, a link to the [Margin Leak Check](/leak-check/) (eight questions, no meeting), or a link to the [Operations Audit](/audit/)
 2. **45-minute audit** *(free)* — I diagnose operating pressure, findability of waste, and feasibility; recommend Answer, System, Engine, or no fit
 3. **Scoped proposal** — fixed cost and outcome before any work starts
 4. **Delivery** — client gets logic, code, and a walkthrough they can run internally

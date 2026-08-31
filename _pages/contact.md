@@ -1,12 +1,16 @@
 ---
 permalink: /contact/
 title: "Contact"
-excerpt: "Start with a free Operations Audit — a short look at where margin or operational control is slipping, and what's worth fixing."
+excerpt: "Start with the Margin Leak Check or a free Operations Audit — a short look at where margin or operational control is slipping, and what's worth fixing."
 ---
 
-## Free Operations Audit
+## Two ways to start
 
-The best first step is a short, no-commitment conversation about the operating pressure you're under and whether waste is findable with a believable ROI path. We'll focus on staffing, pricing, or performance — and tell you honestly whether Answer, System, Engine, or no fit is the right next step.
+**Not ready for a meeting?** Take the [Margin Leak Check](/leak-check/) — eight questions, about three minutes, no email required. You’ll get a readout of where pressure is concentrated and whether Answer, System, Engine, or no engagement is the honest next step.
+
+**Ready to talk?** The [Operations Audit](/audit/) is a short, no-commitment conversation about the operating pressure you're under and whether waste is findable with a believable ROI path. We'll focus on staffing, pricing, or performance — and tell you honestly whether Answer, System, Engine, or no fit is the right next step.
+
+[Take the Margin Leak Check](/leak-check/){: .btn .btn--inverse}
 
 [Book a Meeting](https://outlook.office.com/bookwithme/user/f0afe7d3ade94bf48e042504c3dba116@changepointdata.com/meetingtype/BIpV74_gKECrJtk9h7sSIg2?anonymous&ismsaljsauthenabled){: .btn .btn--primary .btn--large}
 

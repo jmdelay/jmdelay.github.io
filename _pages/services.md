@@ -75,8 +75,16 @@ If the work does not clearly improve a staffing, pricing, or performance decisio
 
 ---
 
+## I’m not sure what I need
+
+That’s normal. Messy data is also normal. Take the [Margin Leak Check](/leak-check/) if you want a directional read without a meeting. If the readout says there is a findable leak, the [Operations Audit](/audit/) is the next step — and I will still say no if the ROI path isn’t believable.
+
+---
+
 ## Start with a Free Operations Audit
 
 A short, no-commitment conversation about where margin or operational control is slipping — and whether Answer, System, Engine, or no fit is the right next step.
+
+[Take the Margin Leak Check](/leak-check/){: .btn .btn--inverse}
 
 [Book a meeting](/audit/){: .btn .btn--primary .btn--large}

@@ -1,0 +1,42 @@
+<div id="leak-check" class="lc">
+  <div class="lc__progress" hidden>
+    <div class="lc__progress-meta">
+      <span class="lc__step-label"></span>
+      <span class="lc__area-label"></span>
+    </div>
+    <div class="lc__bar" role="progressbar" aria-valuemin="0" aria-valuemax="8" aria-valuenow="1">
+      <span class="lc__bar-fill"></span>
+    </div>
+  </div>
+
+  <div class="lc__panel" data-lc-panel="question">
+    <h2 class="lc__prompt" tabindex="-1"></h2>
+    <fieldset class="lc__options">
+      <legend class="visually-hidden">Choose one</legend>
+    </fieldset>
+    <div class="lc__nav">
+      <button type="button" class="btn btn--inverse lc__back" hidden>Back</button>
+      <button type="button" class="btn btn--primary lc__next" disabled>Continue</button>
+    </div>
+  </div>
+
+  <div class="lc__panel" data-lc-panel="results" hidden role="region" aria-label="Leak check readout">
+    <p class="lc__eyebrow"></p>
+    <h2 class="lc__result-title" tabindex="-1"></h2>
+    <p class="lc__result-lede"></p>
+    <div class="lc__areas"></div>
+    <div class="lc__shape"></div>
+    <p class="lc__audit-note"></p>
+    <p class="lc__nav lc__nav--results">
+      <a class="btn btn--primary btn--large lc__audit-link" href="{{ '/audit/' | relative_url }}">Book a free Operations Audit</a>
+      <a class="btn btn--inverse lc__services-link" href="{{ '/services/' | relative_url }}">See Answer / System / Engine</a>
+    </p>
+    <div class="lc__share">
+      <button type="button" class="btn btn--inverse lc__copy">Copy this readout</button>
+      <a class="btn btn--inverse lc__mailto" href="mailto:john@changepointdata.com">Email this to John</a>
+    </div>
+    <p class="lc__copy-status" role="status" aria-live="polite"></p>
+  </div>
+</div>
+
+<script src="{{ '/assets/js/leak-check.js' | relative_url }}" defer></script>

@@ -8,7 +8,9 @@ author_profile: true
 
 ## Free 45-minute Operations Audit
 
-This is the best place to start. A structured 45-minute conversation to diagnose three things:
+This is the right conversation once you want a human read on fit. Not sure it’s worth 45 minutes yet? Take the [Margin Leak Check](/leak-check/) first — eight questions, about three minutes, no calendar.
+
+The audit is a structured 45-minute conversation to diagnose three things:
 
 1. **The pressure** — what decision are you actually trying to make, and where is margin, cash, or operational control at risk
 2. **What's knowable** — what evidence you already have, what's missing, and whether waste can be located cleanly
@@ -51,6 +53,8 @@ Details on the [Services](/services/) page.
 Pick a time that works. The conversation is remote; Birmingham-area operators can meet in person if that's easier.
 
 [Book a meeting](https://outlook.office.com/bookwithme/user/f0afe7d3ade94bf48e042504c3dba116@changepointdata.com/meetingtype/BIpV74_gKECrJtk9h7sSIg2?anonymous&ismsaljsauthenabled){: .btn .btn--primary .btn--large}
+
+[Take the Margin Leak Check](/leak-check/){: .btn .btn--inverse}
 
 ---
 

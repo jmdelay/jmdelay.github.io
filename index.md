@@ -30,30 +30,58 @@ excerpt: "Find operational waste and recover margin for healthcare and regulated
   <p class="brand-tagline">Find operational waste. Recover margin. Act on staffing, pricing, and performance.</p>
 </div>
 
-## What We Do
+<div class="home-intro">
+  <img class="home-intro__photo" src="{{ '/assets/images/bio-photo.jpg' | relative_url }}" alt="John DeLay, founder of Changepoint Analytics" width="590" height="944">
+  <div class="home-intro__copy">
+    <p class="home-intro__name">I’m John DeLay.</p>
+    <p>I find where independent clinics leak margin — staffing, no-shows, collections, pricing — and hand you a system your team can run. No software platform. No strategy deck.</p>
+    <p class="home-intro__actions">
+      <a class="btn btn--inverse" href="{{ '/leak-check/' | relative_url }}">Take the Margin Leak Check</a>
+      <a class="btn btn--primary" href="{{ '/audit/' | relative_url }}">Book a free audit</a>
+    </p>
+  </div>
+</div>
 
-Changepoint Analytics is an operations intelligence partner for healthcare and regulated SMBs. We don't sell software or strategy decks. We find where money is leaking — then build lightweight systems so owners can act on it.
+## Is this you?
 
-We work most often with independent clinics, health services operators, and similar owner-led businesses under cost or margin pressure.
+<div class="pain-grid">
+  <div class="pain-card">
+    <p>Staffing is up and you still cannot say which sessions lose money.</p>
+  </div>
+  <div class="pain-card">
+    <p>You know the no-show rate. You don’t know which misses actually cost you.</p>
+  </div>
+  <div class="pain-card">
+    <p>Collections reports describe last month. They never say what to do next.</p>
+  </div>
+  <div class="pain-card">
+    <p>Two sites look equally busy. You cannot tell which one makes margin.</p>
+  </div>
+</div>
+
+<div class="outcome-row">
+  <div class="outcome-item"><strong>Protect margin</strong><span>you can already measure</span></div>
+  <div class="outcome-item"><strong>Staff with evidence</strong><span>not last year’s template</span></div>
+  <div class="outcome-item"><strong>Stop arguing</strong><span>about the numbers</span></div>
+</div>
+
+<p class="home-intro__actions">
+  <a class="btn btn--inverse" href="{{ '/leak-check/' | relative_url }}">Take the 3-minute Leak Check</a>
+  <a class="btn btn--primary" href="{{ '/audit/' | relative_url }}">Book a free Operations Audit</a>
+</p>
 
 ---
 
-## Call Changepoint when
-
-- Margins are declining and nobody can explain why
-- A business is growing but losing control of operations
-- A clinic or service organization is under financial pressure
-- Leadership suspects waste but cannot locate it
-- Departments disagree about the numbers
-- Staffing costs are rising faster than revenue
-- A turnaround, restructuring, or cost-reduction effort is beginning
-- A buyer, lender, investor, or board is demanding operational clarity
-
-[Start with a Free Operations Audit](/audit/){: .btn .btn--primary}
+<div class="proof-bar">
+  <div class="proof-item"><strong>MSPH, Biostatistics</strong><span>University of Alabama at Birmingham</span></div>
+  <div class="proof-item"><strong>Health tech + CMS</strong><span>Prior auth, Medicare quality, claims, EHR</span></div>
+  <div class="proof-item"><strong>Regulated environments</strong><span>HIPAA, IRB, bank model validation</span></div>
+  <div class="proof-item"><strong>No data-team hire</strong><span>Scoped to one staffing, pricing, or performance decision</span></div>
+</div>
 
 ---
 
-## Services
+## Three ways to work
 
 **Answer — fast clarity on one question** — Where is staffing capacity wasted? Why are collections slowing? Which locations or services underprice? One decision, plain-language recommendation, clear next step.
 
@@ -65,29 +93,23 @@ We work most often with independent clinics, health services operators, and simi
 
 ---
 
-## Why Changepoint Analytics?
-
-- **No full-time hire required** — Senior-level work scoped to a staffing, pricing, or performance problem. No recruiting, no onboarding, no ongoing salary commitment.
-- **Built for operators, not data teams** — Outputs say what to do next: where margin is leaking, what to fix, and how to act before problems get expensive.
-- **Healthcare-ops depth when it matters** — Provider operations, claims and EHR data, revenue-cycle visibility, and regulated environments — with technical credibility under the hood when the project requires it.
-
----
-
-## How Engagements Work
+## How engagements work
 
 Most relationships follow the same pattern:
 
-1. **Free Operations Audit** — A short, no-commitment look at the operating pressure, whether waste is findable, and whether the ROI path is real. We'll tell you honestly whether we can help.
-2. **Answer or scoping step** — Fixed-price clarity on one decision — often the right first paid step after the audit.
-3. **System or Engine** — When the same decision repeats, we build a lightweight system or ongoing engine. You know the scope and cost before we start.
-4. **Optional continuity** — Asynchronous, scoped support when you need it — not pseudo-employment disguised as a retainer.
+1. **Margin Leak Check** *(optional, three minutes)* — A self-serve readout of where pressure is concentrated. No email, no calendar.
+2. **Free Operations Audit** — A short, no-commitment look at the operating pressure, whether waste is findable, and whether the ROI path is real. We'll tell you honestly whether we can help.
+3. **Answer or scoping step** — Fixed-price clarity on one decision — often the right first paid step after the audit.
+4. **System or Engine** — When the same decision repeats, we build a lightweight system or ongoing engine. You know the scope and cost before we start.
 
 We're not a large agency and we're not pitching a six-figure transformation. Most engagements start small and expand only if the first project delivers.
 
 ---
 
-## Start with a Free Operations Audit
+## Not sure yet? Start without a meeting.
 
-A short, no-commitment conversation about where margin or operational control is slipping — and what's actually worth fixing.
+The Leak Check is eight questions. You get a plain-language readout — Answer, System, Engine, or no engagement — and you can book the audit from there if it's warranted.
 
-[Start with a Free Operations Audit](/audit/){: .btn .btn--primary .btn--large}
+[Take the Margin Leak Check](/leak-check/){: .btn .btn--inverse .btn--large}
+
+[Book a free Operations Audit](/audit/){: .btn .btn--primary .btn--large}

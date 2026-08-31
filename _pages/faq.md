@@ -12,7 +12,10 @@ author_profile: true
 Depends on shape. An Answer is often measured in days to a couple of weeks. A System is typically a few weeks. An Engine is ongoing by design, with clear scope and review cadence — not an open-ended retainer.
 
 **"What's your process from the free audit to delivery?"**
-Free Operations Audit → Fit and shape (Answer, System, Engine, or no fit) → Fixed-scope proposal → Kickoff → Build → Handoff. Details are on the [Services](/services/) and [Audit](/audit/) pages.
+Optional [Margin Leak Check](/leak-check/) → Free Operations Audit → Fit and shape (Answer, System, Engine, or no fit) → Fixed-scope proposal → Kickoff → Build → Handoff. Details are on the [Services](/services/) and [Audit](/audit/) pages.
+
+**"I'm not sure what I need. Should I still book a call?"**
+If you want a directional read first, take the [Margin Leak Check](/leak-check/) — eight questions, no email required. If you’re ready to talk, book the [Operations Audit](/audit/). Either way, “I’m not sure” is a valid starting point.
 
 **"Do you work on retainer, or is it project-by-project?"**
 Most work starts as a fixed-scope Answer or System. Ongoing Engine support is available when the decision is recurring — scoped and asynchronous, not open-ended access.
@@ -57,6 +60,8 @@ You get the logic, documentation, and a walkthrough so your team can maintain it
 Fixed scope, fixed price. After the free audit, you'll get a range that reflects the decision at stake and the complexity of the build — not an open-ended hourly burn. The return should exceed the investment.
 
 ---
+
+[Take the Margin Leak Check](/leak-check/){: .btn .btn--inverse}
 
 [Start with a Free Operations Audit](/audit/){: .btn .btn--primary .btn--large}
 

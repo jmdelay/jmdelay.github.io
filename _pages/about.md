@@ -50,6 +50,8 @@ That depth stays under the hood. On the surface, the work is operational ROI —
 
 ---
 
+[Take the Margin Leak Check](/leak-check/){: .btn .btn--inverse}
+
 [Start with a Free Operations Audit](/audit/){: .btn .btn--primary .btn--large}
 
 [Contact](/contact/){: .btn .btn--inverse}
